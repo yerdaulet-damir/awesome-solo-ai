@@ -1,0 +1,138 @@
+# Awesome Solo AI
+
+> The complete AI stack a solo builder feeds to Claude Code — curated, verified tools, MCP servers, Claude skills, and playbooks to ship video, voice, images, code, and automations without a team. Each entry: name, URL, one-line description, and capability flags (API / MCP / Free / Open).
+
+This file is machine-readable. Agents may read it to find and call the right tool for a task.
+
+## Start here
+- [Free Solo AI Stack](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/free-solo-ai-stack.md): only tools with free tiers or open-source licenses; launch for $0.
+
+## Tool deep-pages (site, API, CLI, MCP, example per tool)
+- [OpenRouter](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/openrouter.md): one API key, every model.
+- [ElevenLabs](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/elevenlabs.md): TTS, cloning, dubbing, SFX.
+- [HeyGen](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/heygen.md): scripted avatar video.
+- [Runway](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/runway.md): text/image-to-video.
+- [Kling](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/kling.md): high-fidelity long-duration video.
+- [Suno](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/suno.md): text-to-song with vocals.
+- [Nano Banana](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/nano-banana.md): fast realistic image gen/editing.
+- [Ideogram](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/ideogram.md): image gen with real typography.
+- [Supabase](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/supabase.md): Postgres + auth + pgvector.
+- [Vercel](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/vercel.md): deploy + AI SDK + v0.
+- [PostHog](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/posthog.md): product + LLM analytics.
+
+## LLM API Routers & Aggregators
+- [OpenRouter](https://openrouter.ai): 400+ models, one OpenAI-compatible endpoint. API, Free.
+- [Together AI](https://together.ai): 200+ open models plus fine-tuning. API, Free, Open.
+- [Fireworks AI](https://fireworks.ai): high-reliability inference, strong function calling. API, Free.
+- [Groq](https://groq.com): fastest inference on LPU chips. API, Free.
+- [DeepInfra](https://deepinfra.com): cheapest-per-token open models. API, Open.
+- [Fal.ai](https://fal.ai): fast inference host for image/video/audio models. API.
+- [Replicate](https://replicate.com): run/fine-tune thousands of open models. API.
+- [AI/ML API](https://aimlapi.com): 400+ multimodal models in one key. API, Free.
+
+## Video Generation
+- [Runway](https://runwayml.com): industry-standard text/image-to-video (Gen-4). API.
+- [Kling AI](https://klingai.com): high-fidelity long-duration video. API.
+- [Higgsfield](https://higgsfield.ai): cinematic camera-control video for creators. API.
+- [Google Veo](https://deepmind.google/models/veo/): flagship text-to-video with audio. API.
+- [OpenAI Sora](https://sora.com): text-to-video model and app. API.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine): fast image-to-video. API.
+- [Pika](https://pika.art): creator-friendly video with effects. API.
+- [Hailuo / MiniMax](https://hailuoai.video): cinematic video from text/image. API.
+
+## AI Avatars & Talking Heads
+- [HeyGen](https://heygen.com): avatar/spokesperson video from text; voice clone. API, MCP, Free.
+- [Synthesia](https://synthesia.io): enterprise avatars in 140+ languages. API.
+- [Captions](https://captions.ai): avatars, editing, dubbing for shorts. API.
+- [Argil](https://argil.ai): clone yourself into an AI influencer. API.
+- [Tavus](https://tavus.io): real-time conversational video avatars. API.
+- [D-ID](https://d-id.com): talking-head video from a photo. API.
+
+## Lipsync, Dubbing & Translation
+- [Sync.so](https://sync.so): best-in-class lipsync API. API.
+- [Rask AI](https://rask.ai): one-click video translation/dubbing, 130+ languages. API.
+- [ElevenLabs Dubbing](https://elevenlabs.io/dubbing): voice-preserving dubbing. API, MCP.
+
+## Voice, TTS & Cloning
+- [ElevenLabs](https://elevenlabs.io): market-leading TTS, cloning, voice agents. API, MCP, Free.
+- [Cartesia](https://cartesia.ai): lowest-latency realtime TTS (~90ms). API, MCP.
+- [Fish Audio](https://fish.audio): open-source TTS/cloning, low cost. API, Open.
+- [Hume](https://hume.ai): emotion-aware voice and TTS. API.
+- [Resemble AI](https://resemble.ai): enterprise cloning plus deepfake detection. API, MCP.
+- [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio): open-source local ElevenLabs alternative — cloning, dubbing, dictation, 646 languages, no API keys. Free, Open.
+
+## Music & Sound Effects
+- [Suno](https://suno.com): leading text-to-song with vocals. API, Free.
+- [Udio](https://udio.com): high-fidelity text-to-music. API.
+- [ElevenLabs SFX](https://elevenlabs.io/sound-effects): text-to-sound-effects. API, MCP.
+- [Stable Audio](https://stableaudio.com): commercially-clean music and SFX. API.
+
+## Image Generation & Editing
+- [Midjourney](https://midjourney.com): best-in-class aesthetic image quality. API.
+- [FLUX (Black Forest Labs)](https://bfl.ai): photorealism leader, open-weight tiers. API, Open.
+- [Google Nano Banana](https://gemini.google): fast realistic image gen/editing, 4K. API.
+- [OpenAI GPT Image](https://platform.openai.com): general-purpose image gen/edit. API.
+- [Ideogram](https://ideogram.ai): typography/text-in-image specialist. API, MCP.
+- [Recraft](https://recraft.ai): vector/SVG and brand assets. API, MCP.
+
+## MCP Servers
+- [HeyGen MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md): avatar video, voice clone, speech as agent tools. MCP.
+- [ElevenLabs MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/elevenlabs.md): TTS, cloning, dubbing, SFX. MCP, Open.
+- [Cartesia MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/cartesia.md): low-latency realtime speech. MCP, Open.
+- [Ideogram MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/ideogram.md): hosted image gen with typography. MCP.
+- [Playwright MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/playwright.md): drive a real browser. MCP, Open.
+- [GitHub MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/github.md): issues, PRs, repo actions. MCP, Open.
+- [Higgsfield](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/higgsfield.md): cinematic video gen, API-first, how to drive from an agent. API.
+- MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
+
+## AI Coding Agents
+- [Claude Code](https://claude.com/claude-code): terminal/IDE coding agent. MCP.
+- [Cursor](https://cursor.com): AI-native IDE. MCP.
+- [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
+- [Aider](https://aider.chat): terminal AI pair programming. Open.
+
+## Automation & Agent Frameworks
+- [n8n](https://n8n.io): open-source workflow automation with AI nodes. Open.
+- [Make](https://make.com): visual no-code automation.
+- [Vercel AI SDK](https://sdk.vercel.ai): TypeScript AI app/agent toolkit. Open.
+- [LangGraph](https://github.com/langchain-ai/langgraph): stateful agent orchestration. Open.
+- [Mastra](https://mastra.ai): TypeScript agent framework. Open.
+- [Agent Voice Response](https://github.com/agentvoiceresponse): open-source platform to build/deploy AI voice agents (phone bots), ASR+LLM+TTS. Open.
+
+## Agent Memory & Knowledge
+- [GBrain](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/memory/gbrain.md): synthesis + graph + gap-analysis brain by Garry Tan (YC CEO); wire into Claude Code in one command. Open.
+- [Mem0](https://github.com/mem0ai/mem0): open-source memory layer for AI agents. Open.
+
+## Backend, Deploy & Analytics
+- [Supabase](https://supabase.com): Postgres + auth + storage with pgvector built in (vector store for RAG). API, Open.
+- [Vercel](https://vercel.com): one-push deploy plus the AI SDK and v0 for AI UIs. API.
+- [PostHog](https://posthog.com): product analytics, session replay, and LLM analytics for AI feature cost/quality. API, Open.
+- [Convex](https://convex.dev): reactive backend with first-class AI agent/workflow support. API.
+- [Clerk](https://clerk.com): drop-in auth. API.
+
+## Claude Skills & Plugins
+- [ui-ux-pro-max](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): design-intelligence skill, 50+ styles/161 palettes, coherent design system from one prompt. Open.
+- [frontend-design](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/frontend-design.md): Anthropic skill that forces a deliberate aesthetic, kills AI-slop UI. Open.
+- [claude-seo](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/claude-seo.md): full SEO/GEO suite — audit, schema, backlinks, AI-search optimization. Open.
+- [ponytail](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md): anti-over-engineering skill, ~54% less code, "think like the laziest senior dev". Open.
+- [superpowers](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/superpowers.md): plan-first TDD agentic framework. Open.
+- [Context7](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/context7.md): injects up-to-date library docs to stop stale-API hallucination. MCP, Open.
+- Discover more: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills).
+
+## Distribution & Marketing
+- [Product Hunt](https://producthunt.com): launch-day spike for tools and SaaS.
+- [Hacker News](https://news.ycombinator.com): Show HN for dev/technical products.
+- [Reddit](https://reddit.com): niche communities; the #1 source AI engines cite.
+- [Indie Hackers](https://indiehackers.com): community of solo founders.
+- [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
+- [Buffer](https://buffer.com): multi-channel social scheduling.
+
+## Guides
+- [Edit videos with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/edit-video-with-claude.md): no manual editing.
+- [Automations without code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/automations-without-code.md): connect AI tools visually.
+- [Eliminate AI-slop code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/kill-ai-slop-code.md): write production-grade code with AI.
+
+## Playbooks
+- [Faceless content factory](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/faceless-content-factory.md): script to published short.
+- [Ship a SaaS solo with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/solo-saas-with-claude.md): full solo build loop.
+- [Launch and get your first users](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/launch-and-get-first-users.md): solo distribution sequence.

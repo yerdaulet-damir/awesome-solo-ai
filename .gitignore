@@ -1,0 +1,26 @@
+# --- Internal / strategy files — never publish ---
+LAUNCH.md
+GEO-ANALYSIS.md
+*INTERNAL*
+*.internal.md
+internal/
+_internal/
+notes/
+strategy/
+
+# --- OS / editor junk ---
+.DS_Store
+Thumbs.db
+*.swp
+*~
+.idea/
+.vscode/
+
+# --- Dependencies / build (in case a companion site is added) ---
+node_modules/
+dist/
+build/
+.cache/
+*.log
+.env
+.env.*
