@@ -1,0 +1,325 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0" />
+<script>document.documentElement.className='js'</script>
+<title>Awesome Solo AI — the AI stack solo builders feed to Claude Code</title>
+<meta name="description" content="Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders — the one-person-company AI stack you feed to Claude Code." />
+<meta name="robots" content="index, follow, max-image-preview:large" />
+<meta name="author" content="Yerdaulet Damir" />
+<link rel="canonical" href="https://yerdaulet-damir.github.io/awesome-solo-ai/" />
+<meta name="theme-color" content="#080b0a" />
+<meta property="og:type" content="website" />
+<meta property="og:site_name" content="Awesome Solo AI" />
+<meta property="og:title" content="Awesome Solo AI — the AI stack solo builders feed to Claude Code" />
+<meta property="og:description" content="Curated AI tools, Claude skills, MCP servers & growth playbooks for solopreneurs, indie hackers and solo founders." />
+<meta property="og:url" content="https://yerdaulet-damir.github.io/awesome-solo-ai/" />
+<meta property="og:image" content="https://yerdaulet-damir.github.io/awesome-solo-ai/og.png" />
+<meta name="twitter:card" content="summary_large_image" />
+<meta name="twitter:title" content="Awesome Solo AI — the AI stack solo builders feed to Claude Code" />
+<meta name="twitter:description" content="The one-person-company AI stack: tools, Claude skills, MCP servers & playbooks." />
+<meta name="twitter:image" content="https://yerdaulet-damir.github.io/awesome-solo-ai/og.png" />
+<meta name="twitter:creator" content="@aimyerdaulet" />
+<link rel="preconnect" href="https://fonts.googleapis.com" />
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin />
+<link href="https://fonts.googleapis.com/css2?family=Space+Grotesk:wght@400;500;700&family=JetBrains+Mono:wght@400;500&display=swap" rel="stylesheet" />
+
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"Person","name":"Yerdaulet Damir","url":"https://yerdaulet.xyz","jobTitle":"AI Engineer","sameAs":["https://github.com/yerdaulet-damir","https://x.com/aimyerdaulet","https://linkedin.com/in/yerdaulet-damir"]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"ItemList","name":"Awesome Solo AI","description":"The AI stack solo builders feed to Claude Code.","itemListElement":[{"@type":"SoftwareApplication","position":1,"name":"OpenRouter","applicationCategory":"DeveloperApplication"},{"@type":"SoftwareApplication","position":2,"name":"ElevenLabs","applicationCategory":"MultimediaApplication"},{"@type":"SoftwareApplication","position":3,"name":"HeyGen","applicationCategory":"MultimediaApplication"},{"@type":"SoftwareApplication","position":4,"name":"Supabase","applicationCategory":"DeveloperApplication"}]}
+</script>
+<script type="application/ld+json">
+{"@context":"https://schema.org","@type":"FAQPage","mainEntity":[{"@type":"Question","name":"What is the best AI stack for a solopreneur?","acceptedAnswer":{"@type":"Answer","text":"A solo AI stack pairs an LLM router (OpenRouter), voice (ElevenLabs), avatar video (HeyGen), images (Nano Banana / Ideogram), a backend with vector search (Supabase), and Claude Code as the hub that drives them via MCP servers."}},{"@type":"Question","name":"Where is the HeyGen MCP?","acceptedAnswer":{"@type":"Answer","text":"HeyGen ships an official MCP server that lets an AI agent generate avatar videos, clone voices, and create speech directly from Claude Code."}},{"@type":"Question","name":"What is the ponytail Claude skill?","acceptedAnswer":{"@type":"Answer","text":"ponytail is a Claude Code skill that stops agents from over-engineering, cutting roughly half the code by preferring native platform features."}}]}
+</script>
+
+<style>
+  *{margin:0;padding:0;box-sizing:border-box}
+  :root{
+    --bg:#080b0a; --surface:#0e1413; --border:rgba(255,255,255,.08);
+    --text:#e9edec; --muted:#8b9692; --accent:#0d9488; --accent-bright:#19e3c2;
+    --mono:'JetBrains Mono',ui-monospace,monospace; --display:'Space Grotesk',system-ui,sans-serif;
+    --ease:cubic-bezier(.22,1,.36,1);
+  }
+  html{-webkit-font-smoothing:antialiased}
+  body{background:var(--bg);color:var(--text);font-family:var(--display);line-height:1.6;overflow-x:hidden}
+  body.loading{overflow:hidden;height:100vh}
+  ::selection{background:var(--accent);color:#03110e}
+  a{color:inherit;text-decoration:none}
+  .wrap{max-width:1080px;margin:0 auto;padding:0 28px;position:relative;z-index:2}
+  .mono{font-family:var(--mono)}
+  .accent{color:var(--accent-bright)}
+  .muted{color:var(--muted)}
+
+  #pre{position:fixed;inset:0;z-index:100;background:var(--bg);display:flex;align-items:flex-end;justify-content:space-between;padding:48px 28px}
+  #pre .lbl{font-family:var(--mono);font-size:13px;color:var(--muted);letter-spacing:.1em}
+  #pre .cnt{font-family:var(--mono);font-size:clamp(64px,16vw,200px);font-weight:500;line-height:.9;color:var(--text)}
+  #pre .cnt sup{font-size:.3em;color:var(--accent-bright);vertical-align:super}
+
+  nav{position:fixed;top:0;left:0;right:0;z-index:40;display:flex;align-items:center;justify-content:space-between;padding:20px 28px;font-family:var(--mono);font-size:13px;mix-blend-mode:difference}
+  nav .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent-bright);margin-right:8px;animation:blink 1.4s steps(1) infinite}
+  @keyframes blink{50%{opacity:.25}}
+
+  #scene{position:fixed;inset:0;z-index:0;pointer-events:none}
+
+  header{min-height:100vh;display:flex;flex-direction:column;justify-content:center;position:relative;padding:120px 0 60px}
+  .hero-inner{will-change:transform,opacity}
+  .eyebrow{font-family:var(--mono);font-size:13px;letter-spacing:.18em;color:var(--accent-bright);margin-bottom:22px;min-height:1em}
+  h1{font-family:var(--display);font-weight:700;font-size:clamp(38px,8vw,92px);line-height:1.02;letter-spacing:-.02em;max-width:14ch}
+  h1 .line{display:block;overflow:hidden}
+  h1 .line span{display:block}
+  .sub{margin-top:26px;font-size:clamp(16px,2.2vw,21px);color:var(--muted);max-width:52ch}
+  .cta{margin-top:38px;display:flex;gap:14px;flex-wrap:wrap}
+  .btn{font-family:var(--mono);font-size:14px;padding:13px 22px;border-radius:8px;border:1px solid var(--border);transition:.35s var(--ease);display:inline-flex;align-items:center;gap:9px}
+  .btn.primary{background:var(--accent);color:#03110e;border-color:var(--accent)}
+  .btn.primary:hover{background:var(--accent-bright);transform:translateY(-2px)}
+  .btn.ghost:hover{border-color:var(--accent-bright);color:var(--accent-bright)}
+  .term{margin-top:40px;max-width:640px;background:rgba(14,20,19,.72);backdrop-filter:blur(6px);border:1px solid var(--border);border-radius:12px;font-family:var(--mono);font-size:13.5px;overflow:hidden}
+  .term .bar{display:flex;gap:7px;padding:12px 16px;border-bottom:1px solid var(--border)}
+  .term .bar i{width:11px;height:11px;border-radius:50%;background:#2a3331;display:block}
+  .term .body{padding:18px 20px;color:var(--muted);white-space:pre-wrap;line-height:1.8}
+  .term .body b{color:var(--accent-bright);font-weight:500}
+  .term .body .u{color:var(--text)}
+
+  section{padding:120px 0;border-top:1px solid var(--border);position:relative;z-index:2;background:var(--bg)}
+  .shead{font-family:var(--mono);font-size:13px;color:var(--accent-bright);letter-spacing:.14em;margin-bottom:14px}
+  .stitle{font-size:clamp(26px,4.5vw,44px);font-weight:500;letter-spacing:-.01em;max-width:20ch}
+
+  .grid{margin-top:46px;display:grid;grid-template-columns:repeat(auto-fit,minmax(220px,1fr));gap:14px}
+  .card{background:var(--surface);border:1px solid var(--border);border-radius:14px;padding:24px;transition:border-color .4s var(--ease),transform .4s var(--ease);will-change:transform}
+  .card:hover{transform:translateY(-4px);border-color:rgba(25,227,194,.35)}
+  .card .k{font-family:var(--mono);font-size:12px;color:var(--muted);letter-spacing:.08em}
+  .card .v{font-size:22px;font-weight:500;margin-top:8px}
+  .card .d{color:var(--muted);font-size:14px;margin-top:8px;line-height:1.5}
+  .card .v .tag{font-family:var(--mono);font-size:11px;color:var(--accent-bright);margin-left:8px;vertical-align:middle}
+
+  .author{background:var(--surface);border:1px solid var(--border);border-radius:18px;padding:clamp(28px,5vw,52px);margin-top:46px}
+  .author h3{font-size:clamp(22px,3.5vw,32px);font-weight:500;letter-spacing:-.01em}
+  .author p{color:var(--muted);margin-top:16px;max-width:64ch;font-size:16.5px}
+  .author .links{margin-top:26px;display:flex;gap:10px;flex-wrap:wrap;font-family:var(--mono);font-size:13px}
+  .author .links a{padding:9px 16px;border:1px solid var(--border);border-radius:8px;transition:.3s var(--ease)}
+  .author .links a:hover{border-color:var(--accent-bright);color:var(--accent-bright)}
+  .author .open{margin-top:22px;font-family:var(--mono);font-size:13px;color:var(--accent-bright)}
+
+  footer{padding:50px 0 70px;border-top:1px solid var(--border);font-family:var(--mono);font-size:13px;color:var(--muted);position:relative;z-index:2;background:var(--bg)}
+  footer .wrap{display:flex;justify-content:space-between;flex-wrap:wrap;gap:14px}
+
+  .js .reveal{opacity:0;transform:translateY(28px)}
+  @media (prefers-reduced-motion:reduce){.js .reveal{opacity:1!important;transform:none!important}}
+</style>
+</head>
+<body class="loading">
+
+<div id="pre">
+  <span class="lbl">LOADING — AWESOME SOLO AI</span>
+  <span class="cnt"><span id="num">0</span><sup>%</sup></span>
+</div>
+
+<nav>
+  <span><span class="dot"></span>awesome-solo-ai</span>
+  <span class="muted">solopreneur · indie · solo founder</span>
+</nav>
+
+<canvas id="scene"></canvas>
+
+<header>
+  <div class="wrap hero-inner">
+    <div class="eyebrow" data-scramble="// THE AI STACK YOU FEED TO CLAUDE CODE">// THE AI STACK YOU FEED TO CLAUDE CODE</div>
+    <h1>
+      <span class="line"><span>Build a company</span></span>
+      <span class="line"><span>of <span class="accent">one</span></span></span>
+    </h1>
+    <p class="sub reveal">Curated AI tools, Claude skills, MCP servers &amp; growth playbooks for solopreneurs, indie hackers and solo founders. Verified, kept fresh, machine-readable.</p>
+    <div class="cta reveal">
+      <a class="btn primary" href="https://github.com/yerdaulet-damir/awesome-solo-ai">★ Star on GitHub</a>
+      <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/llms.txt">Feed to your agent →</a>
+    </div>
+    <div class="term reveal">
+      <div class="bar"><i></i><i></i><i></i></div>
+      <div class="body"><span class="muted">$</span> claude <span class="u">"read awesome-solo-ai/llms.txt —</span>
+<span class="u">  which tool makes a talking-head video, and does it have an MCP?"</span>
+
+<b>→</b> <span class="u">HeyGen</span> — avatar video from a script. <b>MCP: yes.</b> <span class="muted">see /mcp/heygen.md</span></div>
+    </div>
+  </div>
+</header>
+
+<section>
+  <div class="wrap">
+    <div class="shead reveal">★ THE STARTER STACK</div>
+    <h2 class="stitle reveal">If you only pick a few, pick these.</h2>
+    <div class="grid" id="stack">
+      <div class="card reveal"><div class="k">LLM ACCESS</div><div class="v">OpenRouter</div><div class="d">One key, every model. Free tier.</div></div>
+      <div class="card reveal"><div class="k">VOICE</div><div class="v">ElevenLabs<span class="tag">MCP</span></div><div class="d">Best TTS, cloning &amp; dubbing.</div></div>
+      <div class="card reveal"><div class="k">AVATAR VIDEO</div><div class="v">HeyGen<span class="tag">MCP</span></div><div class="d">Scripted talking-head video.</div></div>
+      <div class="card reveal"><div class="k">IMAGE</div><div class="v">Nano Banana</div><div class="d">Fast, realistic, 4K editing.</div></div>
+      <div class="card reveal"><div class="k">BACKEND + RAG</div><div class="v">Supabase</div><div class="d">Postgres + auth + pgvector.</div></div>
+      <div class="card reveal"><div class="k">DEPLOY</div><div class="v">Vercel</div><div class="d">One push + the AI SDK &amp; v0.</div></div>
+      <div class="card reveal"><div class="k">ANALYTICS</div><div class="v">PostHog</div><div class="d">Product + LLM analytics.</div></div>
+      <div class="card reveal"><div class="k">AGENT</div><div class="v">Claude Code</div><div class="d">The hub that drives it all.</div></div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="shead reveal">// MAINTAINED BY</div>
+    <div class="author reveal">
+      <h3>Yerdaulet Damir</h3>
+      <p>An AI engineer and AI-native developer who works at CTO / tech-lead level: senior, high-agency, full end-to-end ownership, with real product taste. Part builder, part indie researcher. Ships AI agents and AI SaaS (one platform does 20k+ video/image generations a month), wrote the low-code &amp; vibe-coding course for Astana Hub — Central Asia's largest tech hub — and will take any problem, at any level, and grind it to done.</p>
+      <div class="links">
+        <a href="https://yerdaulet.xyz">yerdaulet.xyz</a>
+        <a href="https://github.com/yerdaulet-damir">GitHub</a>
+        <a href="https://x.com/aimyerdaulet">X</a>
+        <a href="https://linkedin.com/in/yerdaulet-damir">LinkedIn</a>
+      </div>
+      <div class="open">→ open to building with ambitious teams · YC · SF · London</div>
+    </div>
+  </div>
+</section>
+
+<section>
+  <div class="wrap">
+    <div class="shead reveal">// FAQ</div>
+    <h2 class="stitle reveal">Questions builders &amp; agents ask.</h2>
+    <div style="margin-top:40px;display:grid;gap:26px;max-width:760px">
+      <div class="reveal"><h3 style="font-size:18px;font-weight:500">What is the best AI stack for a solopreneur?</h3><p class="muted" style="margin-top:8px">An LLM router (<a class="accent" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/openrouter.md">OpenRouter</a>), voice (<a class="accent" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/elevenlabs.md">ElevenLabs</a>), avatar video (<a class="accent" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/heygen.md">HeyGen</a>), images (Nano Banana / Ideogram), a backend with vector search (<a class="accent" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/supabase.md">Supabase</a>), and Claude Code as the hub that drives them via MCP servers.</p></div>
+      <div class="reveal"><h3 style="font-size:18px;font-weight:500">Where is the HeyGen MCP?</h3><p class="muted" style="margin-top:8px"><a class="accent" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md">HeyGen ships an official MCP server</a> that lets an AI agent generate avatar videos, clone voices, and create speech directly from Claude Code.</p></div>
+      <div class="reveal"><h3 style="font-size:18px;font-weight:500">What is the ponytail Claude skill?</h3><p class="muted" style="margin-top:8px"><a class="accent" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md">ponytail</a> is a Claude Code skill that stops agents from over-engineering — cutting roughly half the code by preferring native platform features.</p></div>
+    </div>
+    <div class="reveal" style="margin-top:46px;display:flex;flex-wrap:wrap;gap:10px;font-family:var(--mono);font-size:13px">
+      <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai#readme">Browse the full list →</a>
+      <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/tools">Tools</a>
+      <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/mcp">MCP servers</a>
+      <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/skills">Skills</a>
+      <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/free-solo-ai-stack.md">Free stack</a>
+    </div>
+  </div>
+</section>
+
+<footer>
+  <div class="wrap">
+    <span>awesome-solo-ai · curated by Yerdaulet Damir</span>
+    <span class="muted">Three.js · GSAP · Lenis</span>
+  </div>
+</footer>
+
+<script src="https://cdnjs.cloudflare.com/ajax/libs/three.js/r128/three.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/gsap.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.12.5/ScrollTrigger.min.js"></script>
+<script src="https://cdn.jsdelivr.net/npm/@studio-freight/lenis@1.0.42/dist/lenis.min.js"></script>
+<script>
+(function(){
+  var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
+  var mobile = window.innerWidth < 760;
+
+  /* ---------- Three.js hero scene (playbook: rotating icosahedron, teal MeshStandardMaterial, ambient + directional light) ---------- */
+  var spin = {v:0};
+  if(window.THREE && !reduce){
+    try{
+      var cv=document.getElementById('scene');
+      var renderer=new THREE.WebGLRenderer({canvas:cv,alpha:true,antialias:!mobile});
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, mobile?1.5:2)); // perf: cap DPR
+      var scene=new THREE.Scene();
+      var camera=new THREE.PerspectiveCamera(45,innerWidth/innerHeight,.1,100); camera.position.z=5;
+      var geo=new THREE.IcosahedronGeometry(1.6, mobile?0:1); // lower detail on mobile
+      var mat=new THREE.MeshStandardMaterial({color:0x0d9488,flatShading:true,metalness:.3,roughness:.45});
+      var mesh=new THREE.Mesh(geo,mat); scene.add(mesh);
+      var wire=new THREE.LineSegments(new THREE.WireframeGeometry(geo), new THREE.LineBasicMaterial({color:0x19e3c2,transparent:true,opacity:.25}));
+      mesh.add(wire);
+      scene.add(new THREE.AmbientLight(0x6fe9d4,.55));
+      var dir=new THREE.DirectionalLight(0xffffff,1.1); dir.position.set(3,4,5); scene.add(dir);
+      function place(){ mesh.position.x = mobile?0 : 2.1; mesh.position.y = mobile?1.4:.2; }
+      place();
+      var mx=0,my=0;
+      if(!mobile) addEventListener('pointermove',function(e){ mx=(e.clientX/innerWidth-.5); my=(e.clientY/innerHeight-.5); });
+      var running=true;
+      document.addEventListener('visibilitychange',function(){running=!document.hidden;});
+      function loop(){
+        requestAnimationFrame(loop); if(!running) return;
+        mesh.rotation.x += .0026; mesh.rotation.y += .0034;
+        mesh.rotation.x += (my*.4 - mesh.rotation.x*0)*0; // parallax target
+        mesh.rotation.y += mx*.0006;
+        mesh.scale.setScalar(1 + spin.v*0.55);
+        mesh.rotation.z = spin.v*1.2;
+        renderer.render(scene,camera);
+      }
+      loop();
+      addEventListener('resize',function(){
+        camera.aspect=innerWidth/innerHeight; camera.updateProjectionMatrix();
+        renderer.setSize(innerWidth,innerHeight); mobile=innerWidth<760; place();
+      });
+      renderer.setSize(innerWidth,innerHeight);
+    }catch(e){ /* webgl unsupported — fine, hero still works */ }
+  }
+
+  /* ---------- fail-safe: no GSAP -> show everything ---------- */
+  if(!window.gsap){
+    document.documentElement.classList.remove('js');
+    var p0=document.getElementById('pre'); if(p0) p0.style.display='none';
+    document.body.classList.remove('loading');
+    return;
+  }
+  gsap.registerPlugin(window.ScrollTrigger);
+
+  /* ---------- Lenis smooth scroll wired to ScrollTrigger (playbook) ---------- */
+  if(window.Lenis && !reduce){
+    var lenis=new Lenis({lerp:.09});
+    function raf(t){lenis.raf(t);requestAnimationFrame(raf)} requestAnimationFrame(raf);
+    lenis.on('scroll',ScrollTrigger.update);
+  }
+
+  /* ---------- text-scramble intro (playbook: headline chars decode into place) ---------- */
+  function scramble(el){
+    var fin=el.getAttribute('data-scramble'); var chars='!<>-_\\/[]{}=+*^?#'; var frame=0;
+    var queue=fin.split('').map(function(c,i){return {c:c,start:Math.floor(i*1.4),end:Math.floor(i*1.4)+12};});
+    function tick(){
+      var out='',done=0;
+      for(var i=0;i<queue.length;i++){var q=queue[i];
+        if(frame>=q.end){done++;out+=q.c;}
+        else if(frame>=q.start){ if(!q.r||Math.random()<.28)q.r=chars[Math.floor(Math.random()*chars.length)]; out+='<span style="color:var(--accent)">'+q.r+'</span>'; }
+        else out+='';
+      }
+      el.innerHTML=out; frame++;
+      if(done<queue.length) requestAnimationFrame(tick);
+      else el.innerHTML=fin;
+    }
+    tick();
+  }
+
+  function start(){
+    gsap.set('h1 .line span',{yPercent:110});
+    gsap.to('h1 .line span',{yPercent:0,duration:1.05,ease:'power3.inOut',stagger:.12,onStart:function(){
+      var ey=document.querySelector('[data-scramble]'); if(ey&&!reduce) scramble(ey);
+    }});
+    gsap.utils.toArray('.reveal').forEach(function(el){
+      gsap.to(el,{opacity:1,y:0,duration:.9,ease:'power3.inOut',scrollTrigger:{trigger:el,start:'top 88%'}});
+    });
+    /* pinned + scrubbed hero: 3D scales/rotates, content fades as you scroll (playbook scroll storytelling) */
+    if(!reduce && !mobile){
+      gsap.to(spin,{v:1,ease:'none',scrollTrigger:{trigger:'header',start:'top top',end:'+=700',scrub:1}});
+      gsap.to('.hero-inner',{opacity:0,y:-60,ease:'none',scrollTrigger:{trigger:'header',start:'top top',end:'+=500',scrub:1}});
+    }
+    ScrollTrigger.refresh();
+  }
+
+  /* ---------- cinematic loader: 0->100% then wipe (playbook, min duration) ---------- */
+  var pre=document.getElementById('pre'), num=document.getElementById('num');
+  var seen=false; try{seen=sessionStorage.getItem('asa_seen')}catch(e){}
+  if(reduce||seen){ document.body.classList.remove('loading'); pre.style.display='none'; start(); return; }
+  try{sessionStorage.setItem('asa_seen','1')}catch(e){}
+  var t0=Date.now(), MIN=1900, prog={v:0};
+  gsap.to(prog,{v:100,duration:1.7,ease:'power2.inOut',onUpdate:function(){num.textContent=Math.round(prog.v)}});
+  function done(){
+    document.body.classList.remove('loading');
+    gsap.to(pre,{yPercent:-100,duration:1,ease:'power4.inOut',onComplete:function(){pre.style.display='none'}});
+    start();
+  }
+  addEventListener('load',function(){ setTimeout(done, Math.max(0,MIN-(Date.now()-t0))); });
+  setTimeout(function(){ if(document.body.classList.contains('loading')) done(); },4200);
+})();
+</script>
+</body>
+</html>
