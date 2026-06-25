@@ -19,7 +19,6 @@ Thumbs.db
 # --- Dependencies / build (in case a companion site is added) ---
 node_modules/
 dist/
-build/
 .cache/
 *.log
 .env
