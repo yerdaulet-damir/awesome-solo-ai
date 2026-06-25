@@ -14,6 +14,17 @@ A **MCP server** exposes a tool (an API, a browser, a filesystem) to an AI agent
 ## Dev & automation
 - [Playwright MCP](playwright.md) — drive a real browser for testing and scraping.
 - [GitHub MCP](github.md) — issues, PRs, and repo actions from your agent.
+- [Browserbase MCP](browserbase.md) — cloud browser automation: clicks, form fills, screenshots, JS-gated pages.
+- [Supabase MCP](supabase-mcp.md) — query data, manage tables, generate TypeScript types, fetch logs from your Supabase project.
+- [Sequential Thinking MCP](sequential-thinking.md) — structured step-by-step reasoning before acting; #1 by usage on Smithery.
+
+## Search & reading
+- [Exa MCP](exa.md) — semantic web search returning structured JSON; #1 most-used search MCP in 2026.
+- [Firecrawl MCP](firecrawl.md) — convert any URL (JS pages, PDFs, Word docs) to clean Markdown; 12+ tools including full-site crawl.
+
+## Productivity & billing
+- [Stripe MCP](stripe.md) — inspect customers, subscriptions, payments, and disputes from inside Claude.
+- [Notion MCP](notion-mcp.md) — read/write Notion docs, query databases, update pages; official Notion server.
 
 ## Where to discover more
 - [Official MCP Registry](https://github.com/modelcontextprotocol/registry) — Anthropic's canonical index.

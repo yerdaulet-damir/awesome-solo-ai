@@ -15,6 +15,15 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + optional sc
 - [ponytail](ponytail.md) — makes the agent write ~54% less code by thinking like a lazy senior dev.
 - [superpowers](superpowers.md) — plan-first, test-driven agentic workflow.
 - [context7](context7.md) — injects up-to-date library docs so the agent stops hallucinating APIs.
+- [karpathy-skills](karpathy.md) — four rules from Andrej Karpathy that stop Claude from coding on wrong assumptions (~144k stars, fastest-growing skill 2026).
+
+## Cost & session length
+- [caveman](caveman.md) — cuts Claude output tokens by ~65% and shrinks CLAUDE.md by ~46% without losing technical accuracy.
+- [context-mode](context-mode.md) — filters shell noise from context and survives Claude resets; sessions that died at 30 min now run for hours.
+
+## Build & verify
+- [webapp-testing](webapp-testing.md) — official Anthropic skill: tests your local app in a real Playwright browser, catching JS errors invisible to static analysis.
+- [mcp-builder](mcp-builder.md) — official Anthropic skill: guided workflow for shipping your own MCP server from any API or tool, no spec-reading required.
 
 ---
 
