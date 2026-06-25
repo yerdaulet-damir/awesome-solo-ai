@@ -83,6 +83,14 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Playwright MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/playwright.md): drive a real browser. MCP, Open.
 - [GitHub MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/github.md): issues, PRs, repo actions. MCP, Open.
 - [Higgsfield](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/higgsfield.md): cinematic video gen, API-first, how to drive from an agent. API.
+- [Clawvisor MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/clawvisor.md): API gateway — agent declares scope, you approve once, credentials injected at execution, never exposed to agent. Audit log included. Open.
+- [Exa MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/exa.md): semantic web search returning structured JSON for agents. MCP.
+- [Firecrawl MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/firecrawl.md): any URL to clean Markdown, full-site crawl, structured extraction. MCP.
+- [Stripe MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/stripe.md): inspect customers, subscriptions, payments, churn in plain language. MCP.
+- [Supabase MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/supabase-mcp.md): query tables, run migrations, generate TypeScript types, read logs. MCP, Open.
+- [Notion MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/notion-mcp.md): read/write Notion docs and databases from an agent. MCP.
+- [Browserbase MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/browserbase.md): cloud browser for real clicks, form fills, screenshots. MCP.
+- [Sequential Thinking MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/sequential-thinking.md): externalises step-by-step reasoning before action, #1 by usage on Smithery. Open.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
