@@ -2,6 +2,8 @@
 
 > The home base for **solopreneurs, indie hackers, and solo founders** — every AI tool, Claude skill, MCP server, playbook, and growth tactic to **build *and* grow** a one-person company, curated and kept fresh, that you feed to Claude Code.
 
+> _"The best companies of the next decade will be built by one person with the right tools and the discipline to ship."_
+
 **A solo AI stack is the set of tools, Claude skills, MCP servers, and playbooks a one-person business uses to build, ship, and grow a product — making video, voice, images, code, automations, and distribution without hiring a team.** This list curates that stack: every entry is verified, dead links are pruned, and the whole thing is published as [`llms.txt`](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/llms.txt) so your AI agent can read it and call any tool here.
 
 _Last updated: June 2026 · Curated by a working solo builder, not auto-generated._
@@ -34,8 +36,11 @@ _Last updated: June 2026 · Curated by a working solo builder, not auto-generate
 - [Backend, Deploy & Analytics](#backend-deploy--analytics)
 - [Distribution & Marketing](#distribution--marketing)
 - [💸 Free Solo AI Stack](free-solo-ai-stack.md) — only the free-tier & open-source tools
+- [🔨 Build Your Own AI X](#-build-your-own-ai-x) — step-by-step guides to ship real AI products
 - [Guides](#guides) — tutorials, Karpathy/Kaggle-style
 - [Playbooks](#playbooks) — end-to-end solo workflows
+- [🔓 Open-Source Alternatives](open-source/) — every closed tool has an OSS swap
+- [📣 Distribution & Marketing](distribution/) — where and how to launch
 - [FAQ](#faq)
 - [Contributing](#contributing)
 - [Maintained by](#maintained-by)
@@ -245,6 +250,21 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 
 ---
 
+## 🔨 Build Your Own AI X
+
+Step-by-step guides to ship real AI products solo. Each guide names the exact stack, the steps, and what it costs — so you know what you're getting into before you start. See [`/build`](build/).
+
+- [Build your own MCP server](build/your-own-mcp-server.md) — turn any API into a Claude Code tool, in an afternoon
+- [Build your own AI voice app](build/your-own-ai-voice-app.md) — TTS, cloning, or a full voice assistant
+- [Build your own AI SaaS](build/your-own-ai-saas.md) — the full revenue stack, $0 to first $100 MRR
+- [Build your own AI avatar video pipeline](build/your-own-avatar-video.md) — script → voice → talking head, fully automated
+- [Build your own RAG chatbot over your docs](build/your-own-rag-chatbot.md) — ingest any docs, deploy a chatbot in a weekend
+- [Build your own AI Chrome extension](build/your-own-ai-chrome-extension.md) — the lowest-CAC AI product model
+- [Build your own faceless content machine](build/your-own-faceless-content-machine.md) — one idea → video → published, no face required
+- [Build your own AI agent](build/your-own-ai-agent.md) — a scheduled job that runs without you
+
+---
+
 ## Guides
 
 Hands-on, practical tutorials — Karpathy/Kaggle energy, not theory. See [`/guides`](guides).
@@ -260,6 +280,13 @@ End-to-end workflows a solo builder can copy. See [`/playbooks`](playbooks).
 - [Faceless short-form content factory (script → voice → avatar → publish)](playbooks/faceless-content-factory.md)
 - [Ship a SaaS solo with Claude Code + MCP](playbooks/solo-saas-with-claude.md)
 - [Launch and get your first users (solo)](playbooks/launch-and-get-first-users.md)
+- [Build a RAG chatbot over your docs in a weekend](playbooks/rag-chatbot-over-docs.md)
+- [Turn a YouTube channel into a newsletter + content flywheel](playbooks/youtube-to-newsletter.md)
+- [Ship an AI Chrome extension in 72 hours](playbooks/ai-chrome-extension.md)
+- [Automate cold outreach personalization at scale](playbooks/cold-outreach-personalization.md)
+- [Repurpose one idea into 10 content formats automatically](playbooks/content-repurposing-flywheel.md)
+- [Vibe-code an MVP in a weekend](playbooks/vibe-code-mvp-weekend.md)
+- [Automate a full SaaS billing + onboarding flow](playbooks/saas-billing-onboarding.md)
 
 ---
 
