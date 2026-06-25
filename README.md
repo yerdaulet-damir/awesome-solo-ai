@@ -166,6 +166,14 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Playwright MCP](mcp/playwright.md) — drive a real browser for testing and scraping. 🧩 🔓
 - [GitHub MCP](mcp/github.md) — issues, PRs, and repo actions from your agent. 🧩 🔓
 - [Higgsfield](mcp/higgsfield.md) — cinematic video gen (API-first; how to drive it from an agent today). 🔌
+- [Clawvisor](mcp/clawvisor.md) — API gateway that injects credentials at execution time; agent never sees your keys. Approve scopes once, get a full audit log. 🔓
+- [Exa MCP](mcp/exa.md) — semantic web search returning structured JSON — the search MCP agents actually use in 2026. 🧩
+- [Firecrawl MCP](mcp/firecrawl.md) — any URL → clean Markdown; crawl whole sites, extract structured data. 🧩
+- [Stripe MCP](mcp/stripe.md) — inspect customers, subscriptions, and churn in plain language. 🧩
+- [Supabase MCP](mcp/supabase-mcp.md) — query tables, run migrations, generate types, read logs from your agent. 🧩 🔓
+- [Notion MCP](mcp/notion-mcp.md) — read/write Notion docs and databases as an agent tool. 🧩
+- [Browserbase MCP](mcp/browserbase.md) — cloud browser for clicks, form fills, and screenshots when scraping isn't enough. 🧩
+- [Sequential Thinking MCP](mcp/sequential-thinking.md) — externalises step-by-step reasoning; #1 by usage on Smithery. 🔓
 
 **Registries to discover more:** [Official MCP Registry](https://github.com/modelcontextprotocol/registry) · [Smithery](https://smithery.ai) · [mcp.so](https://mcp.so) · [PulseMCP](https://www.pulsemcp.com) · [Glama](https://glama.ai/mcp/servers)
 
