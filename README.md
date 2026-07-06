@@ -134,6 +134,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [Hume](https://hume.ai) — emotion-aware voice (EVI) and expressive Octave TTS. 🔌
 - [Rime](https://rime.ai) — developer/enterprise TTS with sub-200ms latency. 🔌
 - [Resemble AI](https://resemble.ai) — enterprise voice cloning plus deepfake detection. 🔌 🧩
+- [Hermes](https://buildwithhermes.com) — operating platform for running an AI voice-agent business solo: white-label phone agents with built-in CRM, campaigns, and client billing, from $149/mo.
 - [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio) — open-source, fully-local ElevenLabs alternative: voice cloning, dubbing, dictation, 646 languages, no API keys. 🆓 🔓
 
 ## Music & Sound Effects
