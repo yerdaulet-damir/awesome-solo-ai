@@ -185,6 +185,7 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 ### Design & frontend
 - [ui-ux-pro-max](skills/ui-ux-pro-max.md) — design-intelligence skill: 50+ styles, 161 palettes, 57 font pairings, picks a coherent design system from one prompt. 🔓
 - [frontend-design](skills/frontend-design.md) — Anthropic's official skill that bans generic fonts and forces a deliberate aesthetic, killing AI-slop UI. 🔓
+- [scroll-world](https://github.com/oso95/scroll-world) — agent skill that turns any brand into a scrollable 3D world: continuous scroll-driven camera fly-throughs, no cuts. 🔓
 
 ### SEO & growth
 - [claude-seo](skills/claude-seo.md) — full SEO/GEO suite: technical audit, schema, E-E-A-T, backlinks, AI-search optimization, PDF reports. 🔓
@@ -238,6 +239,7 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 - [PostHog](https://posthog.com) — product analytics, session replay, and LLM analytics to track AI feature cost and quality. 🔌 🔓
 - [Convex](https://convex.dev) — reactive backend with first-class AI agent and workflow support. 🔌
 - [Clerk](https://clerk.com) — drop-in auth so you skip building login. 🔌
+- [tgx](https://github.com/yerdaulet-damir/tgx) — TypeScript framework for building Telegram bots fast on grammY; state, Stars payments and menus built in, and designed to be built by AI agents (ships an MCP server). 🔓
 
 ## Distribution & Marketing
 
