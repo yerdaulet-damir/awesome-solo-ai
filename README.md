@@ -188,6 +188,7 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 
 ### SEO & growth
 - [claude-seo](skills/claude-seo.md) — full SEO/GEO suite: technical audit, schema, E-E-A-T, backlinks, AI-search optimization, PDF reports. 🔓
+- [NotFair](https://github.com/nowork-studio/NotFair) — Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. 🔓
 
 ### Code quality & anti-slop
 - [ponytail](skills/ponytail.md) — anti-over-engineering skill that makes the agent "think like the laziest senior dev"; ~54% less code on average. 🔓
