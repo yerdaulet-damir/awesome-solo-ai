@@ -297,7 +297,7 @@
     gsap.utils.toArray('.reveal').forEach(function(el){
       gsap.to(el,{opacity:1,y:0,duration:.9,ease:'power3.inOut',scrollTrigger:{trigger:el,start:'top 88%'}});
     });
-    /* pinned + scrubbed hero: 3D scales/rotates, content fades as you scroll (playbook scroll storytelling) */
+    /* scroll-driven hero */
     if(!reduce && !mobile){
       gsap.to(spin,{v:1,ease:'none',scrollTrigger:{trigger:'header',start:'top top',end:'+=700',scrub:1}});
       gsap.to('.hero-inner',{opacity:0,y:-60,ease:'none',scrollTrigger:{trigger:'header',start:'top top',end:'+=500',scrub:1}});
