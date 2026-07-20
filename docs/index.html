@@ -202,7 +202,7 @@
 <footer>
   <div class="wrap">
     <span>awesome-solo-ai · curated by Yerdaulet Damir</span>
-    <span class="muted">Three.js · GSAP · Lenis</span>
+    <span class="muted">Build a company of one</span>
   </div>
 </footer>
 
@@ -215,16 +215,16 @@
   var reduce = window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   var mobile = window.innerWidth < 760;
 
-  /* ---------- Three.js hero scene (playbook: rotating icosahedron, teal MeshStandardMaterial, ambient + directional light) ---------- */
+  /* hero scene */
   var spin = {v:0};
   if(window.THREE && !reduce){
     try{
       var cv=document.getElementById('scene');
       var renderer=new THREE.WebGLRenderer({canvas:cv,alpha:true,antialias:!mobile});
-      renderer.setPixelRatio(Math.min(window.devicePixelRatio, mobile?1.5:2)); // perf: cap DPR
+      renderer.setPixelRatio(Math.min(window.devicePixelRatio, mobile?1.5:2));
       var scene=new THREE.Scene();
       var camera=new THREE.PerspectiveCamera(45,innerWidth/innerHeight,.1,100); camera.position.z=5;
-      var geo=new THREE.IcosahedronGeometry(1.6, mobile?0:1); // lower detail on mobile
+      var geo=new THREE.IcosahedronGeometry(1.6, mobile?0:1);
       var mat=new THREE.MeshStandardMaterial({color:0x0d9488,flatShading:true,metalness:.3,roughness:.45});
       var mesh=new THREE.Mesh(geo,mat); scene.add(mesh);
       var wire=new THREE.LineSegments(new THREE.WireframeGeometry(geo), new THREE.LineBasicMaterial({color:0x19e3c2,transparent:true,opacity:.25}));
@@ -240,7 +240,7 @@
       function loop(){
         requestAnimationFrame(loop); if(!running) return;
         mesh.rotation.x += .0026; mesh.rotation.y += .0034;
-        mesh.rotation.x += (my*.4 - mesh.rotation.x*0)*0; // parallax target
+        mesh.rotation.x += (my*.4 - mesh.rotation.x*0)*0;
         mesh.rotation.y += mx*.0006;
         mesh.scale.setScalar(1 + spin.v*0.55);
         mesh.rotation.z = spin.v*1.2;
@@ -255,7 +255,7 @@
     }catch(e){ /* webgl unsupported — fine, hero still works */ }
   }
 
-  /* ---------- fail-safe: no GSAP -> show everything ---------- */
+  /* fallback */
   if(!window.gsap){
     document.documentElement.classList.remove('js');
     var p0=document.getElementById('pre'); if(p0) p0.style.display='none';
@@ -264,14 +264,14 @@
   }
   gsap.registerPlugin(window.ScrollTrigger);
 
-  /* ---------- Lenis smooth scroll wired to ScrollTrigger (playbook) ---------- */
+  
   if(window.Lenis && !reduce){
     var lenis=new Lenis({lerp:.09});
     function raf(t){lenis.raf(t);requestAnimationFrame(raf)} requestAnimationFrame(raf);
     lenis.on('scroll',ScrollTrigger.update);
   }
 
-  /* ---------- text-scramble intro (playbook: headline chars decode into place) ---------- */
+  
   function scramble(el){
     var fin=el.getAttribute('data-scramble'); var chars='!<>-_\\/[]{}=+*^?#'; var frame=0;
     var queue=fin.split('').map(function(c,i){return {c:c,start:Math.floor(i*1.4),end:Math.floor(i*1.4)+12};});
@@ -305,7 +305,7 @@
     ScrollTrigger.refresh();
   }
 
-  /* ---------- cinematic loader: 0->100% then wipe (playbook, min duration) ---------- */
+  
   var pre=document.getElementById('pre'), num=document.getElementById('num');
   var seen=false; try{seen=sessionStorage.getItem('asa_seen')}catch(e){}
   if(reduce||seen){ document.body.classList.remove('loading'); pre.style.display='none'; start(); return; }
