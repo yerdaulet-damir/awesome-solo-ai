@@ -194,6 +194,7 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 
 ### Code quality & anti-slop
 - [ponytail](skills/ponytail.md) — anti-over-engineering skill that makes the agent "think like the laziest senior dev"; ~54% less code on average. 🔓
+- [**redpen**](skills/redpen/README.md) — anti-slop *copywriting* skill, built for this list in the ponytail mould: the old ad man with the red pen, every line must pass three tests (visualize / falsify / can-nobody-else-say-it) before it ships. Kills adjective-slop in headlines, landing pages, and taglines. 🔓
 - [superpowers](skills/superpowers.md) — plan-first, TDD agentic framework (brainstorm → plan → subagent execution → review). 🔓
 - [Context7](skills/context7.md) — injects up-to-date library docs so the agent stops hallucinating stale APIs. 🧩 🔓
 
