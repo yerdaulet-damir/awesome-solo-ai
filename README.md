@@ -214,6 +214,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 
 ## AI Coding Agents
 
+- [Better Agent](https://github.com/ofekron/better-agent) — persistent workspace for Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery. 🆓
 - [Claude Code](https://claude.com/claude-code) — Anthropic's terminal/IDE coding agent; the hub of this stack. 🧩
 - [Cursor](https://cursor.com) — the AI-native IDE. 🧩
 - [Windsurf](https://windsurf.com) — agentic IDE with deep codebase awareness.

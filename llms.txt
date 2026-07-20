@@ -94,6 +94,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
+- [Better Agent](https://github.com/ofekron/better-agent): persistent workspace for Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery. Free.
 - [Claude Code](https://claude.com/claude-code): terminal/IDE coding agent. MCP.
 - [Cursor](https://cursor.com): AI-native IDE. MCP.
 - [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
