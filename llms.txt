@@ -111,6 +111,11 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [GBrain](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/memory/gbrain.md): synthesis + graph + gap-analysis brain by Garry Tan (YC CEO); wire into Claude Code in one command. Open.
 - [Mem0](https://github.com/mem0ai/mem0): open-source memory layer for AI agents. Open.
 
+## Frontend Motion & Design
+- [Frontend Motion Stack](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/frontend-motion.md): GSAP + Lenis + Framer Motion — the three libraries that separate cinematic from AI-slop UI. GSAP for scroll-driven scenes and timelines, Lenis for smooth-scroll inertia, Framer Motion for React transitions. Free, Open.
+- [How to make AI frontend not look like slop](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/cinematic-frontend-not-slop.md): Guide covering the slop ban-list, anti-slop stack (GSAP/Lenis/Framer Motion), CLAUDE.md constraints, and Claude skills (ui-ux-pro-max, award-winning-motion, scroll-world) that enforce taste automatically.
+- [ui-ux-pro-max skill](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): 161 palettes, 57 font pairings, design system generation as Claude context. Open.
+
 ## Backend, Deploy & Analytics
 - [Supabase](https://supabase.com): Postgres + auth + storage with pgvector built in (vector store for RAG). API, Open.
 - [Vercel](https://vercel.com): one-push deploy plus the AI SDK and v0 for AI UIs. API.

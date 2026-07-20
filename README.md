@@ -33,6 +33,7 @@ _Last updated: June 2026 · Curated by a working solo builder, not auto-generate
 - [Agent Memory & Knowledge](#agent-memory--knowledge)
 - [AI Coding Agents](#ai-coding-agents)
 - [Automation & Agent Frameworks](#automation--agent-frameworks)
+- [Frontend Motion & Design](#frontend-motion--design)
 - [Backend, Deploy & Analytics](#backend-deploy--analytics)
 - [Distribution & Marketing](#distribution--marketing)
 - [💸 Free Solo AI Stack](free-solo-ai-stack.md) — only the free-tier & open-source tools
@@ -230,6 +231,17 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [CrewAI](https://crewai.com) — role-based multi-agent orchestration. 🔓
 - [Agent Voice Response](https://github.com/agentvoiceresponse) — open-source platform to build and deploy AI voice agents (phone bots) wiring ASR + LLM + TTS. 🔓
 
+## Frontend Motion & Design
+
+The libraries that separate cinematic from slop. **→ Full stack page: [tools/frontend-motion.md](tools/frontend-motion.md) · Guide: [How to make your frontend not look like AI slop](guides/cinematic-frontend-not-slop.md)**
+
+- [GSAP + ScrollTrigger](tools/frontend-motion.md) — industry-standard animation engine; scroll-pinned scenes, scrubbed timelines, staggered reveals. Free for most use. 🔌 🆓
+- [Lenis](tools/frontend-motion.md) — smooth-scroll inertia wrapper; 6 lines to wire into GSAP. MIT. 🆓 🔓
+- [Framer Motion / Motion](tools/frontend-motion.md) — declarative React animation: `whileInView`, `AnimatePresence`, layout animations. MIT. 🆓 🔓
+- [ui-ux-pro-max skill](skills/ui-ux-pro-max.md) — 161 palettes + 57 font pairings as Claude context; pick the design system before writing a line of code. 🔓
+- [award-winning-motion skill](https://github.com/anthropics/skills) — GSAP + ScrollTrigger + Lenis playbook as a Claude skill: cinematic preloaders, scroll-zoom, scrub. 🔓
+- [scroll-world skill](https://github.com/anthropics/skills) — scroll-driven narrative sequencing; each section escalates one story. 🔓
+
 ## Backend, Deploy & Analytics
 
 The plumbing a solo builder needs to ship and run an AI product — picked for their AI-relevant angle, not as a generic dev-tools list.
@@ -284,6 +296,7 @@ Hands-on, practical tutorials — Karpathy/Kaggle energy, not theory. See [`/gui
 - [How to edit videos with Claude Code (no manual editing)](guides/edit-video-with-claude.md)
 - [How to build automations without code](guides/automations-without-code.md)
 - [How to eliminate AI-slop code and write production-grade code](guides/kill-ai-slop-code.md)
+- [How to make your AI-generated frontend not look like slop (GSAP + Lenis + Framer Motion)](guides/cinematic-frontend-not-slop.md)
 
 ## Playbooks
 
