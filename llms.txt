@@ -156,3 +156,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## Marketing, SEO & Social from Claude
 - [Marketing from Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/marketing-from-claude.md): trending marketing, SEO, and social skills plus MCP servers a solo builder runs from Claude Code (marketingskills by Corey Haines, ai-marketing-skills by Eric Siu, seo-skills by SE Ranking, Firecrawl, DataForSEO). Open.
+
+## AI Video Editing from Claude
+- [AI video editing repos](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/ai-video-editing-repos.md): how to edit or make video from Claude, MCP servers and pipelines (Kinocut, pireel, OpenMontage, MoneyPrinterTurbo, Remotion, HyperFrames). Open.

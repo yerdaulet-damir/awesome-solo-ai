@@ -296,6 +296,7 @@ Step-by-step guides to ship real AI products solo. Each guide names the exact st
 Hands-on, practical tutorials — Karpathy/Kaggle energy, not theory. See [`/guides`](guides).
 
 - [How to edit videos with Claude Code (no manual editing)](guides/edit-video-with-claude.md)
+- [AI video editing and faceless video repos (MCP servers, pipelines, frameworks)](guides/ai-video-editing-repos.md)
 - [How to build automations without code](guides/automations-without-code.md)
 - [How to eliminate AI-slop code and write production-grade code](guides/kill-ai-slop-code.md)
 - [How to make your AI-generated frontend not look like slop (GSAP + Lenis + Framer Motion)](guides/cinematic-frontend-not-slop.md)
