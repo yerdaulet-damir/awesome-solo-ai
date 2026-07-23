@@ -177,6 +177,8 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Browserbase MCP](mcp/browserbase.md) — cloud browser for clicks, form fills, and screenshots when scraping isn't enough. 🧩
 - [Sequential Thinking MCP](mcp/sequential-thinking.md) — externalises step-by-step reasoning; #1 by usage on Smithery. 🔓
 
+**More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
+
 **Registries to discover more:** [Official MCP Registry](https://github.com/modelcontextprotocol/registry) · [Smithery](https://smithery.ai) · [mcp.so](https://mcp.so) · [PulseMCP](https://www.pulsemcp.com) · [Glama](https://glama.ai/mcp/servers)
 
 ## Claude Skills & Plugins
