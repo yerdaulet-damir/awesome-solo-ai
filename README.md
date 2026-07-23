@@ -204,6 +204,8 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 
 > ⚠️ **Security note:** skills are just markdown + shell. A 2026 Snyk study found ~13% of tested community skills had critical flaws, some exfiltrating credentials. Read the `SKILL.md` before installing anything outside Anthropic or an established maintainer.
 
+**More trending skills:** [browser control, reasoning, security, and research skills that gained traction in 2026](skills/trending-2026.md).
+
 **Discover more:** [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code) (canonical, curated) · [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills) · [Claude Plugin Hub](https://www.claudepluginhub.com)
 
 ## Agent Memory & Knowledge
