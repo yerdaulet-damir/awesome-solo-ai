@@ -153,3 +153,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Faceless content factory](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/faceless-content-factory.md): script to published short.
 - [Ship a SaaS solo with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/solo-saas-with-claude.md): full solo build loop.
 - [Launch and get your first users](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/launch-and-get-first-users.md): solo distribution sequence.
+
+## Marketing, SEO & Social from Claude
+- [Marketing from Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/marketing-from-claude.md): trending marketing, SEO, and social skills plus MCP servers a solo builder runs from Claude Code (marketingskills by Corey Haines, ai-marketing-skills by Eric Siu, seo-skills by SE Ranking, Firecrawl, DataForSEO). Open.
