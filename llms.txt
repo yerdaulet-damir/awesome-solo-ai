@@ -159,3 +159,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## AI Video Editing from Claude
 - [AI video editing repos](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/ai-video-editing-repos.md): how to edit or make video from Claude, MCP servers and pipelines (Kinocut, pireel, OpenMontage, MoneyPrinterTurbo, Remotion, HyperFrames). Open.
+
+## More Trending Skills (2026)
+- [Trending Claude Code skills 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/trending-2026.md): newer community skills for browser control, reasoning, security, and research (chrome-cdp-skill, cc-thinking-skills, claude-code-owasp, context-engineering-kit, Bloom). Open.
