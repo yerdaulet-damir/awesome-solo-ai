@@ -171,3 +171,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## SEO & GEO Tools
 - [SEO and GEO tools](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/seo-geo-tools.md): skills and MCP servers to rank in Google and get cited by AI engines (SE Ranking seo-skills, GEO Optimizer, DataForSEO MCP, AutoGEO, llms.txt generator). Open.
+
+## Self-Hosted Analytics
+- [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
