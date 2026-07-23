@@ -180,3 +180,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## Social Media Automation
 - [Social media automation](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/social-media-automation.md): self-hosted schedulers, cross-posting, and drafting skills for X, LinkedIn, Reddit, Threads, human in the loop (Postiz, Mixpost, praw, xMCP, linkedin-skills). Open.
+
+## Build in Public
+- [Build in public playbook](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/build-in-public.md): tools and concrete steps for shipping open source in the open on GitHub, X, and Reddit (star-history, Shields.io, release-please, F5Bot). Open.

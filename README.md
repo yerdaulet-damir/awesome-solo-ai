@@ -324,6 +324,7 @@ End-to-end workflows a solo builder can copy. See [`/playbooks`](playbooks).
 - [Repurpose one idea into 10 content formats automatically](playbooks/content-repurposing-flywheel.md)
 - [Vibe-code an MVP in a weekend](playbooks/vibe-code-mvp-weekend.md)
 - [Automate a full SaaS billing + onboarding flow](playbooks/saas-billing-onboarding.md)
+- [Build in public: tools and playbook for GitHub, X, and Reddit](playbooks/build-in-public.md)
 
 ---
 
