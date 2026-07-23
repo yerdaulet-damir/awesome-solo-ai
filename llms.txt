@@ -174,3 +174,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## Self-Hosted Analytics
 - [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
+
+## Landing Page Libraries
+- [Landing page libraries](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/landing-page-libraries.md): component kits, 3D, and motion tools for landing pages that do not look like AI slop (shadcn/ui, HeroUI, Magic UI, Aceternity, React Three Fiber, Spline, Anime.js). Open.

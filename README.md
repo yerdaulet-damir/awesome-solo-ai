@@ -247,6 +247,7 @@ The libraries that separate cinematic from slop. **→ Full stack page: [tools/f
 - [ui-ux-pro-max skill](skills/ui-ux-pro-max.md) — 161 palettes + 57 font pairings as Claude context; pick the design system before writing a line of code. 🔓
 - [award-winning-motion skill](https://github.com/anthropics/skills) — GSAP + ScrollTrigger + Lenis playbook as a Claude skill: cinematic preloaders, scroll-zoom, scrub. 🔓
 - [scroll-world skill](https://github.com/anthropics/skills) — scroll-driven narrative sequencing; each section escalates one story. 🔓
+- [Landing page libraries](tools/landing-page-libraries.md), component kits, 3D, and motion tools for pages that do not read as a template (shadcn/ui, HeroUI, Magic UI, React Three Fiber, Anime.js).
 
 ## Backend, Deploy & Analytics
 
