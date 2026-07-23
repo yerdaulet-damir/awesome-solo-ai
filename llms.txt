@@ -165,3 +165,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## More MCP Servers (2026)
 - [Trending MCP servers 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/trending-2026.md): docs, search, data, email, and deploy servers for solo builders (Context7, Claude Context, Tavily, Apify, Neon, Resend, Sentry, Cloudflare). Open.
+
+## Open-Source AI Agents
+- [Open-source AI agents](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/agents/oss-agents.md): self-hostable agents and frameworks (OpenClaw, Hermes by Nous Research, opencode, OpenHands, Cline, LangGraph, CrewAI). Open.

@@ -228,6 +228,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 
 ## Automation & Agent Frameworks
 
+- [Open-source AI agents you can self-host](agents/oss-agents.md), from personal assistants like OpenClaw and Hermes to coding agents like opencode, OpenHands, and Cline.
 - [n8n](https://n8n.io) — open-source workflow automation with native AI nodes. 🔓
 - [Make](https://make.com) — visual no-code automation for connecting AI tools.
 - [Vercel AI SDK](https://sdk.vercel.ai) — TypeScript toolkit for building AI apps and agents. 🔓
