@@ -18,6 +18,7 @@ Agents a solo builder can actually self-host or build on, verified live as of Ju
 
 - [LangGraph](https://github.com/langchain-ai/langgraph) by [LangChain](https://github.com/langchain-ai), a graph based runtime for stateful multi step agents with checkpoints, human in the loop, and durable execution. python, js, active.
 - [CrewAI](https://github.com/crewAIInc/crewAI) by [CrewAI](https://github.com/crewAIInc), a standalone framework for orchestrating role playing agents that split a task into collaborating crew members. python, multi agent, active.
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai) by [Pydantic](https://github.com/pydantic), a type safe agent framework that validates model output against Pydantic schemas. python, type safe, active.
 
 ## FAQ
 
