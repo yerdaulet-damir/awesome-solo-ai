@@ -255,6 +255,7 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 - [Supabase](https://supabase.com) — Postgres + auth + storage with `pgvector` built in, so it doubles as the vector store for your RAG. 🔌 🔓
 - [Vercel](https://vercel.com) — deploy in one push, plus the [AI SDK](https://sdk.vercel.ai) and [v0](https://v0.dev) for building AI UIs. 🔌
 - [PostHog](https://posthog.com) — product analytics, session replay, and LLM analytics to track AI feature cost and quality. 🔌 🔓
+- [Self-hosted analytics for solo builders](guides/self-hosted-analytics.md), open-source web, product, and LLM observability you can own (Umami, Plausible, Langfuse, Helicone) plus analytics MCP servers.
 - [Convex](https://convex.dev) — reactive backend with first-class AI agent and workflow support. 🔌
 - [Clerk](https://clerk.com) — drop-in auth so you skip building login. 🔌
 - [tgx](https://github.com/yerdaulet-damir/tgx) — TypeScript framework for building Telegram bots fast on grammY; state, Stars payments and menus built in, and designed to be built by AI agents (ships an MCP server). 🔓
