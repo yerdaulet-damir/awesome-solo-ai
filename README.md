@@ -274,6 +274,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 
 **Grow & post**
 - [Marketing, SEO, and social from Claude Code](distribution/marketing-from-claude.md), the growth skills and MCP servers a solo builder runs straight from the terminal.
+- [Social media automation, human in the loop](distribution/social-media-automation.md), self-hosted schedulers and cross-posting for X, LinkedIn, Reddit, and Threads (Postiz, Mixpost, praw, xMCP).
 - [Typefully](https://typefully.com) — write, schedule, and grow on X/Threads.
 - [Buffer](https://buffer.com) — schedule across every social channel.
 - [claude-seo](skills/claude-seo.md) — SEO + GEO so search and AI engines surface you. 🔓
