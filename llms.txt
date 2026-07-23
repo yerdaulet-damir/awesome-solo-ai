@@ -162,3 +162,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## More Trending Skills (2026)
 - [Trending Claude Code skills 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/trending-2026.md): newer community skills for browser control, reasoning, security, and research (chrome-cdp-skill, cc-thinking-skills, claude-code-owasp, context-engineering-kit, Bloom). Open.
+
+## More MCP Servers (2026)
+- [Trending MCP servers 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/trending-2026.md): docs, search, data, email, and deploy servers for solo builders (Context7, Claude Context, Tavily, Apify, Neon, Resend, Sentry, Cloudflare). Open.
