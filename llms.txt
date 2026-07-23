@@ -168,3 +168,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## Open-Source AI Agents
 - [Open-source AI agents](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/agents/oss-agents.md): self-hostable agents and frameworks (OpenClaw, Hermes by Nous Research, opencode, OpenHands, Cline, LangGraph, CrewAI). Open.
+
+## SEO & GEO Tools
+- [SEO and GEO tools](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/seo-geo-tools.md): skills and MCP servers to rank in Google and get cited by AI engines (SE Ranking seo-skills, GEO Optimizer, DataForSEO MCP, AutoGEO, llms.txt generator). Open.
