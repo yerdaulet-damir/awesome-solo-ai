@@ -17,6 +17,7 @@ Analytics you can run yourself, own the data, and point an agent at. Web, produc
 - [Helicone](https://github.com/Helicone/helicone) by [Helicone](https://github.com/Helicone), a one line proxy that logs cost, latency, and quality across 100+ models and ships its own MCP server. open source, self hosted, llm observability, proxy, mcp.
 - [OpenLLMetry](https://github.com/traceloop/openllmetry) by [Traceloop](https://github.com/traceloop), OpenTelemetry native instrumentation so your LLM traces land in whatever backend you already run. open source, opentelemetry, llm observability.
 - [Arize Phoenix](https://github.com/Arize-ai/phoenix) by [Arize AI](https://github.com/Arize-ai), local first tracing and evaluation for RAG and agent apps, runs in a notebook or a container. open source, self hosted, llm observability, evals.
+- [Highlight](https://github.com/highlight/highlight) by [Highlight](https://github.com/highlight), open source session replay plus error monitoring you can self host. open source, self hosted, session replay, monitoring.
 
 ## Analytics MCP servers
 
