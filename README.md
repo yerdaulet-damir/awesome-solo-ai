@@ -266,6 +266,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Peerlist](https://peerlist.io) — launchpad and network for builders.
 
 **Grow & post**
+- [Marketing, SEO, and social from Claude Code](distribution/marketing-from-claude.md), the growth skills and MCP servers a solo builder runs straight from the terminal.
 - [Typefully](https://typefully.com) — write, schedule, and grow on X/Threads.
 - [Buffer](https://buffer.com) — schedule across every social channel.
 - [claude-seo](skills/claude-seo.md) — SEO + GEO so search and AI engines surface you. 🔓
