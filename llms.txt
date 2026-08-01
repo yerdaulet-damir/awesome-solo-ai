@@ -98,6 +98,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Cursor](https://cursor.com): AI-native IDE. MCP.
 - [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
 - [Aider](https://aider.chat): terminal AI pair programming. Open.
+- [Better Agent](https://github.com/ofekron/better-agent): local web workspace for Claude, Codex, and Gemini coding-agent sessions, delegation, parallel forks, approvals, restart recovery. Free.
 
 ## Automation & Agent Frameworks
 - [n8n](https://n8n.io): open-source workflow automation with AI nodes. Open.

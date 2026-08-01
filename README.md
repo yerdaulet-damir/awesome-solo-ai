@@ -225,6 +225,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Windsurf](https://windsurf.com) — agentic IDE with deep codebase awareness.
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
 - [Aider](https://aider.chat) — AI pair programming in your terminal. 🔓
+- [Better Agent](https://github.com/ofekron/better-agent) — local web workspace for Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery. 🆓
 
 ## Automation & Agent Frameworks
 
