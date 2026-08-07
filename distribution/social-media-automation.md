@@ -11,6 +11,7 @@ Open-source tools a solo builder can actually run to draft, schedule, and cross-
 - [instagram-skills](https://github.com/sergebulaev/instagram-skills) by [Serge Bulaev](https://github.com/sergebulaev), sibling skill bundle that writes captions, carousels, and hooks for Instagram with the same approve before post gate. instagram, claude skill, drafting, mit.
 - [threads-skills](https://github.com/sergebulaev/threads-skills) by [Serge Bulaev](https://github.com/sergebulaev), Claude Code and Codex skills for Threads posts, multi post threads, and replies that publish only after you sign off. threads, claude skill, drafting, mit.
 - [mcp-twitter-server](https://github.com/crazyrabbitLTC/mcp-twitter-server) by [crazyrabbitLTC](https://github.com/crazyrabbitLTC), MCP server for the X API with workflow templates and live rate limit reporting for tweet drafting. mcp, twitter, workflows, mit.
+- [x-autonomous-mcp](https://github.com/JohannesHoppe/x-autonomous-mcp) by [Johannes Hoppe](https://github.com/JohannesHoppe), MCP server that wraps the X API with daily budget limits and engagement dedup, documenting which X restrictions block cold replies. mcp, twitter, safety rails, new.
 
 ## FAQ
 
