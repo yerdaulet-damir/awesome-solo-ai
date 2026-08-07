@@ -154,6 +154,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [OpenAI GPT Image](https://platform.openai.com) — general-purpose default image gen/edit (GPT Image 2). 🔌
 - [Ideogram](https://ideogram.ai) — typography/text-in-image specialist. 🔌 🧩
 - [Recraft](https://recraft.ai) — vector/SVG and brand-asset specialist. 🔌 🧩
+- [Rao Edits](https://raoedits.top) — browser-based text-to-image and reference-image editor for social visuals, product mockups, and creative workflows. 🆓
 - [Reve](https://reve.com) — strong prompt adherence, typography, and aesthetics. 🔌
 - [Krea](https://krea.ai) — real-time canvas and a hub for Flux/Imagen/Ideogram/Nano Banana. 🔌
 

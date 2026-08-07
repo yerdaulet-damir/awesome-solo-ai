@@ -74,6 +74,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [OpenAI GPT Image](https://platform.openai.com): general-purpose image gen/edit. API.
 - [Ideogram](https://ideogram.ai): typography/text-in-image specialist. API, MCP.
 - [Recraft](https://recraft.ai): vector/SVG and brand assets. API, MCP.
+- [Rao Edits](https://raoedits.top): browser-based AI image generation and reference-image editing. Free.
 
 ## MCP Servers
 - [HeyGen MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md): avatar video, voice clone, speech as agent tools. MCP.
