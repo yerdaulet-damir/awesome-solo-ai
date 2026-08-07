@@ -278,6 +278,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Social media automation, human in the loop](distribution/social-media-automation.md), self-hosted schedulers and cross-posting for X, LinkedIn, Reddit, and Threads (Postiz, Mixpost, praw, xMCP).
 - [Typefully](https://typefully.com) — write, schedule, and grow on X/Threads.
 - [Buffer](https://buffer.com) — schedule across every social channel.
+- [Autoposting](https://autoposting.ai) — write in your own voice, clip long video, and schedule to X, LinkedIn, Instagram, Threads and YouTube.
 - [claude-seo](skills/claude-seo.md) — SEO + GEO so search and AI engines surface you. 🔓
 - [SEO and GEO tools](distribution/seo-geo-tools.md), skills and MCP servers to rank in Google and get cited by ChatGPT and Perplexity.
 
