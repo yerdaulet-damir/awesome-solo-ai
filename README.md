@@ -161,6 +161,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 
 Model Context Protocol servers let your agent *do things*, not just chat. These are the ones a solo builder wires into Claude Code. **→ Full pages in [`mcp/`](mcp/).**
 
+- [Agent QA](mcp/agent-qa.md) — run natural-language web/mobile tests with persistent test memory and self-healing flows. 🧩 🆓
 - [HeyGen MCP](mcp/heygen.md) — generate avatar videos, clone voices, and create speech from your agent. 🧩
 - [ElevenLabs MCP](mcp/elevenlabs.md) — TTS, voice cloning, dubbing, and SFX as agent tools. 🧩 🔓
 - [Cartesia MCP](mcp/cartesia.md) — low-latency realtime speech generation for agents. 🧩 🔓

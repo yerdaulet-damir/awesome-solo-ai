@@ -76,6 +76,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Recraft](https://recraft.ai): vector/SVG and brand assets. API, MCP.
 
 ## MCP Servers
+- [Agent QA](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/agent-qa.md): natural-language web/mobile tests with persistent test memory and self-healing flows. MCP, Free.
 - [HeyGen MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md): avatar video, voice clone, speech as agent tools. MCP.
 - [ElevenLabs MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/elevenlabs.md): TTS, cloning, dubbing, SFX. MCP, Open.
 - [Cartesia MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/cartesia.md): low-latency realtime speech. MCP, Open.
