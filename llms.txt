@@ -37,6 +37,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Google Veo](https://deepmind.google/models/veo/): flagship text-to-video with audio. API.
 - [OpenAI Sora](https://sora.com): text-to-video model and app. API.
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine): fast image-to-video. API.
+- [Magic Hour](https://magichour.ai): create and edit video, images, and audio with AI. API, Free.
 - [Pika](https://pika.art): creator-friendly video with effects. API.
 - [Hailuo / MiniMax](https://hailuoai.video): cinematic video from text/image. API.
 
