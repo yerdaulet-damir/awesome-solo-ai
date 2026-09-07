@@ -105,6 +105,7 @@ Text-to-video and image-to-video — the tools creators use for shorts, ads, and
 - [Google Veo](https://deepmind.google/models/veo/) — Google's flagship text-to-video with audio, via Gemini API. 🔌
 - [OpenAI Sora](https://sora.com) — OpenAI's text-to-video model and app. 🔌
 - [Luma Dream Machine](https://lumalabs.ai/dream-machine) — fast, fluid image-to-video and keyframes. 🔌
+- [Magic Hour](https://magichour.ai) — create and edit video, images, and audio with AI. 🔌 🆓
 - [Pika](https://pika.art) — creator-friendly video gen with effects and editing. 🔌
 - [Hailuo / MiniMax](https://hailuoai.video) — high-quality cinematic video gen from text or image. 🔌
 - [Hedra](https://www.hedra.com) — character-driven video and expressive talking characters. 🔌
