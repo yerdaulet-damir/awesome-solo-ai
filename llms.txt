@@ -19,6 +19,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Supabase](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/supabase.md): Postgres + auth + pgvector.
 - [Vercel](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/vercel.md): deploy + AI SDK + v0.
 - [PostHog](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/posthog.md): product + LLM analytics.
+- [Frameworks for building fast](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/frameworks-for-building.md): web, full-stack, mobile, desktop, and AI SDK choices for solo products.
 
 ## LLM API Routers & Aggregators
 - [OpenRouter](https://openrouter.ai): 400+ models, one OpenAI-compatible endpoint. API, Free.
@@ -109,6 +110,8 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [LangGraph](https://github.com/langchain-ai/langgraph): stateful agent orchestration. Open.
 - [Mastra](https://mastra.ai): TypeScript agent framework. Open.
 - [Agent Voice Response](https://github.com/agentvoiceresponse): open-source platform to build/deploy AI voice agents (phone bots), ASR+LLM+TTS. Open.
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai): typed Python framework for agents, tools, structured outputs, voice, and multimodal apps. Open.
+- [smolagents](https://github.com/huggingface/smolagents): compact Python library for code-writing and tool-calling agents. Open.
 
 ## Agent Memory & Knowledge
 - [GBrain](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/memory/gbrain.md): synthesis + graph + gap-analysis brain by Garry Tan (YC CEO); wire into Claude Code in one command. Open.
@@ -146,6 +149,8 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Indie Hackers](https://indiehackers.com): community of solo founders.
 - [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
 - [Buffer](https://buffer.com): multi-channel social scheduling.
+- [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
+- [SocialEcho](https://www.socialecho.net): publishing, monitoring, analytics, and message management across eleven social platforms. Free.
 
 ## Guides
 - [Edit videos with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/edit-video-with-claude.md): no manual editing.
@@ -170,20 +175,20 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Trending MCP servers 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/trending-2026.md): docs, search, data, email, and deploy servers for solo builders (Context7, Claude Context, Tavily, Apify, Neon, Resend, Sentry, Cloudflare). Open.
 
 ## Open-Source AI Agents
-- [Open-source AI agents](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/agents/oss-agents.md): self-hostable agents and frameworks (OpenClaw, Hermes by Nous Research, opencode, OpenHands, Cline, LangGraph, CrewAI). Open.
+- [Open-source AI agents](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/agents/oss-agents.md): self-hostable agents and frameworks (OpenClaw, Hermes by Nous Research, opencode, OpenHands, Cline, LangGraph, CrewAI, Pydantic AI, smolagents). Open.
 
 ## SEO & GEO Tools
 - [SEO and GEO tools](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/seo-geo-tools.md): skills and MCP servers to rank in Google and get cited by AI engines (SE Ranking seo-skills, GEO Optimizer, DataForSEO MCP, AutoGEO, llms.txt generator). Open.
 - [LLM Pulse](https://llmpulse.ai/): tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. API, MCP.
 
 ## Self-Hosted Analytics
-- [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
+- [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Highlight, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
 
 ## Landing Page Libraries
 - [Landing page libraries](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/landing-page-libraries.md): component kits, 3D, and motion tools for landing pages that do not look like AI slop (shadcn/ui, HeroUI, Magic UI, Aceternity, React Three Fiber, Spline, Anime.js). Open.
 
 ## Social Media Automation
-- [Social media automation](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/social-media-automation.md): self-hosted schedulers, cross-posting, and drafting skills for X, LinkedIn, Reddit, Threads, human in the loop (Postiz, Mixpost, praw, xMCP, linkedin-skills). Open.
+- [Social media automation](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/social-media-automation.md): self-hosted schedulers, cross-posting, and drafting skills for X, LinkedIn, Reddit, Threads, human in the loop (Postiz, Mixpost, praw, xMCP, x-autonomous-mcp, linkedin-skills). Open.
 - [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills): reusable agent skills for planning, adapting, reviewing, scheduling, and publishing across social channels through the BulkPublish API and MCP. API, MCP, Open.
 
 ## Build in Public

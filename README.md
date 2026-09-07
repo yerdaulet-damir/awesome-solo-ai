@@ -6,7 +6,7 @@
 
 **A solo AI stack is the set of tools, Claude skills, MCP servers, and playbooks a one-person business uses to build, ship, and grow a product — making video, voice, images, code, automations, and distribution without hiring a team.** This list curates that stack: every entry is verified, dead links are pruned, and the whole thing is published as [`llms.txt`](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/llms.txt) so your AI agent can read it and call any tool here.
 
-_Last updated: June 2026 · Curated by a working solo builder, not auto-generated._
+_Last updated: September 2026 · Curated by a working solo builder, not auto-generated._
 
 💸 **On a budget?** See the [Free Solo AI Stack](free-solo-ai-stack.md) — only tools with real free tiers or open-source licenses, enough to launch for $0.
 
@@ -238,6 +238,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [LangGraph](https://github.com/langchain-ai/langgraph) — stateful, controllable agent orchestration. 🔓
 - [Mastra](https://mastra.ai) — TypeScript agent framework with workflows and memory. 🔓
 - [CrewAI](https://crewai.com) — role-based multi-agent orchestration. 🔓
+- [Frameworks for building fast](tools/frameworks-for-building.md) — web, full-stack, mobile, desktop, and AI SDK choices for solo products.
 - [Agent Voice Response](https://github.com/agentvoiceresponse) — open-source platform to build and deploy AI voice agents (phone bots) wiring ASR + LLM + TTS. 🔓
 
 ## Frontend Motion & Design
@@ -268,6 +269,9 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 
 Building is half the job — this is how a solo builder gets users. **Where to launch, how to grow, and the tactics that work** — see the [launch playbook](playbooks/launch-and-get-first-users.md).
 
+**Research what to build**
+- [IdeaHunter](https://ideahunter.today) — turns public buyer pain and market signals into scoped app ideas with source evidence, MVP boundaries, and a validation step. 🆓
+
 **Where to launch**
 - [Product Hunt](https://producthunt.com) — the classic launch-day spike for tools and SaaS.
 - [Hacker News](https://news.ycombinator.com) — "Show HN" for dev/technical products; high-signal traffic.
@@ -280,6 +284,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Social media automation, human in the loop](distribution/social-media-automation.md), self-hosted schedulers and cross-posting for X, LinkedIn, Reddit, and Threads (Postiz, Mixpost, praw, xMCP).
 - [Typefully](https://typefully.com) — write, schedule, and grow on X/Threads.
 - [Buffer](https://buffer.com) — schedule across every social channel.
+- [SocialEcho](https://www.socialecho.net) — publish, monitor, analyze, and manage messages across eleven social platforms from one workspace. 🆓
 - [Autoposting](https://autoposting.ai) — write in your own voice, clip long video, and schedule to X, LinkedIn, Instagram, Threads and YouTube.
 - [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — reusable, agent-agnostic skills for planning, adapting, reviewing, scheduling, and publishing social content through the [BulkPublish API](https://github.com/azeemkafridi/bulkpublish-api), with [MCP documentation](https://app.bulkpublish.com/docs). 🔌 🧩 🔓
 - [claude-seo](skills/claude-seo.md) — SEO + GEO so search and AI engines surface you. 🔓
