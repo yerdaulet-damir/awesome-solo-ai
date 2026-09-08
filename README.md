@@ -228,6 +228,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
 - [Aider](https://aider.chat) — AI pair programming in your terminal. 🔓
 - [Better Agent](https://github.com/ofekron/better-agent) — local web workspace for Claude, Codex, and Gemini coding-agent sessions with delegation, parallel forks, approvals, and restart recovery. 🆓
+- [YYLO](https://github.com/yylo-dev/yylo) — command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree behind a risk-based merge queue. 🔓 🆓
 
 ## Automation & Agent Frameworks
 
