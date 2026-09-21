@@ -219,6 +219,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [GBrain](memory/gbrain.md) — synthesis + graph + gap-analysis brain by Garry Tan (YC CEO); wire into Claude Code in one command. 🔓
 - [Context7](skills/context7.md) — keeps the agent's library docs current. 🧩 🔓
 - [Mem0](https://github.com/mem0ai/mem0) — open-source memory layer for AI agents and apps. 🔓
+- [Mnemoverse](https://mnemoverse.com) — hosted memory engine for AI agents, reached over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. 🔌 🧩 🆓
 
 ## AI Coding Agents
 

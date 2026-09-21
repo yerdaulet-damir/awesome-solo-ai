@@ -11,6 +11,7 @@ Coding agents forget everything outside the open repo. **Agent memory tools** gi
 ## Also useful
 - [Mem0](https://github.com/mem0ai/mem0) — open-source memory layer for AI agents and apps. 🔓
 - [Letta](https://github.com/letta-ai/letta) — stateful agents with long-term memory. 🔓
+- [Mnemoverse](https://mnemoverse.com) — hosted memory engine for AI agents, reached over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. 🔌 🧩 🆓
 
 ---
 
