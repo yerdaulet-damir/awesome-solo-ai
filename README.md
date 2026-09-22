@@ -174,6 +174,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Exa MCP](mcp/exa.md) — semantic web search returning structured JSON — the search MCP agents actually use in 2026. 🧩
 - [Firecrawl MCP](mcp/firecrawl.md) — any URL → clean Markdown; crawl whole sites, extract structured data. 🧩
 - [Stripe MCP](mcp/stripe.md) — inspect customers, subscriptions, and churn in plain language. 🧩
+- [Statsnet MCP](mcp/statsnet.md) — background-check any company worldwide (registration, executives, courts, finances) via remote MCP. 🧩
 - [Supabase MCP](mcp/supabase-mcp.md) — query tables, run migrations, generate types, read logs from your agent. 🧩 🔓
 - [Notion MCP](mcp/notion-mcp.md) — read/write Notion docs and databases as an agent tool. 🧩
 - [Browserbase MCP](mcp/browserbase.md) — cloud browser for clicks, form fills, and screenshots when scraping isn't enough. 🧩
