@@ -286,6 +286,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Buffer](https://buffer.com) — schedule across every social channel.
 - [SocialEcho](https://www.socialecho.net) — publish, monitor, analyze, and manage messages across eleven social platforms from one workspace. 🆓
 - [Autoposting](https://autoposting.ai) — write in your own voice, clip long video, and schedule to X, LinkedIn, Instagram, Threads and YouTube.
+- [ThreadFox](https://threadfox.vip) — Reddit outreach run by Claude or Codex in your own Chrome: reads each subreddit's rules, drafts posts and replies you approve, posts once and rechecks each post. 🧩 🆓
 - [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills) — reusable, agent-agnostic skills for planning, adapting, reviewing, scheduling, and publishing social content through the [BulkPublish API](https://github.com/azeemkafridi/bulkpublish-api), with [MCP documentation](https://app.bulkpublish.com/docs). 🔌 🧩 🔓
 - [claude-seo](skills/claude-seo.md) — SEO + GEO so search and AI engines surface you. 🔓
 - [LLM Pulse](https://llmpulse.ai/) — tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. 🔌 🧩
