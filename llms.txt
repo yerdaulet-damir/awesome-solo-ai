@@ -120,6 +120,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [GBrain](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/memory/gbrain.md): synthesis + graph + gap-analysis brain by Garry Tan (YC CEO); wire into Claude Code in one command. Open.
 - [Mem0](https://github.com/mem0ai/mem0): open-source memory layer for AI agents. Open.
 - [Mnemoverse](https://mnemoverse.com): hosted memory engine for AI agents, reached over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. API, MCP, Free.
+- [Screenpipe](https://screenpipe.com): Search locally captured screen text and audio transcripts for work recall and meeting notes via MCP or a local API; source-available under the Screenpipe Commercial License, with configured cloud services able to receive context. API, MCP.
 
 ## Frontend Motion & Design
 - [Frontend Motion Stack](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/frontend-motion.md): GSAP + Lenis + Framer Motion — the three libraries that separate cinematic from AI-slop UI. GSAP for scroll-driven scenes and timelines, Lenis for smooth-scroll inertia, Framer Motion for React transitions. Free, Open.

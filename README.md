@@ -222,6 +222,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Context7](skills/context7.md) — keeps the agent's library docs current. 🧩 🔓
 - [Mem0](https://github.com/mem0ai/mem0) — open-source memory layer for AI agents and apps. 🔓
 - [Mnemoverse](https://mnemoverse.com) — hosted memory engine for AI agents, reached over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. 🔌 🧩 🆓
+- [Screenpipe](https://screenpipe.com): Search locally captured screen text and audio transcripts for work recall and meeting notes via MCP or a local API; source-available under the Screenpipe Commercial License, with configured cloud services able to receive context. 🔌 🧩
 
 ## AI Coding Agents
 
