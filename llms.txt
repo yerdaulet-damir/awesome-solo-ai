@@ -152,6 +152,8 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Hacker News](https://news.ycombinator.com): Show HN for dev/technical products.
 - [Reddit](https://reddit.com): niche communities; the #1 source AI engines cite.
 - [Indie Hackers](https://indiehackers.com): community of solo founders.
+- [startup-directories](https://github.com/saidbouig/startup-directories): 214 launch directories with the free route, measured link type and date checked. Free, Open.
+- [LaunchGrill](https://launchgrill.com): scores a landing page 0–100 against a published 18-test checklist, quoting the page for each finding. Free.
 - [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
 - [Buffer](https://buffer.com): multi-channel social scheduling.
 - [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
