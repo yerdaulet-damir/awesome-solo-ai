@@ -97,6 +97,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Notion MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/notion-mcp.md): read/write Notion docs and databases from an agent. MCP.
 - [Browserbase MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/browserbase.md): cloud browser for real clicks, form fills, screenshots. MCP.
 - [Sequential Thinking MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/sequential-thinking.md): externalises step-by-step reasoning before action, #1 by usage on Smithery. Open.
+- [Kleap](https://kleap.co/mcp): hosted MCP (OAuth, 26 tools) and npx kleap-cli stdio server to create, edit, and publish websites. API, MCP, Open.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents

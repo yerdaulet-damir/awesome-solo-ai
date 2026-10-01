@@ -181,6 +181,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Notion MCP](mcp/notion-mcp.md) — read/write Notion docs and databases as an agent tool. 🧩
 - [Browserbase MCP](mcp/browserbase.md) — cloud browser for clicks, form fills, and screenshots when scraping isn't enough. 🧩
 - [Sequential Thinking MCP](mcp/sequential-thinking.md) — externalises step-by-step reasoning; #1 by usage on Smithery. 🔓
+- [Kleap](https://kleap.co/mcp) — hosted MCP (OAuth, 26 tools) and `npx kleap-cli` stdio server to create, edit, and publish websites. 🔌 🧩 🔓
 
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
