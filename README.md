@@ -204,6 +204,7 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 - [ponytail](skills/ponytail.md) — anti-over-engineering skill that makes the agent "think like the laziest senior dev"; ~54% less code on average. 🔓
 - [redpen](https://github.com/yerdaulet-damir/redpen) — anti-slop *copywriting* skill: the old ad man with the red pen, every line must pass three questions (can I visualize it / falsify it / can nobody else say it) before it ships. Kills adjective-slop in headlines, landing pages, and taglines. 🔓
 - [superpowers](skills/superpowers.md) — plan-first, TDD agentic framework (brainstorm → plan → subagent execution → review). 🔓
+- [workkit](https://github.com/ITW-Creative-Works/workkit) - Claude Code plugin that runs GitHub Issues as a delivery pipeline: skills to triage, spec, build, review and ship each issue, checked by guard hooks and a scout, worker and verifier agent crew. 🆓
 - [Context7](skills/context7.md) — injects up-to-date library docs so the agent stops hallucinating stale APIs. 🧩 🔓
 
 ### Official Anthropic skills
