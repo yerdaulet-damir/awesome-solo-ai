@@ -237,6 +237,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Aider](https://aider.chat) — AI pair programming in your terminal. 🔓
 - [YYLO](https://github.com/yylo-dev/yylo) — command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree behind a risk-based merge queue. 🔓 🆓
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — records a coding-agent run beneath the harness, then replays it offline from the recorded bytes with no model called, or re-runs it from a chosen step on a different model. 🧩 🆓 🔓
+- [Orbi](https://github.com/orbi-build/orbi) — self-hosted coding agent for GitHub repos: label an issue `ai-ready` and it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges, and tags a release. 🔓 🆓
 
 ## Automation & Agent Frameworks
 

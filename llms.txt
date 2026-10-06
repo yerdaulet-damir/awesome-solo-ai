@@ -107,6 +107,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Aider](https://aider.chat): terminal AI pair programming. Open.
 - [YYLO](https://github.com/yylo-dev/yylo): command-line orchestrator for coding agents, typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, risk-based merge queue. Open, Free.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): records a coding-agent run beneath the harness, replays it offline from the recorded bytes with no model called, re-runs it from a chosen step on a different model, serves the trace store over MCP. MCP, Free, Open.
+- [Orbi](https://github.com/orbi-build/orbi): self-hosted coding agent for GitHub repos, label an issue and it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges, and tags a release. Open, Free.
 
 ## Automation & Agent Frameworks
 - [n8n](https://n8n.io): open-source workflow automation with AI nodes. Open.
