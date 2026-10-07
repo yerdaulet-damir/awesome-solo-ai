@@ -106,6 +106,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
 - [Aider](https://aider.chat): terminal AI pair programming. Open.
 - [YYLO](https://github.com/yylo-dev/yylo): command-line orchestrator for coding agents, typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, risk-based merge queue. Open, Free.
+- [5dive](https://github.com/5dive-ai/5dive): runs a team of AI agents on your own server, you hand them work from telegram. Open, Free.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): records a coding-agent run beneath the harness, replays it offline from the recorded bytes with no model called, re-runs it from a chosen step on a different model, serves the trace store over MCP. MCP, Free, Open.
 
 ## Automation & Agent Frameworks

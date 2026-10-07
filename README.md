@@ -236,6 +236,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
 - [Aider](https://aider.chat) — AI pair programming in your terminal. 🔓
 - [YYLO](https://github.com/yylo-dev/yylo) — command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree behind a risk-based merge queue. 🔓 🆓
+- [5dive](https://github.com/5dive-ai/5dive) — runs a team of AI agents on your own server. you hand them work from telegram. 🔓 🆓
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — records a coding-agent run beneath the harness, then replays it offline from the recorded bytes with no model called, or re-runs it from a chosen step on a different model. 🧩 🆓 🔓
 
 ## Automation & Agent Frameworks
