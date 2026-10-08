@@ -270,6 +270,7 @@ The libraries that separate cinematic from slop. **→ Full stack page: [tools/f
 The plumbing a solo builder needs to ship and run an AI product — picked for their AI-relevant angle, not as a generic dev-tools list.
 
 - [Supabase](https://supabase.com) — Postgres + auth + storage with `pgvector` built in, so it doubles as the vector store for your RAG. 🔌 🔓
+- [Prisma Postgres](https://www.prisma.io/postgres) - managed Postgres with zero cold starts and a no-card free plan; `npx create-db@latest` creates a database from the terminal, and the official MCP server lets agents manage it. 🔌 🧩 🆓
 - [Vercel](https://vercel.com) — deploy in one push, plus the [AI SDK](https://sdk.vercel.ai) and [v0](https://v0.dev) for building AI UIs. 🔌
 - [PostHog](https://posthog.com) — product analytics, session replay, and LLM analytics to track AI feature cost and quality. 🔌 🔓
 - [Self-hosted analytics for solo builders](guides/self-hosted-analytics.md), open-source web, product, and LLM observability you can own (Umami, Plausible, Langfuse, Helicone) plus analytics MCP servers.
