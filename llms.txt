@@ -136,6 +136,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 ## Backend, Deploy & Analytics
 - [Supabase](https://supabase.com): Postgres + auth + storage with pgvector built in (vector store for RAG). API, Open.
 - [Vercel](https://vercel.com): one-push deploy plus the AI SDK and v0 for AI UIs. API.
+- [Prisma Compute](https://www.prisma.io/compute): TypeScript app and agent hosting next to Prisma Postgres, scale to zero, 1M requests/month free. MCP, Free.
 - [PostHog](https://posthog.com): product analytics, session replay, and LLM analytics for AI feature cost/quality. API, Open.
 - [Convex](https://convex.dev): reactive backend with first-class AI agent/workflow support. API.
 - [Clerk](https://clerk.com): drop-in auth. API.

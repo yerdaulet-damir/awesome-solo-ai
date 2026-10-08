@@ -271,6 +271,7 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 
 - [Supabase](https://supabase.com) — Postgres + auth + storage with `pgvector` built in, so it doubles as the vector store for your RAG. 🔌 🔓
 - [Vercel](https://vercel.com) — deploy in one push, plus the [AI SDK](https://sdk.vercel.ai) and [v0](https://v0.dev) for building AI UIs. 🔌
+- [Prisma Compute](https://www.prisma.io/compute) - hosts TypeScript apps and AI agents (Node.js, Bun or Next.js) next to Prisma Postgres, with streamed responses and scale to zero when idle; free plan includes 1M requests/month. 🧩 🆓
 - [PostHog](https://posthog.com) — product analytics, session replay, and LLM analytics to track AI feature cost and quality. 🔌 🔓
 - [Self-hosted analytics for solo builders](guides/self-hosted-analytics.md), open-source web, product, and LLM observability you can own (Umami, Plausible, Langfuse, Helicone) plus analytics MCP servers.
 - [Convex](https://convex.dev) — reactive backend with first-class AI agent and workflow support. 🔌
