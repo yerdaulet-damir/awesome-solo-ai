@@ -307,6 +307,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Robot Speed](https://www.robot-speed.com/mcp) — hosted SEO and AI-visibility MCP. OAuth endpoint has 39 tools; `/api/mcp/free` is no-auth and has 12. 🔌 🧩 🆓 🔓
 - [LogNorm](https://lognorm.com) — hosted MCP server that gives Claude Code, Codex and Cursor a ranked backlog of SEO and AI-visibility fixes, content and research for your site; OAuth, no API keys. Free plan, paid from $99/mo. 🧩 🆓
 - [SEO and GEO tools](distribution/seo-geo-tools.md), skills and MCP servers to rank in Google and get cited by ChatGPT and Perplexity.
+- [Drevon](https://www.drevon.dev) — Mac app that connects to your Claude Code or Codex and turns it into an end-to-end GTM operator: research, grunt work, analysis and actions across your stack from a single prompt, in your own browser with your own logins. 🆓
 
 **Make the content**
 - [Faceless content factory](playbooks/faceless-content-factory.md) — turn the [video](#video-generation), [voice](#voice-tts--cloning), and [avatar](#ai-avatars--talking-heads) tools above into a posting machine.
