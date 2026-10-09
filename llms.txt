@@ -98,6 +98,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Browserbase MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/browserbase.md): cloud browser for real clicks, form fills, screenshots. MCP.
 - [Sequential Thinking MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/sequential-thinking.md): externalises step-by-step reasoning before action, #1 by usage on Smithery. Open.
 - [Invompt](https://invompt.com): drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. MCP, Free.
+- [Datacircle](https://datacircle.dev): Query your favorite B2B data APIs through us. Same request, same price, no markup. Use it from Claude, ChatGPT or Cursor: add api.datacircle.dev/mcp as an MCP server. API, MCP, Free.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
