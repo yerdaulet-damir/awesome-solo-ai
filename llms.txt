@@ -110,6 +110,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [5dive](https://github.com/5dive-ai/5dive): runs a team of AI agents on your own server, you hand them work from telegram. Open, Free.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): records a coding-agent run beneath the harness, replays it offline from the recorded bytes with no model called, re-runs it from a chosen step on a different model, serves the trace store over MCP. MCP, Free, Open.
 - [Orbi](https://github.com/orbi-build/orbi): self-hosted coding agent for GitHub repos, label an issue and it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges, and tags a release. Open, Free.
+- [Sillage](https://github.com/MarlBurroW/sillage): self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, server-side sessions that outlive the client, full-text search across conversations, IDE panel with files/editor/diffs/terminal, worktrees, installable PWA, single Docker container. MCP, Free, Open.
 
 ## Automation & Agent Frameworks
 - [n8n](https://n8n.io): open-source workflow automation with AI nodes. Open.
