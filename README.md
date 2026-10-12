@@ -227,7 +227,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Mem0](https://github.com/mem0ai/mem0) — open-source memory layer for AI agents and apps. 🔓
 - [Mnemoverse](https://mnemoverse.com) — hosted memory engine for AI agents, reached over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. 🔌 🧩 🆓
 - [Screenpipe](https://screenpipe.com): Search locally captured screen text and audio transcripts for work recall and meeting notes via MCP or a local API; source-available under the Screenpipe Commercial License, with configured cloud services able to receive context. 🔌 🧩
-- [ORANO Personal Context MCP](https://oranoai.com/mcp) — personal read-only remote MCP server (streamable HTTP, per-user Bearer key) that lets your agent search summaries and takeaways from videos, articles and PDFs you saved in ORANO; MIT-licensed server code. 🧩
+- [ORANO Personal Context MCP](https://oranoai.com/mcp) — personal read-only remote MCP server (streamable HTTP, per-user Bearer key) that lets your agent search summaries and takeaways from videos, articles and PDFs you saved in ORANO. 🧩
 
 ## AI Coding Agents
 
