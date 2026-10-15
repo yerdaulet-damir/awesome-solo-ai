@@ -153,6 +153,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [frontend-design](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/frontend-design.md): Anthropic skill that forces a deliberate aesthetic, kills AI-slop UI. Open.
 - [scroll-world](https://github.com/oso95/scroll-world): agent skill that turns any brand into a scrollable 3D world with scroll-driven camera fly-throughs. Open.
 - [claude-seo](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/claude-seo.md): full SEO/GEO suite — audit, schema, backlinks, AI-search optimization. Open.
+- [Karma.Domains](https://karma.domains): expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). API, MCP.
 - [NotFair](https://github.com/nowork-studio/NotFair): Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. Open.
 - [ponytail](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md): anti-over-engineering skill, ~54% less code, "think like the laziest senior dev". Open.
 - [redpen](https://github.com/yerdaulet-damir/redpen): anti-slop copywriting skill for Claude Code, Cursor, Cline & Copilot. The old ad man with the red pen: every line must pass three questions — can I visualize it, can I falsify it, can nobody else say it — before it ships. Kills adjective-slop in headlines, landing pages, taglines. Open.

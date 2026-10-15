@@ -200,6 +200,7 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 
 ### SEO & growth
 - [claude-seo](skills/claude-seo.md) — full SEO/GEO suite: technical audit, schema, E-E-A-T, backlinks, AI-search optimization, PDF reports. 🔓
+- [Karma.Domains](https://karma.domains) — expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). 🔌 🧩
 - [NotFair](https://github.com/nowork-studio/NotFair) — Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. 🔓
 
 ### Code quality & anti-slop
