@@ -6,7 +6,7 @@
 
 **A free solo AI stack is the set of AI tools with genuine free tiers or open-source licenses that a one-person business can use to ship video, voice, images, code, and automations at zero starting cost.** This page filters the full [Awesome Solo AI](README.md) list down to only what's free to begin with. Paid upgrades exist, but you can launch without a credit card.
 
-_Last updated: June 2026._
+_Last updated: September 2026._
 
 ## LLM access (free tier)
 - [OpenRouter](https://openrouter.ai) — free models and a free daily request quota across one API. 🆓
@@ -19,7 +19,9 @@ _Last updated: June 2026._
 - [ElevenLabs](https://elevenlabs.io) — free monthly TTS quota. 🆓
 - [Suno](https://suno.com) — free song generations. 🆓
 - [Fish Audio](https://fish.audio) — open-source TTS and voice cloning. 🔓
+- [Piper](https://github.com/OHF-Voice/piper1-gpl) — fast local neural TTS with CLI, Python, C/C++, and HTTP interfaces; runs offline. Voice-model licenses vary. 🆓 🔓
 - [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio) — fully-local, open-source ElevenLabs alternative; no API keys, 646 languages. 🆓 🔓
+- [UpRes](https://upres.ai) — 5 watermarked image upscales per month for personal/evaluation use. 🆓
 
 ## Open-source / open-weight
 - [FLUX](https://bfl.ai) — open-weight image models you can self-host. 🔓

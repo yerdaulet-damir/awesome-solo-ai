@@ -4,7 +4,7 @@ The podcasts, YouTube channels, and newsletters solo builders actually use to bu
 
 ## Podcasts
 
-- [Indie Hackers Podcast](https://www.indiehackers.com/podcast) by [Courtland Allen](https://www.indiehackers.com), where founders walk through their real revenue and the exact channel that landed their first paying customers.
+- [Indie Hackers Podcast](https://www.indiehackers.com/podcasts) by [Courtland Allen](https://www.indiehackers.com), where founders walk through their real revenue and the exact channel that landed their first paying customers.
 - [Lenny's Podcast](https://www.lennysnewsletter.com/podcast) by [Lenny Rachitsky](https://www.lennysnewsletter.com), where the operators behind well known products break down the product, growth, and pricing calls they actually made.
 - [My First Million](https://www.mfmpod.com/) by [Shaan Puri](https://shaanpuri.com) and Sam Parr, a running feed of business ideas and market gaps that helps you spot what a solo builder could ship next.
 - [The Startup Ideas Podcast](https://open.spotify.com/show/6aB0v6amo3a8hgTCjlTlvh) by [Greg Isenberg](https://www.youtube.com/@GregIsenberg), twice weekly teardowns of specific AI product ideas, often built live with tools you can copy.
