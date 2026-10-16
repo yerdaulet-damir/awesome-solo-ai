@@ -299,6 +299,8 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [IdeaHunter](https://ideahunter.today) — turns public buyer pain and market signals into scoped app ideas with source evidence, MVP boundaries, and a validation step. 🆓
 - [FalcoScan](https://falcoscan.com) — searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. 🔌 🧩
 
+- [LaunchSpy](https://launchspy.io) — tracks Meta ads, funnels and software used by course creators, coaches and community owners; [API and MCP access](https://launchspy.io/mcp) require Pro or Business. 🔌 🧩
+
 **Where to launch**
 - [Product Hunt](https://producthunt.com) — the classic launch-day spike for tools and SaaS.
 - [Hacker News](https://news.ycombinator.com) — "Show HN" for dev/technical products; high-signal traffic.

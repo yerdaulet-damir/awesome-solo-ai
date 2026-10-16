@@ -176,6 +176,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
 - [Buffer](https://buffer.com): multi-channel social scheduling.
 - [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
+- [LaunchSpy](https://launchspy.io): tracks Meta ads, funnels and software used by course creators, coaches and community owners; API and MCP access (https://launchspy.io/mcp) require Pro or Business. API, MCP.
 - [FalcoScan](https://falcoscan.com): searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. API, MCP.
 - [SocialEcho](https://www.socialecho.net): publishing, monitoring, analytics, and message management across eleven social platforms. Free.
 - [shortshort](https://www.shortshort.io): turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
