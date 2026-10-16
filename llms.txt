@@ -219,6 +219,8 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [LogNorm](https://lognorm.com): hosted MCP server that gives Claude Code, Codex and Cursor a ranked backlog of SEO and AI-visibility fixes, content and research for your site; OAuth, no API keys. Free plan, paid from $99/mo. MCP, Free.
 - [Said by AI](https://www.saidbyai.com/): asks GPT-4o mini 20 buyer-style questions about your category in three answer styles and reports how often your brand is named, which competitors are named instead, and what to change; one-time audit, free 5-question check. Free.
 
+- [NeverDrafts](https://www.neverdrafts.com): checks brand mentions and citations across ChatGPT, Claude, Google AI Mode and Perplexity, then drafts content and publishes it to WordPress, Webflow or Framer; free audit, paid monitoring.
+
 ## Self-Hosted Analytics
 - [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Highlight, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
 
