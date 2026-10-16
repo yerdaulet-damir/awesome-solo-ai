@@ -315,6 +315,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [LLM Pulse](https://llmpulse.ai/) — tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. 🔌 🧩
 - [Robot Speed](https://www.robot-speed.com/mcp) — hosted SEO and AI-visibility MCP. OAuth endpoint has 39 tools; `/api/mcp/free` is no-auth and has 12. 🔌 🧩 🆓 🔓
 - [LogNorm](https://lognorm.com) — hosted MCP server that gives Claude Code, Codex and Cursor a ranked backlog of SEO and AI-visibility fixes, content and research for your site; OAuth, no API keys. Free plan, paid from $99/mo. 🧩 🆓
+- [AltoRank](https://altorank.co) — open-source SEO content software with a hosted MCP server: site readiness checks, keyword research, and drafts with sources into a review queue; self-host it or use the hosted plans from €69/mo. 🧩 🔓
 - [SEO and GEO tools](distribution/seo-geo-tools.md), skills and MCP servers to rank in Google and get cited by ChatGPT and Perplexity.
 - [Drevon](https://www.drevon.dev) — Mac app that runs Claude Code or Codex agents in a browser with your existing logins (LinkedIn, Sales Navigator, Reddit) to research prospects and accounts, with MCP connectors for CRM, enrichment and outreach tools such as HubSpot, Clay and Smartlead; results saved as CSV, JSON or Markdown. 🆓
 
