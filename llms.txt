@@ -82,10 +82,12 @@ This file is machine-readable. Agents may read it to find and call the right too
 ## MCP Servers
 - [Agent QA](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/agent-qa.md): natural-language web/mobile tests with persistent test memory and self-healing flows. MCP, Free.
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway): proprietary hosted API discovery and execution for generation, search, scraping, maps and data; OAuth or API key; pricing and free tiers vary by API. MCP.
+- [Aident Loadout](https://aident.ai): remote MCP at https://loadout.aident.ai/mcp (setup guide: https://docs.aident.ai/loadout/mcp) that connects coding agents to 400+ Skills and connected apps through one setup; pay-as-you-go, some apps need your own OAuth or stored credentials, which stay in Vault with a full audit trail. MCP.
 - [HeyGen MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md): avatar video, voice clone, speech as agent tools. MCP.
 - [ElevenLabs MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/elevenlabs.md): TTS, cloning, dubbing, SFX. MCP, Open.
 - [Cartesia MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/cartesia.md): low-latency realtime speech. MCP, Open.
 - [Ideogram MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/ideogram.md): hosted image gen with typography. MCP.
+- [Karma.Domains](https://karma.domains/en/expired-domains-mcp/): expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). API, MCP.
 - [Playwright MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/playwright.md): drive a real browser. MCP, Open.
 - [GitHub MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/github.md): issues, PRs, repo actions. MCP, Open.
 - [Higgsfield](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/higgsfield.md): cinematic video gen, API-first, how to drive from an agent. API.
@@ -100,6 +102,9 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Invompt](https://invompt.com): drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. MCP, Free.
 - [looot](https://looot.ai): one API key and prepaid balance for 2,500+ data endpoints (work emails, phones, company enrichment, Google SERP, web pages) over a remote MCP server; pay per call, no free tier. API, MCP.
 - [Kleap](https://kleap.co/mcp): hosted MCP (OAuth, 34 tools) and npx kleap-cli stdio server to create, edit, and publish websites. API, MCP, Open.
+- [CurlShot](https://curlshot.com): screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. API, MCP, Free.
+- [VideoGen MCP](https://videogen.io/videogen-mcp): video workflows, media generation, project remixing and MP4 export; VideoGen API access and paid generation credits required. API, MCP.
+- [Statsnet MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/statsnet.md): look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. MCP, Free.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
@@ -109,6 +114,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Massvai](https://massvai.com): builds exportable Next.js apps from prompts, with a live preview, Supabase, GitHub sync, and Vercel deployment. Free.
 - [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
 - [Aider](https://aider.chat): terminal AI pair programming. Open.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): desktop and web workspace for running coding agents in parallel Git worktrees with automated verification and review; FSL-1.1-ALv2 license.
 - [YYLO](https://github.com/yylo-dev/yylo): command-line orchestrator for coding agents, typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, risk-based merge queue. Open, Free.
 - [5dive](https://github.com/5dive-ai/5dive): runs a team of AI agents on your own server, you hand them work from telegram. Open, Free.
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): records a coding-agent run beneath the harness, replays it offline from the recorded bytes with no model called, re-runs it from a chosen step on a different model, serves the trace store over MCP. MCP, Free, Open.
@@ -172,6 +178,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
 - [Buffer](https://buffer.com): multi-channel social scheduling.
 - [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
+- [LaunchSpy](https://launchspy.io): tracks Meta ads, funnels and software used by course creators, coaches and community owners; API and MCP access (https://launchspy.io/mcp) require Pro or Business. API, MCP.
 - [FalcoScan](https://falcoscan.com): searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. API, MCP.
 - [SocialEcho](https://www.socialecho.net): publishing, monitoring, analytics, and message management across eleven social platforms. Free.
 - [shortshort](https://www.shortshort.io): turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
@@ -210,7 +217,11 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [LLM Pulse](https://llmpulse.ai/): tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. API, MCP.
 - [Robot Speed](https://www.robot-speed.com/mcp): hosted SEO and AI-visibility MCP. OAuth endpoint has 39 tools; /api/mcp/free is no-auth and has 12. API, MCP, Free, Open.
 - [LogNorm](https://lognorm.com): hosted MCP server that gives Claude Code, Codex and Cursor a ranked backlog of SEO and AI-visibility fixes, content and research for your site; OAuth, no API keys. Free plan, paid from $99/mo. MCP, Free.
-- [AltoRank](https://altorank.co): open-source SEO content software with a hosted MCP server: site readiness checks, keyword research, and drafts with sources into a review queue; self-host it or use the hosted plans from €69/mo. MCP, Open.
+- [Said by AI](https://www.saidbyai.com/): asks GPT-4o mini 20 buyer-style questions about your category in three answer styles and reports how often your brand is named, which competitors are named instead, and what to change; one-time audit, free 5-question check. Free.
+
+- [NeverDrafts](https://www.neverdrafts.com): checks brand mentions and citations across ChatGPT, Claude, Google AI Mode and Perplexity, then drafts content and publishes it to WordPress, Webflow or Framer; free audit, paid monitoring.
+
+- [AltoRank](https://altorank.co): SEO content software for keyword research, site readiness checks and drafts with sources for human review; self-hosted under AGPL-3.0 (https://github.com/AltoRank/altorank) or hosted, with an official MCP server. MCP, Open.
 
 ## Self-Hosted Analytics
 - [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Highlight, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.

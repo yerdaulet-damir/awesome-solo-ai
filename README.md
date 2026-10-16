@@ -166,10 +166,12 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 
 - [Agent QA](mcp/agent-qa.md) — run natural-language web/mobile tests with persistent test memory and self-healing flows. 🧩 🆓
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) — proprietary hosted gateway to discover and call APIs for generation, search, scraping, maps and data; OAuth or API key, with pricing and free tiers varying by API. 🧩
+- [Aident Loadout](https://aident.ai) — remote MCP at `https://loadout.aident.ai/mcp` ([setup guide](https://docs.aident.ai/loadout/mcp)) that connects coding agents to 400+ Skills and connected apps through one setup; pay-as-you-go, some apps need your own OAuth or stored credentials, which stay in Vault with a full audit trail. 🧩
 - [HeyGen MCP](mcp/heygen.md) — generate avatar videos, clone voices, and create speech from your agent. 🧩
 - [ElevenLabs MCP](mcp/elevenlabs.md) — TTS, voice cloning, dubbing, and SFX as agent tools. 🧩 🔓
 - [Cartesia MCP](mcp/cartesia.md) — low-latency realtime speech generation for agents. 🧩 🔓
 - [Ideogram MCP](mcp/ideogram.md) — hosted image generation with real typography over MCP. 🧩
+- [Karma.Domains](https://karma.domains/en/expired-domains-mcp/) — expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). 🔌 🧩
 - [Playwright MCP](mcp/playwright.md) — drive a real browser for testing and scraping. 🧩 🔓
 - [GitHub MCP](mcp/github.md) — issues, PRs, and repo actions from your agent. 🧩 🔓
 - [Higgsfield](mcp/higgsfield.md) — cinematic video gen (API-first; how to drive it from an agent today). 🔌
@@ -184,6 +186,11 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Invompt](https://invompt.com) — drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. 🧩 🆓
 - [looot](https://looot.ai) — one API key and prepaid balance for 2,500+ data endpoints (work emails, phones, company enrichment, Google SERP, web pages) over a remote MCP server; pay per call, no free tier. 🔌 🧩
 - [Kleap](https://kleap.co/mcp) — hosted MCP (OAuth, 34 tools) and `npx kleap-cli` stdio server to create, edit, and publish websites. 🔌 🧩 🔓
+- [CurlShot](https://curlshot.com) — screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. 🔌 🧩 🆓
+
+- [VideoGen MCP](https://videogen.io/videogen-mcp) — create videos, generate media, remix projects and export MP4s; requires VideoGen API access and paid generation credits. 🔌 🧩
+
+- [Statsnet MCP](mcp/statsnet.md) — look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. 🧩 🆓
 
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
@@ -241,6 +248,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [Windsurf](https://windsurf.com) — agentic IDE with deep codebase awareness.
 - [Cline](https://github.com/cline/cline) — open-source autonomous coding agent for VS Code. 🔓
 - [Aider](https://aider.chat) — AI pair programming in your terminal. 🔓
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril) — desktop and web workspace for running coding agents in parallel Git worktrees with automated verification and review; FSL-1.1-ALv2 license.
 - [YYLO](https://github.com/yylo-dev/yylo) — command-line orchestrator for coding agents with typed task, validation, merge, and release-readiness boundaries; each task runs in a dedicated branch/worktree behind a risk-based merge queue. 🔓 🆓
 - [5dive](https://github.com/5dive-ai/5dive) — runs a team of AI agents on your own server. you hand them work from telegram. 🔓 🆓
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — records a coding-agent run beneath the harness, then replays it offline from the recorded bytes with no model called, or re-runs it from a chosen step on a different model. 🧩 🆓 🔓
@@ -294,6 +302,8 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [IdeaHunter](https://ideahunter.today) — turns public buyer pain and market signals into scoped app ideas with source evidence, MVP boundaries, and a validation step. 🆓
 - [FalcoScan](https://falcoscan.com) — searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. 🔌 🧩
 
+- [LaunchSpy](https://launchspy.io) — tracks Meta ads, funnels and software used by course creators, coaches and community owners; [API and MCP access](https://launchspy.io/mcp) require Pro or Business. 🔌 🧩
+
 **Where to launch**
 - [Product Hunt](https://producthunt.com) — the classic launch-day spike for tools and SaaS.
 - [Hacker News](https://news.ycombinator.com) — "Show HN" for dev/technical products; high-signal traffic.
@@ -315,7 +325,9 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [LLM Pulse](https://llmpulse.ai/) — tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. 🔌 🧩
 - [Robot Speed](https://www.robot-speed.com/mcp) — hosted SEO and AI-visibility MCP. OAuth endpoint has 39 tools; `/api/mcp/free` is no-auth and has 12. 🔌 🧩 🆓 🔓
 - [LogNorm](https://lognorm.com) — hosted MCP server that gives Claude Code, Codex and Cursor a ranked backlog of SEO and AI-visibility fixes, content and research for your site; OAuth, no API keys. Free plan, paid from $99/mo. 🧩 🆓
-- [AltoRank](https://altorank.co) — open-source SEO content software with a hosted MCP server: site readiness checks, keyword research, and drafts with sources into a review queue; self-host it or use the hosted plans from €69/mo. 🧩 🔓
+- [Said by AI](https://www.saidbyai.com/) — asks GPT-4o mini 20 buyer-style questions about your category in three answer styles and reports how often your brand is named, which competitors are named instead, and what to change; one-time audit, free 5-question check. 🆓
+- [NeverDrafts](https://www.neverdrafts.com) — checks brand mentions and citations across ChatGPT, Claude, Google AI Mode and Perplexity, then drafts content and publishes it to WordPress, Webflow or Framer; free audit, paid monitoring.
+- [AltoRank](https://altorank.co) — SEO content software for keyword research, site readiness checks and drafts with sources for human review; [self-hosted](https://github.com/AltoRank/altorank) under AGPL-3.0 or hosted, with an official MCP server. 🧩 🔓
 - [SEO and GEO tools](distribution/seo-geo-tools.md), skills and MCP servers to rank in Google and get cited by ChatGPT and Perplexity.
 - [Drevon](https://www.drevon.dev) — Mac app that runs Claude Code or Codex agents in a browser with your existing logins (LinkedIn, Sales Navigator, Reddit) to research prospects and accounts, with MCP connectors for CRM, enrichment and outreach tools such as HubSpot, Clay and Smartlead; results saved as CSV, JSON or Markdown. 🆓
 
