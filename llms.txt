@@ -102,6 +102,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Invompt](https://invompt.com): drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. MCP, Free.
 - [looot](https://looot.ai): one API key and prepaid balance for 2,500+ data endpoints (work emails, phones, company enrichment, Google SERP, web pages) over a remote MCP server; pay per call, no free tier. API, MCP.
 - [Kleap](https://kleap.co/mcp): hosted MCP (OAuth, 34 tools) and npx kleap-cli stdio server to create, edit, and publish websites. API, MCP, Open.
+- [CurlShot](https://curlshot.com): screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. API, MCP, Free.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
