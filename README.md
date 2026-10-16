@@ -188,6 +188,8 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Kleap](https://kleap.co/mcp) — hosted MCP (OAuth, 34 tools) and `npx kleap-cli` stdio server to create, edit, and publish websites. 🔌 🧩 🔓
 - [CurlShot](https://curlshot.com) — screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. 🔌 🧩 🆓
 
+- [VideoGen MCP](https://videogen.io/videogen-mcp) — create videos, generate media, remix projects and export MP4s; requires VideoGen API access and paid generation credits. 🔌 🧩
+
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
 **Registries to discover more:** [Official MCP Registry](https://github.com/modelcontextprotocol/registry) · [Smithery](https://smithery.ai) · [mcp.so](https://mcp.so) · [PulseMCP](https://www.pulsemcp.com) · [Glama](https://glama.ai/mcp/servers)
