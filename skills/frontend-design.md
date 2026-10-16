@@ -1,32 +1,21 @@
-# frontend-design — Anthropic's anti-slop UI skill
+# frontend-design: Anthropic's Frontend Skill
 
-> Forces a deliberate aesthetic before writing UI, so your app stops looking AI-generated.
+[frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) is an instruction set for a coding agent working on interfaces. It asks the agent to choose a visual direction and pay attention to typography, composition, color and implementation detail.
 
-## What is the frontend-design skill?
-
-**frontend-design is Anthropic's official Claude Code skill for producing distinctive, production-grade interfaces.** It steers the agent away from the generic defaults that mark AI-built apps — banning go-to fonts like Inter and Roboto and requiring a considered visual direction before any component is written.
-
-It ships in the official [anthropics/skills](https://github.com/anthropics/skills) repo and is among the most-installed skills in Anthropic's directory (hundreds of thousands of installs).
-
-## Why it matters for solo builders
-
-First impressions decide whether a solo product reads as "real" or "weekend AI demo." frontend-design raises the floor on visual quality with zero design effort, which matters most exactly when there's no designer on the team.
+It does not provide a component runtime or guarantee a finished design. The agent still needs product facts, usable assets, responsive requirements and feedback on the rendered page.
 
 ## When to use it
 
-- Marketing sites, landing pages, and app UIs where look-and-feel converts.
-- Whenever the agent's default output feels generic.
+Use it when an agent is building or revising a landing page, portfolio, website or application interface and needs explicit design guidance. For selecting libraries and references, start with the [frontend design resource guide](../guides/cinematic-frontend-not-slop.md).
 
-Pair with [ui-ux-pro-max](ui-ux-pro-max.md): frontend-design enforces taste, ui-ux-pro-max supplies the concrete style/palette/font system.
+## Source and installation
 
-## Install
+Read the [actual skill file](https://github.com/anthropics/skills/blob/main/skills/frontend-design/SKILL.md) and follow the [Anthropic skills repository instructions](https://github.com/anthropics/skills) for installation in your agent. Keep the selected skill's supporting files and license with it. Skill discovery and plugin installation differ between agents.
 
-It's part of the official Anthropic skills collection — install from [anthropics/skills](https://github.com/anthropics/skills) or the Claude Code plugin directory, then invoke it when building any interface.
+The community projects [scroll-craft](https://github.com/nateherkai/scroll-craft) and [scroll-world](https://github.com/oso95/scroll-world) have their own authors, workflows and media requirements; they are not this Anthropic skill.
 
-## Source
+## Give the agent enough to work with
 
-[github.com/anthropics/skills](https://github.com/anthropics/skills)
+Supply the audience, product explanation, real copy and assets, reference URLs with the detail you want to study, and the action the page should enable. Review the result at desktop and mobile widths, including keyboard use, reduced motion and loading states.
 
----
-
-_Part of [Awesome Solo AI](../README.md) — curated by [Yerdaulet Damir](https://yerdaulet.xyz). The AI stack solo builders feed to Claude Code._
+[Frontend resources](../guides/cinematic-frontend-not-slop.md) · [Component libraries](../tools/landing-page-libraries.md) · [All skills](README.md)

@@ -4,6 +4,8 @@ AI tools, Claude skills, MCP servers and workflows for solopreneurs, indie hacke
 
 Start with the [starter stack](#-the-starter-stack) or the [free stack](free-solo-ai-stack.md). Looking for an agent integration? Go to [MCP servers](#mcp-servers) or [Claude skills and plugins](#claude-skills--plugins).
 
+For website work, use the [frontend design resource guide](guides/cinematic-frontend-not-slop.md): inspiration, component libraries, GSAP, Motion, 3D and agent skills.
+
 _Updated: October 2026._
 
 Give Claude Code or Cursor the [`llms.txt`](llms.txt) index, for example:
@@ -267,15 +269,14 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 
 ## Frontend Motion & Design
 
-The libraries that separate cinematic from slop. **→ Full stack page: [tools/frontend-motion.md](tools/frontend-motion.md) · Guide: [How to make your frontend not look like AI slop](guides/cinematic-frontend-not-slop.md)**
+Start with [How to Build Beautiful Websites Without AI Slop](guides/cinematic-frontend-not-slop.md): a curated directory organized by the page and interaction you need. Also available as a [readable web guide](https://yerdaulet-damir.github.io/awesome-solo-ai/frontend-design/).
 
-- [GSAP + ScrollTrigger](tools/frontend-motion.md) — industry-standard animation engine; scroll-pinned scenes, scrubbed timelines, staggered reveals. Free for most use. 🔌 🆓
-- [Lenis](tools/frontend-motion.md) — smooth-scroll inertia wrapper; 6 lines to wire into GSAP. MIT. 🆓 🔓
-- [Framer Motion / Motion](tools/frontend-motion.md) — declarative React animation: `whileInView`, `AnimatePresence`, layout animations. MIT. 🆓 🔓
-- [ui-ux-pro-max skill](skills/ui-ux-pro-max.md) — 161 palettes + 57 font pairings as Claude context; pick the design system before writing a line of code. 🔓
-- [award-winning-motion skill](https://github.com/anthropics/skills) — GSAP + ScrollTrigger + Lenis playbook as a Claude skill: cinematic preloaders, scroll-zoom, scrub. 🔓
-- [scroll-world skill](https://github.com/anthropics/skills) — scroll-driven narrative sequencing; each section escalates one story. 🔓
-- [Landing page libraries](tools/landing-page-libraries.md), component kits, 3D, and motion tools for pages that do not read as a template (shadcn/ui, HeroUI, Magic UI, React Three Fiber, Anime.js).
+- [Landing-page component libraries](tools/landing-page-libraries.md) — 21st.dev, React Bits, shadcn/ui, Tailark, Motion Primitives and other registries, compared by task.
+- [Frontend motion](tools/frontend-motion.md) — GSAP vs Motion (Framer Motion), Lenis, Anime.js, native CSS, installation and reduced-motion considerations.
+- [Design inspiration, fonts and icons](guides/cinematic-frontend-not-slop.md#web-design-inspiration-and-live-references) — Awwwards, Landing Love, Codrops, type references and icon families.
+- [scroll-craft](https://github.com/nateherkai/scroll-craft) — agent workflow and supporting tools for scroll-driven websites, responsive composition and visual verification. 🔓
+- [scroll-world](https://github.com/oso95/scroll-world) — builds a continuous scene/video journey scrubbed by scroll; generated media may require paid services. 🔓
+- [frontend-design](https://github.com/anthropics/skills/tree/main/skills/frontend-design) and [ui-ux-pro-max](skills/ui-ux-pro-max.md) — agent instructions and design references; use them with a concrete brief and rendered-page review.
 
 ## Backend, Deploy & Analytics
 
@@ -362,7 +363,7 @@ Hands-on, practical tutorials — Karpathy/Kaggle energy, not theory. See [`/gui
 - [AI video editing and faceless video repos (MCP servers, pipelines, frameworks)](guides/ai-video-editing-repos.md)
 - [How to build automations without code](guides/automations-without-code.md)
 - [How to eliminate AI-slop code and write production-grade code](guides/kill-ai-slop-code.md)
-- [How to make your AI-generated frontend not look like slop (GSAP + Lenis + Framer Motion)](guides/cinematic-frontend-not-slop.md)
+- [Beautiful websites without AI slop: frontend libraries, design references and agent skills](guides/cinematic-frontend-not-slop.md)
 
 ## Playbooks
 

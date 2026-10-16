@@ -4,6 +4,12 @@
 
 A **tool page** is a self-contained reference an AI agent (or a human) can read to decide whether to use a tool and how to call it. Below, grouped by job. More are added continuously — [contribute one](../CONTRIBUTING.md).
 
+## Frontend design and websites
+
+- [Beautiful websites without AI slop](../guides/cinematic-frontend-not-slop.md) — the full directory: design references, frameworks, components, motion, 3D, fonts, icons and agent skills.
+- [Landing-page component libraries](landing-page-libraries.md) — choose a registry, UI foundation or section library by task.
+- [Frontend motion](frontend-motion.md) — compare GSAP, Motion, Lenis, Anime.js and native CSS.
+
 ## LLM access
 - [OpenRouter](openrouter.md) — one API key, every model.
 

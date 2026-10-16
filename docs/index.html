@@ -9,6 +9,7 @@
 <meta name="robots" content="index, follow, max-image-preview:large" />
 <meta name="author" content="Yerdaulet Damir" />
 <link rel="canonical" href="https://yerdaulet-damir.github.io/awesome-solo-ai/" />
+<link rel="alternate" type="text/plain" href="llms.txt" title="Machine-readable catalog" />
 <meta name="theme-color" content="#080b0a" />
 <meta property="og:type" content="website" />
 <meta property="og:site_name" content="Awesome Solo AI" />
@@ -58,8 +59,13 @@
   #pre .cnt{font-family:var(--mono);font-size:clamp(64px,16vw,200px);font-weight:500;line-height:.9;color:var(--text)}
   #pre .cnt sup{font-size:.3em;color:var(--accent-bright);vertical-align:super}
 
-  nav{position:fixed;top:0;left:0;right:0;z-index:40;display:flex;align-items:center;justify-content:space-between;padding:20px 28px;font-family:var(--mono);font-size:13px;mix-blend-mode:difference}
+  nav{position:fixed;top:0;left:0;right:0;z-index:110;display:flex;align-items:center;justify-content:space-between;padding:20px 28px;font-family:var(--mono);font-size:13px;mix-blend-mode:difference}
   nav .dot{display:inline-block;width:8px;height:8px;border-radius:50%;background:var(--accent-bright);margin-right:8px;animation:blink 1.4s steps(1) infinite}
+  .nav-links{display:flex;gap:22px}
+  .nav-links a:focus-visible{outline:2px solid currentColor;outline-offset:5px}
+  .guide-link{max-width:760px;padding:28px 0;border-block:1px solid var(--border);font-size:20px;line-height:1.6}
+  .guide-link p{color:var(--muted);margin-top:12px;font-size:17px}
+  @media(max-width:540px){nav{padding:16px;font-size:11px}.nav-links{gap:14px}}
   @keyframes blink{50%{opacity:.25}}
 
   #scene{position:fixed;inset:0;z-index:0;pointer-events:none}
@@ -109,6 +115,7 @@
   .js .reveal{opacity:0;transform:translateY(28px)}
   @media (prefers-reduced-motion:reduce){.js .reveal{opacity:1!important;transform:none!important}}
 </style>
+<noscript><style>#pre{display:none}body.loading{overflow:auto;height:auto}</style></noscript>
 </head>
 <body class="loading">
 
@@ -119,7 +126,7 @@
 
 <nav>
   <span><span class="dot"></span>awesome-solo-ai</span>
-  <span class="muted">solopreneur · indie · solo founder</span>
+  <span class="nav-links"><a href="frontend-design/">Frontend guide</a><a href="https://github.com/yerdaulet-damir/awesome-solo-ai">GitHub</a></span>
 </nav>
 
 <canvas id="scene"></canvas>
@@ -135,6 +142,7 @@
     <div class="cta reveal">
       <a class="btn primary" href="https://github.com/yerdaulet-damir/awesome-solo-ai">★ Star on GitHub</a>
       <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/llms.txt">Feed to your agent →</a>
+      <a class="btn ghost" href="frontend-design/">Frontend design resources →</a>
     </div>
     <div class="term reveal">
       <div class="bar"><i></i><i></i><i></i></div>
@@ -145,6 +153,16 @@
     </div>
   </div>
 </header>
+
+<section aria-labelledby="frontend-guide-title">
+  <div class="wrap">
+    <div class="guide-link">
+      <h2 id="frontend-guide-title"><a href="frontend-design/">Build beautiful websites without AI slop</a></h2>
+      <p>Choose design references, component libraries, motion tools and agent skills by what you need to build.</p>
+      <p><a class="accent" href="frontend-design/#component-libraries-and-registries">21st.dev and components</a> · <a class="accent" href="frontend-design/#motion-and-scroll-animation">GSAP and Motion</a> · <a class="accent" href="frontend-design/#frontend-skills-for-claude-code-and-codex">scroll-craft and scroll-world</a></p>
+    </div>
+  </div>
+</section>
 
 <section>
   <div class="wrap">
@@ -192,6 +210,7 @@
     <div class="reveal" style="margin-top:46px;display:flex;flex-wrap:wrap;gap:10px;font-family:var(--mono);font-size:13px">
       <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai#readme">Browse the full list →</a>
       <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/tools">Tools</a>
+      <a class="btn ghost" href="frontend-design/">Frontend design guide</a>
       <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/mcp">MCP servers</a>
       <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/skills">Skills</a>
       <a class="btn ghost" href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/free-solo-ai-stack.md">Free stack</a>

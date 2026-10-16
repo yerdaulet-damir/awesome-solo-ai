@@ -1,0 +1,239 @@
+# Awesome Solo AI
+
+> The complete AI stack a solo builder feeds to Claude Code — curated, verified tools, MCP servers, Claude skills, and playbooks to ship video, voice, images, code, and automations without a team. Each entry: name, URL, one-line description, and capability flags (API / MCP / Free / Open).
+
+This file is machine-readable. Agents may read it to find and call the right tool for a task.
+
+## Start here
+- [Free Solo AI Stack](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/free-solo-ai-stack.md): only tools with free tiers or open-source licenses; launch for $0.
+
+## Tool deep-pages (site, API, CLI, MCP, example per tool)
+- [OpenRouter](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/openrouter.md): one API key, every model.
+- [ElevenLabs](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/elevenlabs.md): TTS, cloning, dubbing, SFX.
+- [HeyGen](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/heygen.md): scripted avatar video.
+- [Runway](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/runway.md): text/image-to-video.
+- [Kling](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/kling.md): high-fidelity long-duration video.
+- [Suno](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/suno.md): text-to-song with vocals.
+- [Nano Banana](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/nano-banana.md): fast realistic image gen/editing.
+- [Ideogram](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/ideogram.md): image gen with real typography.
+- [Supabase](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/supabase.md): Postgres + auth + pgvector.
+- [Vercel](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/vercel.md): deploy + AI SDK + v0.
+- [PostHog](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/posthog.md): product + LLM analytics.
+- [Frameworks for building fast](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/frameworks-for-building.md): web, full-stack, mobile, desktop, and AI SDK choices for solo products.
+
+## LLM API Routers & Aggregators
+- [OpenRouter](https://openrouter.ai): 400+ models, one OpenAI-compatible endpoint. API, Free.
+- [Together AI](https://together.ai): 200+ open models plus fine-tuning. API, Free, Open.
+- [Fireworks AI](https://fireworks.ai): high-reliability inference, strong function calling. API, Free.
+- [Groq](https://groq.com): fastest inference on LPU chips. API, Free.
+- [DeepInfra](https://deepinfra.com): cheapest-per-token open models. API, Open.
+- [Fal.ai](https://fal.ai): fast inference host for image/video/audio models. API.
+- [Replicate](https://replicate.com): run/fine-tune thousands of open models. API.
+- [AI/ML API](https://aimlapi.com): 400+ multimodal models in one key. API, Free.
+
+## Video Generation
+- [Runway](https://runwayml.com): industry-standard text/image-to-video (Gen-4). API.
+- [Kling AI](https://klingai.com): high-fidelity long-duration video. API.
+- [Higgsfield](https://higgsfield.ai): cinematic camera-control video for creators. API.
+- [Google Veo](https://deepmind.google/models/veo/): flagship text-to-video with audio. API.
+- [OpenAI Sora](https://sora.com): text-to-video model and app. API.
+- [Luma Dream Machine](https://lumalabs.ai/dream-machine): fast image-to-video. API.
+- [Magic Hour](https://magichour.ai): create and edit video, images, and audio with AI. API, Free.
+- [Pika](https://pika.art): creator-friendly video with effects. API.
+- [Hailuo / MiniMax](https://hailuoai.video): cinematic video from text/image. API.
+
+## AI Avatars & Talking Heads
+- [HeyGen](https://heygen.com): avatar/spokesperson video from text; voice clone. API, MCP, Free.
+- [Synthesia](https://synthesia.io): enterprise avatars in 140+ languages. API.
+- [Captions](https://captions.ai): avatars, editing, dubbing for shorts. API.
+- [Argil](https://argil.ai): clone yourself into an AI influencer. API.
+- [Tavus](https://tavus.io): real-time conversational video avatars. API.
+- [D-ID](https://d-id.com): talking-head video from a photo. API.
+
+## Lipsync, Dubbing & Translation
+- [Sync.so](https://sync.so): best-in-class lipsync API. API.
+- [Rask AI](https://rask.ai): one-click video translation/dubbing, 130+ languages. API.
+- [ElevenLabs Dubbing](https://elevenlabs.io/dubbing): voice-preserving dubbing. API, MCP.
+
+## Voice, TTS & Cloning
+- [ElevenLabs](https://elevenlabs.io): market-leading TTS, cloning, voice agents. API, MCP, Free.
+- [Cartesia](https://cartesia.ai): lowest-latency realtime TTS (~90ms). API, MCP.
+- [Fish Audio](https://fish.audio): open-source TTS/cloning, low cost. API, Open.
+- [Piper](https://github.com/OHF-Voice/piper1-gpl): fast local neural TTS with CLI, Python, C/C++, and HTTP interfaces; runs offline. Voice-model licenses vary. Free, Open.
+- [Hume](https://hume.ai): emotion-aware voice and TTS. API.
+- [Resemble AI](https://resemble.ai): enterprise cloning plus deepfake detection. API, MCP.
+- [OmniVoice Studio](https://github.com/debpalash/OmniVoice-Studio): open-source local ElevenLabs alternative — cloning, dubbing, dictation, 646 languages, no API keys. Free, Open.
+
+## Music & Sound Effects
+- [Suno](https://suno.com): leading text-to-song with vocals. API, Free.
+- [Udio](https://udio.com): high-fidelity text-to-music. API.
+- [ElevenLabs SFX](https://elevenlabs.io/sound-effects): text-to-sound-effects. API, MCP.
+- [Stable Audio](https://stableaudio.com): commercially-clean music and SFX. API.
+
+## Image Generation & Editing
+- [Midjourney](https://midjourney.com): best-in-class aesthetic image quality. API.
+- [FLUX (Black Forest Labs)](https://bfl.ai): photorealism leader, open-weight tiers. API, Open.
+- [Google Nano Banana](https://gemini.google): fast realistic image gen/editing, 4K. API.
+- [OpenAI GPT Image](https://platform.openai.com): general-purpose image gen/edit. API.
+- [Ideogram](https://ideogram.ai): typography/text-in-image specialist. API, MCP.
+- [Recraft](https://recraft.ai): vector/SVG and brand assets. API, MCP.
+- [UpRes](https://upres.ai): AI image and video upscaling across 14 specialist models with paid REST API, CLI, and MCP server; free web tier for image evaluation. API, MCP, Free.
+
+## MCP Servers
+- [Agent QA](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/agent-qa.md): natural-language web/mobile tests with persistent test memory and self-healing flows. MCP, Free.
+- [API.market MCP Gateway](https://api.market/api/mcp/gateway): proprietary hosted API discovery and execution for generation, search, scraping, maps and data; OAuth or API key; pricing and free tiers vary by API. MCP.
+- [Aident Loadout](https://aident.ai): remote MCP at https://loadout.aident.ai/mcp (setup guide: https://docs.aident.ai/loadout/mcp) that connects coding agents to 400+ Skills and connected apps through one setup; pay-as-you-go, some apps need your own OAuth or stored credentials, which stay in Vault with a full audit trail. MCP.
+- [HeyGen MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md): avatar video, voice clone, speech as agent tools. MCP.
+- [ElevenLabs MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/elevenlabs.md): TTS, cloning, dubbing, SFX. MCP, Open.
+- [Cartesia MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/cartesia.md): low-latency realtime speech. MCP, Open.
+- [Ideogram MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/ideogram.md): hosted image gen with typography. MCP.
+- [Karma.Domains](https://karma.domains/en/expired-domains-mcp/): expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). API, MCP.
+- [Playwright MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/playwright.md): drive a real browser. MCP, Open.
+- [GitHub MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/github.md): issues, PRs, repo actions. MCP, Open.
+- [Higgsfield](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/higgsfield.md): cinematic video gen, API-first, how to drive from an agent. API.
+- [Clawvisor MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/clawvisor.md): API gateway — agent declares scope, you approve once, credentials injected at execution, never exposed to agent. Audit log included. Open.
+- [Exa MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/exa.md): semantic web search returning structured JSON for agents. MCP.
+- [Firecrawl MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/firecrawl.md): any URL to clean Markdown, full-site crawl, structured extraction. MCP.
+- [Stripe MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/stripe.md): inspect customers, subscriptions, payments, churn in plain language. MCP.
+- [Supabase MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/supabase-mcp.md): query tables, run migrations, generate TypeScript types, read logs. MCP, Open.
+- [Notion MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/notion-mcp.md): read/write Notion docs and databases from an agent. MCP.
+- [Browserbase MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/browserbase.md): cloud browser for real clicks, form fills, screenshots. MCP.
+- [Sequential Thinking MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/sequential-thinking.md): externalises step-by-step reasoning before action, #1 by usage on Smithery. Open.
+- [Invompt](https://invompt.com): drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. MCP, Free.
+- [looot](https://looot.ai): one API key and prepaid balance for 2,500+ data endpoints (work emails, phones, company enrichment, Google SERP, web pages) over a remote MCP server; pay per call, no free tier. API, MCP.
+- [Kleap](https://kleap.co/mcp): hosted MCP (OAuth, 34 tools) and npx kleap-cli stdio server to create, edit, and publish websites. API, MCP, Open.
+- [CurlShot](https://curlshot.com): screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. API, MCP, Free.
+- [VideoGen MCP](https://videogen.io/videogen-mcp): video workflows, media generation, project remixing and MP4 export; VideoGen API access and paid generation credits required. API, MCP.
+- [Statsnet MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/statsnet.md): look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. MCP, Free.
+- MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
+
+## AI Coding Agents
+- [Claude Code](https://claude.com/claude-code): terminal/IDE coding agent. MCP.
+- [NextReset](https://nextreset.ai/): tracks source-linked Codex reset history and experimental forecasts, with a browser-local countdown timer. Free.
+- [Cursor](https://cursor.com): AI-native IDE. MCP.
+- [Massvai](https://massvai.com): builds exportable Next.js apps from prompts, with a live preview, Supabase, GitHub sync, and Vercel deployment. Free.
+- [Cline](https://github.com/cline/cline): open-source autonomous coding agent. Open.
+- [Aider](https://aider.chat): terminal AI pair programming. Open.
+- [Ivy Tendril](https://github.com/Ivy-Interactive/Ivy-Tendril): desktop and web workspace for running coding agents in parallel Git worktrees with automated verification and review; FSL-1.1-ALv2 license.
+- [YYLO](https://github.com/yylo-dev/yylo): command-line orchestrator for coding agents, typed task, validation, merge, and release-readiness boundaries, dedicated branch/worktree per task, risk-based merge queue. Open, Free.
+- [5dive](https://github.com/5dive-ai/5dive): runs a team of AI agents on your own server, you hand them work from telegram. Open, Free.
+- [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): records a coding-agent run beneath the harness, replays it offline from the recorded bytes with no model called, re-runs it from a chosen step on a different model, serves the trace store over MCP. MCP, Free, Open.
+- [Orbi](https://github.com/orbi-build/orbi): self-hosted coding agent for GitHub repos, label an issue and it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges, and tags a release. Open, Free.
+- [Sillage](https://github.com/MarlBurroW/sillage): self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, server-side sessions that outlive the client, full-text search across conversations, IDE panel with files/editor/diffs/terminal, worktrees, installable PWA, single Docker container. MCP, Free, Open.
+
+## Automation & Agent Frameworks
+- [n8n](https://n8n.io): open-source workflow automation with AI nodes. Open.
+- [Make](https://make.com): visual no-code automation.
+- [Vercel AI SDK](https://sdk.vercel.ai): TypeScript AI app/agent toolkit. Open.
+- [LangGraph](https://github.com/langchain-ai/langgraph): stateful agent orchestration. Open.
+- [Mastra](https://mastra.ai): TypeScript agent framework. Open.
+- [Agent Voice Response](https://github.com/agentvoiceresponse): open-source platform to build/deploy AI voice agents (phone bots), ASR+LLM+TTS. Open.
+- [Pydantic AI](https://github.com/pydantic/pydantic-ai): typed Python framework for agents, tools, structured outputs, voice, and multimodal apps. Open.
+- [smolagents](https://github.com/huggingface/smolagents): compact Python library for code-writing and tool-calling agents. Open.
+
+## Agent Memory & Knowledge
+- [GBrain](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/memory/gbrain.md): synthesis + graph + gap-analysis brain by Garry Tan (YC CEO); wire into Claude Code in one command. Open.
+- [Hyperconsciousness](https://github.com/louis030195/hyperconsciousness): Developer-alpha encrypted, append-only knowledge store with a Rust CLI and scoped, expiring MCP access. MCP, Open.
+- [Mem0](https://github.com/mem0ai/mem0): open-source memory layer for AI agents. Open.
+- [Mnemoverse](https://mnemoverse.com): hosted memory engine for AI agents, reached over MCP; tell it a recalled memory helped or misled, and it re-ranks what comes back next. API, MCP, Free.
+- [Screenpipe](https://screenpipe.com): Search locally captured screen text and audio transcripts for work recall and meeting notes via MCP or a local API; source-available under the Screenpipe Commercial License, with configured cloud services able to receive context. API, MCP.
+- [ORANO Personal Context MCP](https://oranoai.com/mcp): personal read-only remote MCP server (streamable HTTP, per-user Bearer key) that lets your agent search summaries and takeaways from videos, articles and PDFs you saved in ORANO. MCP.
+
+## Frontend Motion & Design
+- [Beautiful websites without AI slop](https://yerdaulet-damir.github.io/awesome-solo-ai/frontend-design/): curated frontend design guide covering website inspiration, frameworks, 21st.dev and component registries, GSAP vs Motion/Framer Motion, Lenis, 3D, typography, icons, scroll-craft and scroll-world. Organized by task with official sources and practical tradeoffs.
+- [Frontend design guide as Markdown](https://raw.githubusercontent.com/yerdaulet-damir/awesome-solo-ai/main/guides/cinematic-frontend-not-slop.md): the same resource guide in plain Markdown for coding agents.
+- [Frontend motion: GSAP, Motion, Lenis and CSS](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/frontend-motion.md): comparison by interaction, Motion React example, GSAP lifecycle links, optional smooth scrolling and current license sources.
+- [ui-ux-pro-max skill](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): 161 palettes, 57 font pairings, design system generation as Claude context. Open.
+
+## Backend, Deploy & Analytics
+- [Supabase](https://supabase.com): Postgres + auth + storage with pgvector built in (vector store for RAG). API, Open.
+- [Prisma Postgres](https://www.prisma.io/postgres): managed Postgres with zero cold starts and a no-card free plan; `npx create-db@latest` creates a database, official MCP server for agents. API, MCP, Free.
+- [Vercel](https://vercel.com): one-push deploy plus the AI SDK and v0 for AI UIs. API.
+- [Prisma Compute](https://www.prisma.io/compute): TypeScript app and agent hosting next to Prisma Postgres, scale to zero, 1M requests/month free. MCP, Free.
+- [PostHog](https://posthog.com): product analytics, session replay, and LLM analytics for AI feature cost/quality. API, Open.
+- [Convex](https://convex.dev): reactive backend with first-class AI agent/workflow support. API.
+- [Clerk](https://clerk.com): drop-in auth. API.
+- [tgx](https://github.com/yerdaulet-damir/tgx): TypeScript framework for Telegram bots on grammY; state/payments/menus built in, agent-native with an MCP server. Open.
+
+## Claude Skills & Plugins
+- [mblode/agent-skills](https://github.com/mblode/agent-skills): Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. Open.
+- [ui-ux-pro-max](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): design-intelligence skill, 50+ styles/161 palettes, coherent design system from one prompt. Open.
+- [frontend-design](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/frontend-design.md): Anthropic skill that forces a deliberate aesthetic, kills AI-slop UI. Open.
+- [scroll-world](https://github.com/oso95/scroll-world): agent skill that turns any brand into a scrollable 3D world with scroll-driven camera fly-throughs. Open.
+- [claude-seo](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/claude-seo.md): full SEO/GEO suite — audit, schema, backlinks, AI-search optimization. Open.
+- [NotFair](https://github.com/nowork-studio/NotFair): Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. Open.
+- [ponytail](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md): anti-over-engineering skill, ~54% less code, "think like the laziest senior dev". Open.
+- [redpen](https://github.com/yerdaulet-damir/redpen): anti-slop copywriting skill for Claude Code, Cursor, Cline & Copilot. The old ad man with the red pen: every line must pass three questions — can I visualize it, can I falsify it, can nobody else say it — before it ships. Kills adjective-slop in headlines, landing pages, taglines. Open.
+- [superpowers](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/superpowers.md): plan-first TDD agentic framework. Open.
+- [workkit](https://github.com/ITW-Creative-Works/workkit): Claude Code plugin that runs GitHub Issues as a delivery pipeline, with skills to triage, spec, build, review and ship each issue and an agent crew that checks the work. Free.
+- [Context7](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/context7.md): injects up-to-date library docs to stop stale-API hallucination. MCP, Open.
+- Discover more: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills).
+
+## Distribution & Marketing
+- [AI tool and MCP directories](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/ai-mcp-directories.md): submission routes for AI products, MCP servers and awesome lists; distinguishes paid listings, registry publishing and curated submissions.
+- [Product Hunt](https://producthunt.com): launch-day spike for tools and SaaS.
+- [Hacker News](https://news.ycombinator.com): Show HN for dev/technical products.
+- [Reddit](https://reddit.com): niche communities; the #1 source AI engines cite.
+- [Indie Hackers](https://indiehackers.com): community of solo founders.
+- [startup-directories](https://github.com/saidbouig/startup-directories): 214 launch directories with the free route, measured link type and date checked. Free, Open.
+- [LaunchGrill](https://launchgrill.com): scores a landing page 0–100 against a published 18-test checklist, quoting the page for each finding. Free.
+- [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
+- [Buffer](https://buffer.com): multi-channel social scheduling.
+- [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
+- [LaunchSpy](https://launchspy.io): tracks Meta ads, funnels and software used by course creators, coaches and community owners; API and MCP access (https://launchspy.io/mcp) require Pro or Business. API, MCP.
+- [FalcoScan](https://falcoscan.com): searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. API, MCP.
+- [SocialEcho](https://www.socialecho.net): publishing, monitoring, analytics, and message management across eleven social platforms. Free.
+- [shortshort](https://www.shortshort.io): turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
+- [ScaleReach](https://www.scalereach.ai): turns long videos into vertical 9:16 clips with AI captions and face-tracking crop, and schedules them to social accounts. API, MCP.
+- [kdpbook.io](https://kdpbook.io): describe a book in a chat and get the Amazon KDP files (print PDF, full-wrap cover, Kindle EPUB, listing sheet); includes 2,000 free credits at signup, free-plan exports are watermarked.
+- [ImagineYourBook](https://www.imagineyourbook.com/): plans and drafts full-length books, rewrites manuscripts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
+- [Drevon](https://www.drevon.dev): Mac app that runs Claude Code or Codex agents in a browser with your existing logins (LinkedIn, Sales Navigator, Reddit) to research prospects and accounts, with MCP connectors for CRM, enrichment and outreach tools such as HubSpot, Clay and Smartlead; results saved as CSV, JSON or Markdown. Free.
+
+## Guides
+- [Edit videos with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/edit-video-with-claude.md): no manual editing.
+- [Automations without code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/automations-without-code.md): connect AI tools visually.
+- [Eliminate AI-slop code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/kill-ai-slop-code.md): write production-grade code with AI.
+
+## Playbooks
+- [Faceless content factory](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/faceless-content-factory.md): script to published short.
+- [Ship a SaaS solo with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/solo-saas-with-claude.md): full solo build loop.
+- [Launch and get your first users](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/launch-and-get-first-users.md): solo distribution sequence.
+
+## Marketing, SEO & Social from Claude
+- [Marketing from Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/marketing-from-claude.md): trending marketing, SEO, and social skills plus MCP servers a solo builder runs from Claude Code (marketingskills by Corey Haines, ai-marketing-skills by Eric Siu, seo-skills by SE Ranking, Firecrawl, DataForSEO). Open.
+
+## AI Video Editing from Claude
+- [AI video editing repos](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/ai-video-editing-repos.md): how to edit or make video from Claude, MCP servers and pipelines (Kinocut, pireel, OpenMontage, MoneyPrinterTurbo, Remotion, HyperFrames). Open.
+
+## More Trending Skills (2026)
+- [Trending Claude Code skills 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/trending-2026.md): newer community skills for browser control, reasoning, security, and research (chrome-cdp-skill, cc-thinking-skills, claude-code-owasp, context-engineering-kit, Bloom). Open.
+
+## More MCP Servers (2026)
+- [Trending MCP servers 2026](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/trending-2026.md): docs, search, data, email, and deploy servers for solo builders (Context7, Claude Context, Tavily, Apify, Neon, Resend, Sentry, Cloudflare). Open.
+
+## Open-Source AI Agents
+- [Open-source AI agents](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/agents/oss-agents.md): self-hostable agents and frameworks (OpenClaw, Hermes by Nous Research, opencode, OpenHands, Cline, LangGraph, CrewAI, Pydantic AI, smolagents). Open.
+
+## SEO & GEO Tools
+- [SEO and GEO tools](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/seo-geo-tools.md): skills and MCP servers to rank in Google and get cited by AI engines (SE Ranking seo-skills, GEO Optimizer, DataForSEO MCP, AutoGEO, llms.txt generator). Open.
+- [LLM Pulse](https://llmpulse.ai/): tracks brand mentions, citations, sentiment, and competitor share of voice across AI search engines. API, MCP.
+- [Robot Speed](https://www.robot-speed.com/mcp): hosted SEO and AI-visibility MCP. OAuth endpoint has 39 tools; /api/mcp/free is no-auth and has 12. API, MCP, Free, Open.
+- [LogNorm](https://lognorm.com): hosted MCP server that gives Claude Code, Codex and Cursor a ranked backlog of SEO and AI-visibility fixes, content and research for your site; OAuth, no API keys. Free plan, paid from $99/mo. MCP, Free.
+- [Said by AI](https://www.saidbyai.com/): asks GPT-4o mini 20 buyer-style questions about your category in three answer styles and reports how often your brand is named, which competitors are named instead, and what to change; one-time audit, free 5-question check. Free.
+
+- [NeverDrafts](https://www.neverdrafts.com): checks brand mentions and citations across ChatGPT, Claude, Google AI Mode and Perplexity, then drafts content and publishes it to WordPress, Webflow or Framer; free audit, paid monitoring.
+
+- [AltoRank](https://altorank.co): SEO content software for keyword research, site readiness checks and drafts with sources for human review; self-hosted under AGPL-3.0 (https://github.com/AltoRank/altorank) or hosted, with an official MCP server. MCP, Open.
+
+## Self-Hosted Analytics
+- [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Highlight, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
+
+## Landing Page Libraries
+- [Landing-page component libraries and registries](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/landing-page-libraries.md): task-based comparison of 21st.dev, React Bits, shadcn/ui, Radix, Base UI, Tailark, HyperUI, Aceternity, Magic UI, Motion Primitives, Origin UI, Park UI and Tailwind Plus; source and commercial access distinctions.
+
+## Social Media Automation
+- [Social media automation](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/social-media-automation.md): self-hosted schedulers, cross-posting, and drafting skills for X, LinkedIn, Reddit, Threads, human in the loop (Postiz, Mixpost, praw, xMCP, x-autonomous-mcp, linkedin-skills). Open.
+- [BulkPublish social media content skills](https://github.com/azeemkafridi/bulkpublish-api/tree/main/skills/social-media-content-skills): reusable agent skills for planning, adapting, reviewing, scheduling, and publishing across social channels through the BulkPublish API and MCP. API, MCP, Open.
+
+## Build in Public
+- [Build in public playbook](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/build-in-public.md): tools and concrete steps for shipping open source in the open on GitHub, X, and Reddit (star-history, Shields.io, release-please, F5Bot). Open.
