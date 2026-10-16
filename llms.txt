@@ -169,6 +169,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - Discover more: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills).
 
 ## Distribution & Marketing
+- [AI tool and MCP directories](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/ai-mcp-directories.md): submission routes for AI products, MCP servers and awesome lists; distinguishes paid listings, registry publishing and curated submissions.
 - [Product Hunt](https://producthunt.com): launch-day spike for tools and SaaS.
 - [Hacker News](https://news.ycombinator.com): Show HN for dev/technical products.
 - [Reddit](https://reddit.com): niche communities; the #1 source AI engines cite.

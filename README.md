@@ -1,17 +1,15 @@
 # Awesome Solo AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-> The home base for **solopreneurs, indie hackers, and solo founders** — every AI tool, Claude skill, MCP server, playbook, and growth tactic to **build *and* grow** a one-person company, curated and kept fresh, that you feed to Claude Code.
+AI tools, Claude skills, MCP servers and workflows for solopreneurs, indie hackers and solo founders building a one-person business.
 
-> _"The best companies of the next decade will be built by one person with the right tools and the discipline to ship."_
+Start with the [starter stack](#-the-starter-stack) or the [free stack](free-solo-ai-stack.md). Looking for an agent integration? Go to [MCP servers](#mcp-servers) or [Claude skills and plugins](#claude-skills--plugins).
 
-**A solo AI stack is the set of tools, Claude skills, MCP servers, and playbooks a one-person business uses to build, ship, and grow a product — making video, voice, images, code, automations, and distribution without hiring a team.** This list curates that stack: every entry is verified, dead links are pruned, and the whole thing is published as [`llms.txt`](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/llms.txt) so your AI agent can read it and call any tool here.
+_Updated: October 2026._
 
-_Last updated: September 2026 · Curated by a working solo builder, not auto-generated._
-
-💸 **On a budget?** See the [Free Solo AI Stack](free-solo-ai-stack.md) — only tools with real free tiers or open-source licenses, enough to launch for $0.
-
-🤖 **Feed this to your agent.** Point Claude Code, Cursor, or any MCP-aware tool at the raw list and ask it to find the right tool for the job:
+Give Claude Code or Cursor the [`llms.txt`](llms.txt) index, for example:
 > `Read https://raw.githubusercontent.com/yerdaulet-damir/awesome-solo-ai/main/llms.txt — which tool here generates a talking-head avatar video, and does it have an MCP server?`
+
+If this list helped you choose a tool, star it to find it again.
 
 ---
 
@@ -305,6 +303,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [LaunchSpy](https://launchspy.io) — tracks Meta ads, funnels and software used by course creators, coaches and community owners; [API and MCP access](https://launchspy.io/mcp) require Pro or Business. 🔌 🧩
 
 **Where to launch**
+- [AI tool and MCP directories](distribution/ai-mcp-directories.md) — submission routes for products, servers and awesome lists, with paid listings and paused intake called out.
 - [Product Hunt](https://producthunt.com) — the classic launch-day spike for tools and SaaS.
 - [Hacker News](https://news.ycombinator.com) — "Show HN" for dev/technical products; high-signal traffic.
 - [Reddit](https://reddit.com) — niche subs (r/SideProject, r/indiehackers) — and the #1 source AI engines cite.
