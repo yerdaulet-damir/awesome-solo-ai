@@ -190,6 +190,8 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 
 - [VideoGen MCP](https://videogen.io/videogen-mcp) — create videos, generate media, remix projects and export MP4s; requires VideoGen API access and paid generation credits. 🔌 🧩
 
+- [Statsnet MCP](mcp/statsnet.md) — look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. 🧩 🆓
+
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
 **Registries to discover more:** [Official MCP Registry](https://github.com/modelcontextprotocol/registry) · [Smithery](https://smithery.ai) · [mcp.so](https://mcp.so) · [PulseMCP](https://www.pulsemcp.com) · [Glama](https://glama.ai/mcp/servers)
