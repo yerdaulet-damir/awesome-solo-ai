@@ -310,6 +310,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Reddit](https://reddit.com) — niche subs (r/SideProject, r/indiehackers) — and the #1 source AI engines cite.
 - [Indie Hackers](https://indiehackers.com) — community of solo founders sharing what works.
 - [Peerlist](https://peerlist.io) — launchpad and network for builders.
+- [CodeTrendy](https://codetrendy.com) — hand-reviewed directory for newly launched startups, SaaS and indie products; each approved listing gets its own page. Free listing needs an account and a CodeTrendy badge on your homepage; paid listing from $19. 🆓
 - [startup-directories](https://github.com/saidbouig/startup-directories) — 214 startup and launch directories with what the free route gives, the measured link type and the date checked. 🆓 🔓
 
 **Grow & post**
