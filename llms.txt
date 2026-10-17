@@ -224,6 +224,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [NeverDrafts](https://www.neverdrafts.com): checks brand mentions and citations across ChatGPT, Claude, Google AI Mode and Perplexity, then drafts content and publishes it to WordPress, Webflow or Framer; free audit, paid monitoring.
 
 - [AltoRank](https://altorank.co): SEO content software for keyword research, site readiness checks and drafts with sources for human review; self-hosted under AGPL-3.0 (https://github.com/AltoRank/altorank) or hosted, with an official MCP server. MCP, Open.
+- [BacklinkGenie](https://backlinkgenie.com): link-building outreach agent that finds blog posts and roundups where your product fits, writes one pitch per post for you to approve, and sends it from a separate managed mailbox; hosted MCP server with OAuth. Free prospect report, paid from $99/mo. MCP.
 
 ## Self-Hosted Analytics
 - [Analytics for solo builders](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): open-source web, product, and LLM observability plus analytics MCP servers (Umami, Plausible, Rybbit, Highlight, Langfuse, Helicone, PostHog MCP, Grafana MCP). Open.
