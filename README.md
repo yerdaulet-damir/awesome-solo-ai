@@ -192,6 +192,8 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 
 - [Statsnet MCP](mcp/statsnet.md) — look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. 🧩 🆓
 
+- [RestoSignals](https://restosignals.com) — finds US restaurants and bars 1-6 months before they open from public liquor-license, food-permit and business filings, scored with owner contact; remote MCP server and REST API, free API key. 🔌 🧩 🆓
+
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
 **Registries to discover more:** [Official MCP Registry](https://github.com/modelcontextprotocol/registry) · [Smithery](https://smithery.ai) · [mcp.so](https://mcp.so) · [PulseMCP](https://www.pulsemcp.com) · [Glama](https://glama.ai/mcp/servers)
