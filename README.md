@@ -192,6 +192,8 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 
 - [Statsnet MCP](mcp/statsnet.md) — look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. 🧩 🆓
 
+- [ScraperSocial](https://scrapersocial.com/mcp/) — public social media data (profiles, posts, comments, search, video transcripts) from TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms over one REST API or a remote MCP server; 100 free signup credits, then from $5/mo. 🔌 🧩
+
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
 **Registries to discover more:** [Official MCP Registry](https://github.com/modelcontextprotocol/registry) · [Smithery](https://smithery.ai) · [mcp.so](https://mcp.so) · [PulseMCP](https://www.pulsemcp.com) · [Glama](https://glama.ai/mcp/servers)
