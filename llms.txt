@@ -105,6 +105,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [CurlShot](https://curlshot.com): screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. API, MCP, Free.
 - [VideoGen MCP](https://videogen.io/videogen-mcp): video workflows, media generation, project remixing and MP4 export; VideoGen API access and paid generation credits required. API, MCP.
 - [Statsnet MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/statsnet.md): look up company registrations, executives, court records and finances through a remote MCP server; public company cards are free. MCP, Free.
+- [ScraperSocial](https://scrapersocial.com/mcp/): public social media data (profiles, posts, comments, search, video transcripts) from TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms over one REST API or a remote MCP server; 100 free signup credits, then from $5/mo. API, MCP.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
