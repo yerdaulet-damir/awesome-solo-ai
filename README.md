@@ -165,6 +165,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 Model Context Protocol servers let your agent *do things*, not just chat. These are the ones a solo builder wires into Claude Code. **→ Full pages in [`mcp/`](mcp/).**
 
 - [Agent QA](mcp/agent-qa.md) — run natural-language web/mobile tests with persistent test memory and self-healing flows. 🧩 🆓
+- [ArtiGram](https://artigram.cafeboon.com): hosted remote MCP at `https://artigram.cafeboon.com/mcp` to publish AI-made HTML, React, SVG, Markdown or Mermaid as live shareable pages. Searching is public, publishing needs a free API key. 🧩 🆓
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway) — proprietary hosted gateway to discover and call APIs for generation, search, scraping, maps and data; OAuth or API key, with pricing and free tiers varying by API. 🧩
 - [Aident Loadout](https://aident.ai) — remote MCP at `https://loadout.aident.ai/mcp` ([setup guide](https://docs.aident.ai/loadout/mcp)) that connects coding agents to 400+ Skills and connected apps through one setup; pay-as-you-go, some apps need your own OAuth or stored credentials, which stay in Vault with a full audit trail. 🧩
 - [HeyGen MCP](mcp/heygen.md) — generate avatar videos, clone voices, and create speech from your agent. 🧩

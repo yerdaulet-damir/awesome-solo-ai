@@ -81,6 +81,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 
 ## MCP Servers
 - [Agent QA](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/agent-qa.md): natural-language web/mobile tests with persistent test memory and self-healing flows. MCP, Free.
+- [ArtiGram](https://artigram.cafeboon.com): hosted remote MCP at https://artigram.cafeboon.com/mcp to publish AI-made HTML, React, SVG, Markdown or Mermaid as live shareable pages; searching is public, publishing needs a free API key. MCP, Free.
 - [API.market MCP Gateway](https://api.market/api/mcp/gateway): proprietary hosted API discovery and execution for generation, search, scraping, maps and data; OAuth or API key; pricing and free tiers vary by API. MCP.
 - [Aident Loadout](https://aident.ai): remote MCP at https://loadout.aident.ai/mcp (setup guide: https://docs.aident.ai/loadout/mcp) that connects coding agents to 400+ Skills and connected apps through one setup; pay-as-you-go, some apps need your own OAuth or stored credentials, which stay in Vault with a full audit trail. MCP.
 - [HeyGen MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/heygen.md): avatar video, voice clone, speech as agent tools. MCP.
