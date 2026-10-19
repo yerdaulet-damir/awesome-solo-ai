@@ -78,6 +78,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Ideogram](https://ideogram.ai): typography/text-in-image specialist. API, MCP.
 - [Recraft](https://recraft.ai): vector/SVG and brand assets. API, MCP.
 - [UpRes](https://upres.ai): AI image and video upscaling across 14 specialist models with paid REST API, CLI, and MCP server; free web tier for image evaluation. API, MCP, Free.
+- [APPLORE](https://applore.app/ai-app-icon-generator): AI app icon generator that uses a real App Store icon as a style reference; free icon size export. Free.
 
 ## MCP Servers
 - [Agent QA](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/agent-qa.md): natural-language web/mobile tests with persistent test memory and self-healing flows. MCP, Free.
