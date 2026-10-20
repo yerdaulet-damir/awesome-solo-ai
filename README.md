@@ -109,6 +109,7 @@ Text-to-video and image-to-video — the tools creators use for shorts, ads, and
 - [Pika](https://pika.art) — creator-friendly video gen with effects and editing. 🔌
 - [Hailuo / MiniMax](https://hailuoai.video) — high-quality cinematic video gen from text or image. 🔌
 - [Hedra](https://www.hedra.com) — character-driven video and expressive talking characters. 🔌
+- [Pixwit](https://pixwit.ai) — multi-model text-to-video and image-to-video with effect templates and image gen. 🆓
 
 ## AI Avatars & Talking Heads
 
