@@ -42,6 +42,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Pika](https://pika.art): creator-friendly video with effects. API.
 - [Hailuo / MiniMax](https://hailuoai.video): cinematic video from text/image. API.
 - [Pixwit](https://pixwit.ai): multi-model text/image-to-video and image generation. Free.
+- [pitchboom.io](https://pitchboom.io): motion-design video ads from a product URL or brief.
 
 ## AI Avatars & Talking Heads
 - [HeyGen](https://heygen.com): avatar/spokesperson video from text; voice clone. API, MCP, Free.
