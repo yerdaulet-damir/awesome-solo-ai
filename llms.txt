@@ -158,6 +158,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Convex](https://convex.dev): reactive backend with first-class AI agent/workflow support. API.
 - [Clerk](https://clerk.com): drop-in auth. API.
 - [tgx](https://github.com/yerdaulet-damir/tgx): TypeScript framework for Telegram bots on grammY; state/payments/menus built in, agent-native with an MCP server. Open.
+- [Deacon](https://heydeacon.com): support chat for your site or app that answers users from your docs and shows you what they keep asking. Free.
 
 ## Claude Skills & Plugins
 - [mblode/agent-skills](https://github.com/mblode/agent-skills): Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. Open.
