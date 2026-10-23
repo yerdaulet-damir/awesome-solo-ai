@@ -259,6 +259,7 @@ Give your agent a persistent brain beyond the codebase. **→ Full pages in [`me
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay) — records a coding-agent run beneath the harness, then replays it offline from the recorded bytes with no model called, or re-runs it from a chosen step on a different model. 🧩 🆓 🔓
 - [Orbi](https://github.com/orbi-build/orbi) — self-hosted coding agent for GitHub repos: label an issue `ai-ready` and it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges, and tags a release. 🔓 🆓
 - [Sillage](https://github.com/MarlBurroW/sillage) - self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, with server-side sessions that outlive the client, full-text search across conversations, an IDE panel (files, editor, diffs, terminal), worktrees, and an installable PWA; single Docker container. 🧩 🆓 🔓
+- [doany](https://doany.ai) — AI company builder: describe a business in plain words and it builds and hosts the website and product, takes Stripe payments, and helps with marketing and support. 🆓
 
 ## Automation & Agent Frameworks
 
