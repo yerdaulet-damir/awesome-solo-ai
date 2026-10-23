@@ -175,6 +175,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Ideogram MCP](mcp/ideogram.md) — hosted image generation with real typography over MCP. 🧩
 - [Karma.Domains](https://karma.domains/en/expired-domains-mcp/) — expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). 🔌 🧩
 - [Playwright MCP](mcp/playwright.md) — drive a real browser for testing and scraping. 🧩 🔓
+- [UI Verify](https://uiverify.ai) - Visual testing for solo builders shipping UI with coding agents, using Storybook, Playwright or Vitest tests; hosted MCP. Free for 10,000 snapshots a month, 50,000 for open source. 🧩 🆓
 - [GitHub MCP](mcp/github.md) — issues, PRs, and repo actions from your agent. 🧩 🔓
 - [Higgsfield](mcp/higgsfield.md) — cinematic video gen (API-first; how to drive it from an agent today). 🔌
 - [Clawvisor](mcp/clawvisor.md) — API gateway that injects credentials at execution time; agent never sees your keys. Approve scopes once, get a full audit log. 🔓
