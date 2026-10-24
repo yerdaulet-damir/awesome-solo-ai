@@ -299,6 +299,7 @@ The plumbing a solo builder needs to ship and run an AI product — picked for t
 - [Clerk](https://clerk.com) — drop-in auth so you skip building login. 🔌
 - [tgx](https://github.com/yerdaulet-damir/tgx) — TypeScript framework for building Telegram bots fast on grammY; state, Stars payments and menus built in, and designed to be built by AI agents (ships an MCP server). 🔓
 - [Gemmein](https://gemmein.com/r/dir) — backend for web and mobile apps: sign-in, protected data, payments and AI tools, with security on by default. 🔌
+- [deed.page](https://deed.page) — static hosting built for agents: one curl request or MCP call publishes HTML or a folder to a permanent public URL, no signup; agent skill at [f-o-x11/deed-page-skill](https://github.com/f-o-x11/deed-page-skill). 🔌 🧩 🆓
 
 ## Distribution & Marketing
 
