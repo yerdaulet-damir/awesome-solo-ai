@@ -325,6 +325,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Social media automation, human in the loop](distribution/social-media-automation.md), self-hosted schedulers and cross-posting for X, LinkedIn, Reddit, and Threads (Postiz, Mixpost, praw, xMCP).
 - [Typefully](https://typefully.com) — write, schedule, and grow on X/Threads.
 - [Buffer](https://buffer.com) — schedule across every social channel.
+- [JuzPost](https://www.juzpost.com) — schedule posts to 11 networks (X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, Bluesky, Pinterest, Tumblr, WordPress). Free plan: 2 accounts, 15 queued posts, no X. REST API, CLI and MCP server (schedule from Claude) on paid plans from Solo. 🔌 🧩 🆓
 - [LaunchGrill](https://launchgrill.com) — scores a landing page 0–100 against a published 18-test checklist, quoting the page for each finding. 🆓
 - [SocialEcho](https://www.socialecho.net) — publish, monitor, analyze, and manage messages across eleven social platforms from one workspace. 🆓
 - [Autoposting](https://autoposting.ai) — write in your own voice, clip long video, and schedule to X, LinkedIn, Instagram, Threads and YouTube.

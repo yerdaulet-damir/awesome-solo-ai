@@ -186,6 +186,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [LaunchGrill](https://launchgrill.com): scores a landing page 0–100 against a published 18-test checklist, quoting the page for each finding. Free.
 - [Typefully](https://typefully.com): write, schedule, grow on X/Threads.
 - [Buffer](https://buffer.com): multi-channel social scheduling.
+- [JuzPost](https://www.juzpost.com): social scheduler for 11 networks (X, LinkedIn, Instagram, Facebook, TikTok, YouTube, Threads, Bluesky, Pinterest, Tumblr, WordPress). Free plan: 2 accounts, 15 queued posts, no X. REST API, CLI and MCP server (schedule from Claude) on paid plans from Solo.
 - [IdeaHunter](https://ideahunter.today): evidence-led app ideas with buyer pain, source signals, MVP scope, and a validation step. Free.
 - [LaunchSpy](https://launchspy.io): tracks Meta ads, funnels and software used by course creators, coaches and community owners; API and MCP access (https://launchspy.io/mcp) require Pro or Business. API, MCP.
 - [FalcoScan](https://falcoscan.com): searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. API, MCP.
