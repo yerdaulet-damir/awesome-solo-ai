@@ -73,6 +73,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Stable Audio](https://stableaudio.com): commercially-clean music and SFX. API.
 
 ## Image Generation & Editing
+- [Artgen](https://artgen.net/en/tools/image-to-pixel-art): browser photo→pixel/ASCII/risograph fixed effects; six free with sign-in (no credits); not a text-to-image generator. Free.
 - [Midjourney](https://midjourney.com): best-in-class aesthetic image quality. API.
 - [FLUX (Black Forest Labs)](https://bfl.ai): photorealism leader, open-weight tiers. API, Open.
 - [Google Nano Banana](https://gemini.google): fast realistic image gen/editing, 4K. API.
