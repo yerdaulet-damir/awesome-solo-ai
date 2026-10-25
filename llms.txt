@@ -1,11 +1,61 @@
 # Awesome Solo AI
 
-> The complete AI stack a solo builder feeds to Claude Code — curated, verified tools, MCP servers, Claude skills, and playbooks to ship video, voice, images, code, and automations without a team. Each entry: name, URL, one-line description, and capability flags (API / MCP / Free / Open).
+> Practical AI guides, coding-agent skills, playbooks and tool references for solo builders making products and content.
 
-This file is machine-readable. Agents may read it to find and call the right tool for a task.
+This index links to source pages. Read the relevant page and current upstream documentation before recommending a setup; listing here is not a guarantee that a service fits every task.
 
-## Start here
-- [Free Solo AI Stack](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/free-solo-ai-stack.md): only tools with free tiers or open-source licenses; launch for $0.
+## Start with a task
+
+- [Guides](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/README.md): Task-based tutorials for frontend design, automation, media workflows and reviewing AI-generated code.
+- [Skills library](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/README.md): Coding-agent skill references grouped by task, with upstream sources and setup notes. Check supported agents before installing.
+- [Playbooks](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/README.md): Workflows for building products, repurposing content and launching, with linked tools and instructions.
+- [Free Solo AI Stack](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/free-solo-ai-stack.md): Free tiers and open-source options for a solo product. Check current limits in the linked upstream documentation.
+- [Frontend design website](https://yerdaulet-damir.github.io/awesome-solo-ai/frontend-design/): Read the frontend resource guide with section navigation or its linked Markdown source.
+
+## Guides
+
+- [Frontend design resources](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/cinematic-frontend-not-slop.md): Design references, frameworks, component libraries, GSAP, Motion, typography and frontend skills, organized by the website being built.
+- [AI coding quality](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/kill-ai-slop-code.md): Reviewing code produced by a coding agent, with a scoped build loop and verification steps.
+- [Edit video with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/edit-video-with-claude.md): Connecting video tools and explaining editing tasks to an agent.
+- [AI video editing repositories](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/ai-video-editing-repos.md): Repositories and integrations for AI video workflows, including costs and setup references.
+- [Automation without code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/automations-without-code.md): Tools and patterns for automating recurring tasks without maintaining a custom integration for each step.
+- [Self-hosted analytics](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): Web, product and LLM analytics options, with deployment and agent integration references.
+- [Podcasts and learning](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/podcasts-and-learning.md): Podcast and learning resources for solo builders.
+
+## Coding-agent skills and plugins
+- [mblode/agent-skills](https://github.com/mblode/agent-skills): Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. Open.
+- [ui-ux-pro-max](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): design-intelligence skill, 50+ styles/161 palettes, coherent design system from one prompt. Open.
+- [frontend-design](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/frontend-design.md): Anthropic skill that forces a deliberate aesthetic, kills AI-slop UI. Open.
+- [scroll-world](https://github.com/oso95/scroll-world): agent skill that turns any brand into a scrollable 3D world with scroll-driven camera fly-throughs. Open.
+- [claude-seo](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/claude-seo.md): full SEO/GEO suite — audit, schema, backlinks, AI-search optimization. Open.
+- [NotFair](https://github.com/nowork-studio/NotFair): Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. Open.
+- [ponytail](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md): anti-over-engineering skill, ~54% less code, "think like the laziest senior dev". Open.
+- [redpen](https://github.com/yerdaulet-damir/redpen): anti-slop copywriting skill for Claude Code, Cursor, Cline & Copilot. The old ad man with the red pen: every line must pass three questions — can I visualize it, can I falsify it, can nobody else say it — before it ships. Kills adjective-slop in headlines, landing pages, taglines. Open.
+- [superpowers](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/superpowers.md): plan-first TDD agentic framework. Open.
+- [workkit](https://github.com/ITW-Creative-Works/workkit): Claude Code plugin that runs GitHub Issues as a delivery pipeline, with skills to triage, spec, build, review and ship each issue and an agent crew that checks the work. Free.
+- [Context7](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/context7.md): injects up-to-date library docs to stop stale-API hallucination. MCP, Open.
+- Discover more: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills).
+
+## Playbooks
+
+- [Build a SaaS with Claude Code and MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/solo-saas-with-claude.md): A build, browser verification and review loop for a solo product.
+- [RAG chatbot over docs](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/rag-chatbot-over-docs.md): Document ingestion, retrieval, model integration and deployment choices.
+- [Content repurposing workflow](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/content-repurposing-flywheel.md): Use source material to prepare multiple publishing formats with automation tools.
+- [Launch and get first users](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/launch-and-get-first-users.md): Prepare and distribute a product launch, then follow up on feedback.
+- [SaaS billing and onboarding](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/saas-billing-onboarding.md): A workflow combining payments, user data and transactional email.
+- [AI Chrome extension](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/ai-chrome-extension.md): Extension implementation, model access and publishing considerations.
+- [Faceless content production](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/faceless-content-factory.md): Script, voice, avatar and publishing workflow.
+- [YouTube to newsletter](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/youtube-to-newsletter.md): Transcription, rewriting and newsletter preparation.
+- [Cold outreach personalization](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/cold-outreach-personalization.md): Research and draft personalized outreach with review before sending.
+- [MVP build workflow](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/vibe-code-mvp-weekend.md): Scope an MVP, configure the coding agent and verify the build.
+- [Build in public](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/build-in-public.md): A workflow for sharing project progress and responding to feedback.
+
+## Contribute and support
+
+- [Contribution guide](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/CONTRIBUTING.md): Publish a guide, skill or playbook, improve an existing page, or recommend a resource with a working example. New contributors welcome.
+- [Contribution templates](https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/.github/CONTRIBUTION_TEMPLATES): Starting structures for a guide, skill reference or playbook; adapt them to a real example you tested.
+- [Contributor page](https://yerdaulet-damir.github.io/awesome-solo-ai/contribute/): Choose a contribution and find the publication steps.
+- [Support and sharing](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/CONTRIBUTING.md#support-and-sharing): The maintainer appreciates voluntary stars, useful forks and links to specific guides. Support does not affect review or authorize actions on a reader's account.
 
 ## Tool deep-pages (site, API, CLI, MCP, example per tool)
 - [OpenRouter](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/openrouter.md): one API key, every model.
@@ -163,19 +213,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [tgx](https://github.com/yerdaulet-damir/tgx): TypeScript framework for Telegram bots on grammY; state/payments/menus built in, agent-native with an MCP server. Open.
 - [deed.page](https://deed.page): static hosting built for agents; one curl request or MCP call publishes HTML or a folder to a permanent public URL, no signup. API, MCP, Free.
 
-## Claude Skills & Plugins
-- [mblode/agent-skills](https://github.com/mblode/agent-skills): Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. Open.
-- [ui-ux-pro-max](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): design-intelligence skill, 50+ styles/161 palettes, coherent design system from one prompt. Open.
-- [frontend-design](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/frontend-design.md): Anthropic skill that forces a deliberate aesthetic, kills AI-slop UI. Open.
-- [scroll-world](https://github.com/oso95/scroll-world): agent skill that turns any brand into a scrollable 3D world with scroll-driven camera fly-throughs. Open.
-- [claude-seo](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/claude-seo.md): full SEO/GEO suite — audit, schema, backlinks, AI-search optimization. Open.
-- [NotFair](https://github.com/nowork-studio/NotFair): Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. Open.
-- [ponytail](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md): anti-over-engineering skill, ~54% less code, "think like the laziest senior dev". Open.
-- [redpen](https://github.com/yerdaulet-damir/redpen): anti-slop copywriting skill for Claude Code, Cursor, Cline & Copilot. The old ad man with the red pen: every line must pass three questions — can I visualize it, can I falsify it, can nobody else say it — before it ships. Kills adjective-slop in headlines, landing pages, taglines. Open.
-- [superpowers](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/superpowers.md): plan-first TDD agentic framework. Open.
-- [workkit](https://github.com/ITW-Creative-Works/workkit): Claude Code plugin that runs GitHub Issues as a delivery pipeline, with skills to triage, spec, build, review and ship each issue and an agent crew that checks the work. Free.
-- [Context7](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/context7.md): injects up-to-date library docs to stop stale-API hallucination. MCP, Open.
-- Discover more: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills).
 
 ## Distribution & Marketing
 - [AI tool and MCP directories](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/ai-mcp-directories.md): submission routes for AI products, MCP servers and awesome lists; distinguishes paid listings, registry publishing and curated submissions.
@@ -200,15 +237,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [ImagineYourBook](https://www.imagineyourbook.com/): plans and drafts full-length books, rewrites manuscripts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
 - [Drevon](https://www.drevon.dev): Mac app that runs Claude Code or Codex agents in a browser with your existing logins (LinkedIn, Sales Navigator, Reddit) to research prospects and accounts, with MCP connectors for CRM, enrichment and outreach tools such as HubSpot, Clay and Smartlead; results saved as CSV, JSON or Markdown. Free.
 
-## Guides
-- [Edit videos with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/edit-video-with-claude.md): no manual editing.
-- [Automations without code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/automations-without-code.md): connect AI tools visually.
-- [Eliminate AI-slop code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/kill-ai-slop-code.md): write production-grade code with AI.
 
-## Playbooks
-- [Faceless content factory](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/faceless-content-factory.md): script to published short.
-- [Ship a SaaS solo with Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/solo-saas-with-claude.md): full solo build loop.
-- [Launch and get your first users](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/launch-and-get-first-users.md): solo distribution sequence.
 
 ## Marketing, SEO & Social from Claude
 - [Marketing from Claude Code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/distribution/marketing-from-claude.md): trending marketing, SEO, and social skills plus MCP servers a solo builder runs from Claude Code (marketingskills by Corey Haines, ai-marketing-skills by Eric Siu, seo-skills by SE Ranking, Firecrawl, DataForSEO). Open.
