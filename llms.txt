@@ -91,6 +91,7 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [Cartesia MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/cartesia.md): low-latency realtime speech. MCP, Open.
 - [Ideogram MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/ideogram.md): hosted image gen with typography. MCP.
 - [Karma.Domains](https://karma.domains/en/expired-domains-mcp/): expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). API, MCP.
+- [MEDIAPRONET MCP](https://mediapronet.com/mcp): hosted read-only remote MCP at https://mediapronet.com/api/mcp (Streamable HTTP, no API key, no account) to search the MEDIAPRONET launch directory of newly shipped startups, SaaS tools and online products, read full listing profiles, find alternatives to a product and see what is trending. Paid (Verified) listings come first in search results. MCP, Free.
 - [Playwright MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/playwright.md): drive a real browser. MCP, Open.
 - [UI Verify](https://uiverify.ai): Visual testing for solo builders shipping UI with coding agents, using Storybook, Playwright or Vitest tests; hosted MCP. Free for 10,000 snapshots a month, 50,000 for open source. MCP, Free.
 - [GitHub MCP](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/mcp/github.md): issues, PRs, repo actions. MCP, Open.

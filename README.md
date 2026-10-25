@@ -175,6 +175,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Cartesia MCP](mcp/cartesia.md) — low-latency realtime speech generation for agents. 🧩 🔓
 - [Ideogram MCP](mcp/ideogram.md) — hosted image generation with real typography over MCP. 🧩
 - [Karma.Domains](https://karma.domains/en/expired-domains-mcp/) — expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). 🔌 🧩
+- [MEDIAPRONET MCP](https://mediapronet.com/mcp) — hosted read-only remote MCP at `https://mediapronet.com/api/mcp` (Streamable HTTP, no API key, no account) that lets your agent search the MEDIAPRONET launch directory of newly shipped startups, SaaS tools and online products, read full listing profiles, find alternatives to a product and see what is trending, so you can check competitors before you build. Paid (Verified) listings come first in search results. 🧩 🆓
 - [Playwright MCP](mcp/playwright.md) — drive a real browser for testing and scraping. 🧩 🔓
 - [UI Verify](https://uiverify.ai) - Visual testing for solo builders shipping UI with coding agents, using Storybook, Playwright or Vitest tests; hosted MCP. Free for 10,000 snapshots a month, 50,000 for open source. 🧩 🆓
 - [GitHub MCP](mcp/github.md) — issues, PRs, and repo actions from your agent. 🧩 🔓
