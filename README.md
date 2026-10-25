@@ -226,6 +226,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [Reve](https://reve.com) — strong prompt adherence, typography, and aesthetics. 🔌
 - [Krea](https://krea.ai) — real-time canvas and a hub for Flux/Imagen/Ideogram/Nano Banana. 🔌
 - [UpRes](https://upres.ai) — AI image & video upscaling (2x–8x) across 14 specialist models with REST API, CLI, and MCP server; free web tier gives 5 watermarked image upscales/month. 🔌 🧩 🆓
+- [APPLORE](https://applore.app/ai-app-icon-generator) — AI app icon generator that uses a real App Store icon as a style reference; app icon size export is free. 🆓
 
 ## MCP Servers
 
