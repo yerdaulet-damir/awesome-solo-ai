@@ -1,8 +1,10 @@
-# Claude Skills for Solo Builders
+# Coding-Agent Skills for Solo Builders
 
-> Trending Claude Code skills, each with its own deep page — what it is, when to use it, install steps, and a real example.
+> Skill references grouped by task, with upstream sources and setup notes.
 
-A **Claude skill** is a reusable `.claude/skills` folder (markdown + optional scripts) that teaches Claude Code a repeatable workflow you invoke by name. Below are the skills solo builders install most in 2026, grouped by job. Each links to a full page.
+Many references here currently target Claude Code. Skills for Codex, Cursor and other coding agents are welcome too; check the supported agent and its installation instructions in each source.
+
+You can add a skill reference or improve an existing page with a prompt, result and setup note you tested. [Contribution guide](../CONTRIBUTING.md) · [Skill template](../.github/CONTRIBUTION_TEMPLATES/skill.md).
 
 ## Design & frontend
 - [Frontend design resource guide](../guides/cinematic-frontend-not-slop.md#frontend-skills-for-claude-code-and-codex) — how skills relate to libraries and a workflow for reviewing their output.

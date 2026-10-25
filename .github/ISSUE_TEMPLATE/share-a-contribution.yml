@@ -1,0 +1,57 @@
+name: Share a workflow, skill or improvement
+description: Propose a useful contribution, including a small first contribution or a resource you have tried.
+title: "[Contribution]: "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        First-time contributors are welcome. Improve an existing page or publish a guide, skill reference or playbook.
+        Read [CONTRIBUTING.md](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/CONTRIBUTING.md).
+        Proposing an idea does not promise a listing. Stars and sharing are appreciated; support is optional.
+  - type: dropdown
+    id: contribution_type
+    attributes:
+      label: What would you like to contribute?
+      options:
+        - Correction or worked example in an existing page
+        - Guide
+        - Skill reference
+        - Playbook
+        - Tool, MCP server or agent recommendation
+    validations:
+      required: true
+  - type: textarea
+    id: outcome
+    attributes:
+      label: Reader and result
+      description: What task should someone be able to complete? A small correction is welcome.
+    validations:
+      required: true
+  - type: textarea
+    id: existing_material
+    attributes:
+      label: Existing page or alternative
+      description: Link the page you would improve or explain what is missing from current resources.
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: What have you tried?
+      description: Give the input/setup, observed result and date. Link docs or examples. If this is only an idea, say so.
+    validations:
+      required: true
+  - type: textarea
+    id: limits
+    attributes:
+      label: Sources and limits
+      description: Link primary documentation, pricing and license. Mention permissions or external services if relevant.
+    validations:
+      required: false
+  - type: input
+    id: affiliation
+    attributes:
+      label: Your connection to the resource
+      description: Author, employee, user, or none. New projects are welcome.
+    validations:
+      required: true
