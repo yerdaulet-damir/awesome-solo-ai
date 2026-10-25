@@ -193,7 +193,6 @@ This file is machine-readable. Agents may read it to find and call the right too
 - [LaunchSpy](https://launchspy.io): tracks Meta ads, funnels and software used by course creators, coaches and community owners; API and MCP access (https://launchspy.io/mcp) require Pro or Business. API, MCP.
 - [FalcoScan](https://falcoscan.com): searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. API, MCP.
 - [ProofOfIncome](https://www.proofofincomeai.com): database of AI business revenue cases, each labelled Verified, Claimed or Unverifiable with sources and check dates; leaderboard and weekly newsletter. Free.
-- [Shipped & Paid](https://shippedandpaid.com): directory of apps built mostly with AI coding tools that report revenue, each labelled Verified, Screenshot or Self-reported with a linked source; free revenue calculator. Free.
 - [SocialEcho](https://www.socialecho.net): publishing, monitoring, analytics, and message management across eleven social platforms. Free.
 - [shortshort](https://www.shortshort.io): turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
 - [ScaleReach](https://www.scalereach.ai): turns long videos into vertical 9:16 clips with AI captions and face-tracking crop, and schedules them to social accounts. API, MCP.
