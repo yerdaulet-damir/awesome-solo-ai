@@ -310,6 +310,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [IdeaHunter](https://ideahunter.today) — turns public buyer pain and market signals into scoped app ideas with source evidence, MVP boundaries, and a validation step. 🆓
 - [FalcoScan](https://falcoscan.com) — searchable AI product database with market activity, competition, and opportunity signals; includes an API and MCP server. 🔌 🧩
 - [ProofOfIncome](https://www.proofofincomeai.com) — database of AI business revenue cases, each labelled Verified, Claimed or Unverifiable with sources and check dates; includes a leaderboard and a weekly newsletter. 🆓
+- [Shipped & Paid](https://shippedandpaid.com) — directory of apps built mostly with AI coding tools that report revenue, each labelled Verified, Screenshot or Self-reported with a linked source; includes a free revenue calculator. 🆓
 
 - [LaunchSpy](https://launchspy.io) — tracks Meta ads, funnels and software used by course creators, coaches and community owners; [API and MCP access](https://launchspy.io/mcp) require Pro or Business. 🔌 🧩
 
