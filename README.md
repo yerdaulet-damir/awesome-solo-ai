@@ -175,6 +175,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Cartesia MCP](mcp/cartesia.md) — low-latency realtime speech generation for agents. 🧩 🔓
 - [Ideogram MCP](mcp/ideogram.md) — hosted image generation with real typography over MCP. 🧩
 - [Karma.Domains](https://karma.domains/en/expired-domains-mcp/) — expired, auction and backorder domain search with backlink, authority and traffic metrics and Wayback history; hosted MCP server (OAuth or API key, Pro plan). 🔌 🧩
+- [MEDIAPRONET MCP](https://mediapronet.com/mcp) — hosted read-only remote MCP at `https://mediapronet.com/api/mcp` (Streamable HTTP, no API key, no account) that lets your agent search the MEDIAPRONET launch directory of newly shipped startups, SaaS tools and online products, read full listing profiles, find alternatives to a product and see what is trending, so you can check competitors before you build. Paid (Verified) listings come first in search results. 🧩 🆓
 - [Playwright MCP](mcp/playwright.md) — drive a real browser for testing and scraping. 🧩 🔓
 - [UI Verify](https://uiverify.ai) - Visual testing for solo builders shipping UI with coding agents, using Storybook, Playwright or Vitest tests; hosted MCP. Free for 10,000 snapshots a month, 50,000 for open source. 🧩 🆓
 - [GitHub MCP](mcp/github.md) — issues, PRs, and repo actions from your agent. 🧩 🔓
@@ -321,7 +322,6 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Indie Hackers](https://indiehackers.com) — community of solo founders sharing what works.
 - [Peerlist](https://peerlist.io) — launchpad and network for builders.
 - [CodeTrendy](https://codetrendy.com) — directory for newly launched startups, SaaS and indie products; each submission passes an automated content check and staff may reject it, approved listings get their own page. Free listing needs an account and a CodeTrendy badge on your homepage; paid plans from $19 per listing, homepage featured placement from $39 one time or $30 per month. 🆓
-- [MEDIAPRONET](https://mediapronet.com) — launch and discovery directory where builders list newly shipped startups, SaaS tools and online products by category, one listing page per product. Free listing needs an account and a MEDIAPRONET badge on your homepage and goes live after at least 7 days; paid plans from $19 per listing, homepage featured placement from $39 one time or $30 per month. Read-only remote MCP server at mediapronet.com/api/mcp. 🧩 🆓
 - [startup-directories](https://github.com/saidbouig/startup-directories) — 214 startup and launch directories with what the free route gives, the measured link type and the date checked. 🆓 🔓
 
 **Grow & post**
