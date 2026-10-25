@@ -22,11 +22,11 @@ Revenue posts can be a good source of ideas if you read them for what they actua
 
 How I weigh the labels:
 
-- **Verified** (a third party reads Stripe or RevenueCat): treat it as a fact for that date. It's still revenue, not profit.
+- **Verified** (a third-party profile connected to Stripe or RevenueCat): the connected payment provider reported those figures on that date. That doesn't verify all revenue, costs, or the founder's wider claims.
 - **Screenshot**: plausible, but it's an image the founder chose to share, often at a peak. Look for a second source before relying on it.
-- **Self-reported** (a number in a post or interview): a lead, not evidence. In a Sep 2026 post, ZenMode's founder put MRR at about $2.5K, while Stripe showed less. Even honest founders round up.
+- **Self-reported** (a number in a post or interview): a lead, not evidence. Look for a dated source behind it before planning around it.
 
-**The decision.** Kleo has the bigger number, but it came from distribution most solo builders don't have. ZenMode is the one you can copy: one person without a coding background, about 40 paying customers, a problem he had in his own sales job, and a channel he controls. With no audience, scope the weekend like this: one workflow (target list → connection request → one follow-up), a Stripe checkout, and a line in the "done" section of `CLAUDE.md` that says *validated when 3 strangers pay within 14 days*. If you already have an audience, copy Kleo's launch (waitlist, then a limited paid beta), not its feature list.
+**The decision.** Kleo has the bigger number, but it came from distribution most solo builders don't have. ZenMode suggests a smaller hypothesis worth testing: one person without a coding background, about 40 paying subscriptions, a problem from his own sales job, and a channel he controls. That's evidence the problem exists, not a recipe. With no audience, scope the weekend around a draft-and-manual-review workflow: import a target list, have the model draft a personalised first message and one follow-up, and let the user review, edit and send each one by hand. No automated connection requests. Add a Stripe checkout and a line in the "done" section of `CLAUDE.md` that says *validated when 3 strangers pay within 14 days*. If you already have an audience, look at Kleo's launch (waitlist, then a limited paid beta) rather than its feature list.
 
 **What the figures don't tell you.**
 
