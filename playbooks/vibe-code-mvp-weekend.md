@@ -12,6 +12,30 @@ Friday night you have an idea. Sunday evening it's live with real users on it. T
 | Payments (if needed) | [Stripe MCP](../README.md#mcp-servers) |
 | Launch platforms | Show HN, Product Hunt, relevant subreddits |
 
+## Before Friday: choosing the idea from revenue cases (worked example)
+
+Revenue posts can be a good source of ideas if you read them for what they actually prove. Here are two LinkedIn tools built with Claude Code, taken from [Shipped & Paid](https://shippedandpaid.com), a directory of AI-built apps with revenue claims that I run.
+
+**Kleo, an AI writer for LinkedIn posts.** On Dec 15, 2025, cofounder Cameron Trew [posted on X](https://x.com/camtrew/status/2000550729447043420) "We built a $62k MRR SaaS in 90 days" with a Polar card showing $61,910 MRR for Nov 2 – Dec 1, 2025. Stack: Claude Code, Vercel, Inngest, Neon. Distribution: a waitlist built from the 60k users of Kleo 1.0, a free Chrome extension, plus the cofounders' large LinkedIn audiences. 500 discounted beta spots sold out in 4 days. Proof: a screenshot.
+
+**ZenMode, a desktop app for LinkedIn outreach.** On Oct 18, 2026, solo founder Jonathan Lis [posted](https://x.com/ZenModeJon/status/2111850827799224679) that he made about $9.6k in six months, building with Claude and Claude Code. His [TrustMRR page](https://trustmrr.com/startup/zenmode), synced from Stripe, showed $9,536 all-time and $1,635 MRR from 40 subscriptions when I checked it on Oct 25, 2026. Distribution: cold outreach using his own tool, build-in-public posts and "alternative to" SEO pages. Proof: verified.
+
+How I weigh the labels:
+
+- **Verified** (a third party reads Stripe or RevenueCat): treat it as a fact for that date. It's still revenue, not profit.
+- **Screenshot**: plausible, but it's an image the founder chose to share, often at a peak. Look for a second source before relying on it.
+- **Self-reported** (a number in a post or interview): a lead, not evidence. In a Sep 2026 post, ZenMode's founder put MRR at about $2.5K, while Stripe showed less. Even honest founders round up.
+
+**The decision.** Kleo has the bigger number, but it came from distribution most solo builders don't have. ZenMode is the one you can copy: one person without a coding background, about 40 paying customers, a problem he had in his own sales job, and a channel he controls. With no audience, scope the weekend like this: one workflow (target list → connection request → one follow-up), a Stripe checkout, and a line in the "done" section of `CLAUDE.md` that says *validated when 3 strangers pay within 14 days*. If you already have an audience, copy Kleo's launch (waitlist, then a limited paid beta), not its feature list.
+
+**What the figures don't tell you.**
+
+- Survivorship: you only see the posts that worked.
+- Costs and churn: neither number shows model or API costs, refunds, or how long customers stay.
+- Timing: MRR is a snapshot. Kleo's is a 30-day window from late 2025.
+- Audience: follower counts you see today aren't pre-launch numbers, and they explain more than the stack does.
+- Platform risk: both products depend on LinkedIn. Kleo 1.0 was [shut down after a LinkedIn cease-and-desist](https://x.com/jakezward/status/1975183615257411704), and ZenMode's founder says automating LinkedIn is against its terms.
+
 ## Friday night: idea → CLAUDE.md
 
 The most important file you write isn't code — it's `CLAUDE.md`. Before touching a component, spend 30 minutes writing:
