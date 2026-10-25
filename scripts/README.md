@@ -7,6 +7,8 @@ Generate the companion website files with Python 3 and an authenticated GitHub C
 ```bash
 python3 scripts/build-frontend-guide.py
 python3 scripts/build-frontend-guide.py --check
+python3 scripts/build-contributor-page.py
+python3 scripts/build-contributor-page.py --check
 ```
 
 The script uses GitHub's Markdown renderer, then writes a complete static HTML page at `docs/frontend-design/index.html`, a Markdown version with absolute repository links at `docs/frontend-design.md` and the machine-readable catalog at `docs/llms.txt`. It does not fetch or execute code from the resources listed in the guide.
@@ -14,3 +16,5 @@ The script uses GitHub's Markdown renderer, then writes a complete static HTML p
 Commit the source and generated files together. The repository's existing GitHub Pages configuration publishes `main:/docs`; no new runtime or server is required. `--check` runs locally without a network request and fails when the source, renderer or published copies have changed without regeneration.
 
 The HTML page links to its canonical URL, Markdown source and related indexes. Its content and section navigation do not require JavaScript. Keep new guide links in the root README, guides/tools/skills indexes, website homepage, machine-readable catalog and sitemap as appropriate.
+
+The contributor page is generated from the root `CONTRIBUTING.md`. Rebuild it after changing contribution rules or its renderer. It uses the same GitHub Markdown API as the frontend guide; the `--check` command is local. New Markdown guides remain available on GitHub; add a renderer and sitemap entry separately when publishing an HTML version.

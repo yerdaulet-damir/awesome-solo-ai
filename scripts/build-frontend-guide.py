@@ -139,14 +139,14 @@ def main():
 <a class="skip" href="#guide">Skip to guide</a>
 <header class="masthead">
   <a class="wordmark" href="../">Awesome Solo AI</a>
-  <nav aria-label="Main navigation"><a href="$repository">Full catalog</a><a href="../llms.txt">For agents</a><a href="../frontend-design.md">Markdown</a></nav>
+  <nav aria-label="Main navigation"><a href="$repository">Library</a><a href="../contribute/">Contribute</a><a href="../llms.txt">For agents</a><a href="../frontend-design.md">Markdown</a></nav>
 </header>
 <div class="page-title"><p class="breadcrumb"><a href="../">Home</a> / Frontend design</p><h1>$title</h1></div>
 <div class="reading-layout">
   <aside><nav aria-label="On this page"><div class="desktop-contents"><p class="toc-label">On this page</p><ol>$headings</ol></div><details class="mobile-contents"><summary>Browse guide sections</summary><ol>$headings</ol></details></nav></aside>
   <main id="guide" class="content">$body</main>
 </div>
-<footer><a href="$source">Edit this guide on GitHub</a><a href="../">Awesome Solo AI</a><a href="../llms.txt">Machine-readable index</a></footer>
+<footer><a href="$source">Improve this guide on GitHub</a><a href="../contribute/">Publish a guide, skill or playbook</a><a href="../">Awesome Solo AI</a></footer>
 </body>
 </html>
 ''')

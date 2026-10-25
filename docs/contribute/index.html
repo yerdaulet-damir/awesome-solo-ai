@@ -1,0 +1,96 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Contribute AI guides, skills and playbooks | Awesome Solo AI</title>
+<meta name="description" content="Publish a practical AI guide, skill or playbook, improve an existing workflow, or recommend a tool you have used. First-time contributors are welcome.">
+<meta name="robots" content="index,follow">
+<meta name="source-sha256" content="1a7ec104f7967c23b16fa0b5bd1f6f7f9f74a99349aa4d5339c1a1a0a8a9dd2e">
+<link rel="canonical" href="https://yerdaulet-damir.github.io/awesome-solo-ai/contribute/">
+<link rel="alternate" type="text/markdown" href="https://raw.githubusercontent.com/yerdaulet-damir/awesome-solo-ai/main/CONTRIBUTING.md" title="Read as Markdown">
+<link rel="stylesheet" href="../guide.css">
+</head>
+<body>
+<a class="skip" href="#contribute">Skip to contribution guide</a>
+<header class="masthead"><a class="wordmark" href="../">Awesome Solo AI</a><nav aria-label="Main navigation"><a href="../frontend-design/">Frontend guide</a><a href="../llms.txt">For agents</a><a href="https://github.com/yerdaulet-damir/awesome-solo-ai">GitHub</a></nav></header>
+<div class="page-title"><p class="breadcrumb"><a href="../">Home</a> / Contribute</p><h1>Contribute a guide, skill or playbook</h1></div>
+<div class="reading-layout"><aside><p class="toc-label">Choose a contribution</p><p>First PR? Fix a step you tried or add a worked example to an existing page.</p><p><a href="https://github.com/yerdaulet-damir/awesome-solo-ai/issues/new?template=share-a-contribution.yml">Propose an idea</a></p></aside><main id="contribute" class="content"><p dir="auto">Help someone complete a task with AI tools or coding agents. Publish a guide, skill reference or playbook, improve an existing page, or recommend a resource you have used. Recommendations are reviewed for reader value; submitting one does not guarantee a listing.</p>
+<h2 dir="auto">Start with something small</h2>
+<p dir="auto">First-time contributors and new projects are welcome. There is no minimum star count, follower count or project age. A small example you have run is enough to start.</p>
+<markdown-accessiblity-table><table role="table">
+<thead>
+<tr>
+<th>Contribution</th>
+<th>Where it goes</th>
+<th>What to include</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td data-label="Contribution">Correction or worked example</td>
+<td data-label="Where it goes">An existing guide, skill reference or playbook</td>
+<td data-label="What to include">The problem, what you tried and how you checked the fix</td>
+</tr>
+<tr>
+<td data-label="Contribution">Guide</td>
+<td data-label="Where it goes"><code class="notranslate">guides/</code></td>
+<td data-label="What to include">One task, setup, steps, expected result and limitations. <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/.github/CONTRIBUTION_TEMPLATES/guide.md">Template</a></td>
+</tr>
+<tr>
+<td data-label="Contribution">Skill reference</td>
+<td data-label="Where it goes"><code class="notranslate">skills/</code></td>
+<td data-label="What to include">Source/license, supported agents, install/use steps and a tested example. <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/.github/CONTRIBUTION_TEMPLATES/skill.md">Template</a></td>
+</tr>
+<tr>
+<td data-label="Contribution">Playbook</td>
+<td data-label="Where it goes"><code class="notranslate">playbooks/</code></td>
+<td data-label="What to include">A complete workflow, prompts/config, costs, checks and failure cases. <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/.github/CONTRIBUTION_TEMPLATES/playbook.md">Template</a></td>
+</tr>
+<tr>
+<td data-label="Contribution">Tool, MCP server or agent recommendation</td>
+<td data-label="Where it goes">The relevant catalog section and <code class="notranslate">llms.txt</code></td>
+<td data-label="What to include">A task you used it for, evidence it works, limitations and its difference from an existing option</td>
+</tr>
+</tbody>
+</table></markdown-accessiblity-table>
+<p dir="auto">Browse the <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/README.md">guides</a>, <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/README.md">skills</a> and <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/playbooks/README.md">playbooks</a> first. Extending an existing page is welcome. You do not need to write a whole tutorial to correct one instruction.</p>
+<h2 dir="auto">What a reader should get</h2>
+<ul dir="auto">
+<li>A specific task and enough detail to repeat the useful part: inputs, setup, commands or prompts, and an expected result.</li>
+<li>An honest account of what you tested, when you tested it and what you could not verify. Describe failures as failures.</li>
+<li>Links to primary documentation, source code and licenses. State important pricing, free-tier and access limits beside the relevant step.</li>
+<li>For skills and agents, name the supported agent and the files, scripts, permissions and external services involved. Keep credentials out of examples.</li>
+</ul>
+<p dir="auto">Use the structure that fits the contribution. A correction needs a concise explanation and a check; a workflow needs enough steps to reproduce it. AI-assisted writing and code are welcome. The submitter is responsible for checking the result and reviewing the final diff.</p>
+<h2 dir="auto">Recommending your own product</h2>
+<p dir="auto">Disclose your relationship to the product. Show a working example and explain a concrete difference from resources already listed. A landing page and a neutral sentence alone do not establish usefulness.</p>
+<p dir="auto">A walkthrough using your product is welcome if it teaches a reusable task, identifies prerequisites and costs, and explains where other options fit. Maintainers may keep the example in a guide without adding a separate catalog entry. A thin tutorial whose only purpose is another product link will be declined.</p>
+<p dir="auto">You do not need to make an unrelated contribution to qualify. One useful correction, example or workflow can be the entire PR. Small and new tools are eligible when their usefulness can be checked.</p>
+<h2 dir="auto">Keep discovery in sync</h2>
+<ol dir="auto">
+<li>Add new pages to the relevant directory index: <code class="notranslate">guides/README.md</code>, <code class="notranslate">skills/README.md</code> or <code class="notranslate">playbooks/README.md</code>.</li>
+<li>Add the page to the matching section of the root <code class="notranslate">llms.txt</code>, using an absolute URL and a factual description. For a tool listing, update both the root README and <code class="notranslate">llms.txt</code>.</li>
+<li>Keep the root README's task routes selective. A page can be published in its directory and agent index without a homepage feature.</li>
+<li>If you change the root <code class="notranslate">llms.txt</code> or frontend guide, run <code class="notranslate">python3 scripts/build-frontend-guide.py</code>, then <code class="notranslate">python3 scripts/build-frontend-guide.py --check</code>. Commit generated files with their sources. See <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/scripts/README.md">publishing instructions</a>.</li>
+<li>If you change this contribution guide, run <code class="notranslate">python3 scripts/build-contributor-page.py</code> and <code class="notranslate">python3 scripts/build-contributor-page.py --check</code> to update the website's copy.</li>
+</ol>
+<p dir="auto">Tool flags mean: API = public developer API; MCP = official MCP server; Free = usable recurring free tier; Open = open-source implementation or open weights. Distinguish a one-time trial from a free tier, paid MCP access from a free web app, and an open SDK from a closed service.</p>
+<h2 dir="auto">Submit and review</h2>
+<p dir="auto">Open a focused PR such as <code class="notranslate">Fix guide: &lt;step&gt;</code>, <code class="notranslate">Add skill: &lt;task&gt;</code> or <code class="notranslate">Add playbook: &lt;workflow&gt;</code>, and complete the template. For a larger idea, <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/issues/new?template=share-a-contribution.yml">propose it first</a>. Issues are proposals, not automatic listings.</p>
+<p dir="auto">Maintainers check whether the contribution works, fits the library, adds something distinct and respects sources. They may request changes, suggest an existing page to improve, or decline a redundant submission. Reviews focus on the work, not the popularity of its author. A merge publishes the contribution in this repository and preserves its GitHub authorship history.</p>
+<p dir="auto">The repository uses <a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/LICENSE">CC0</a>. Submit only material you can publish under those terms. Link to third-party code or skills under their own licenses; do not copy them here unless their terms permit it and required notices are preserved.</p>
+<h2 dir="auto">Support and sharing</h2>
+<p dir="auto">If this library helped you, a star is much appreciated. Fork it to adapt a workflow or contribute, and link to the specific guide when sharing what you built. Stars, forks, follows and promotion are optional and do not affect review decisions.</p>
+<p dir="auto">If you publish a walkthrough that uses this library, a source link helps readers find the setup and corrections. You can use this short credit:</p>
+<div class="highlight highlight-text-md" dir="auto"><pre class="notranslate">Resources and workflow notes: <span class="pl-s">[</span>Awesome Solo AI<span class="pl-s">]</span><span class="pl-s">(</span><span class="pl-corl">https://github.com/yerdaulet-damir/awesome-solo-ai</span><span class="pl-s">)</span>.</pre></div>
+<h2 dir="auto">We decline</h2>
+<ul dir="auto">
+<li>Duplicate directories, generic wrappers or promotional listings without a distinct use case and a working example.</li>
+<li>Invented test results, unchecked generated instructions, copied material without permission, or unsupported claims about adoption or earnings.</li>
+<li>Broken resources and hidden access requirements, costs or affiliations.</li>
+<li>Paid placement in the curated catalog. Sponsorship must be labeled separately.</li>
+</ul></main></div>
+<footer><a href="https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/CONTRIBUTING.md">Edit the source guide</a><a href="https://github.com/yerdaulet-damir/awesome-solo-ai/tree/main/.github/CONTRIBUTION_TEMPLATES">Contribution templates</a><a href="../">Library</a></footer>
+</body>
+</html>

@@ -2,6 +2,8 @@
 
 Choose a guide by what you need to build or improve. For the full catalog, see [Awesome Solo AI](../README.md).
 
+Got stuck on a step? A correction or an example you ran is a useful first contribution. [Improve a guide](../CONTRIBUTING.md) or [start a new one](../.github/CONTRIBUTION_TEMPLATES/guide.md).
+
 ## Websites and frontend design
 
 - [How to Build Beautiful Websites Without AI Slop](cinematic-frontend-not-slop.md) — design inspiration, frameworks, component registries, motion, 3D, typography, icons and frontend agent skills. [Read on the website](https://yerdaulet-damir.github.io/awesome-solo-ai/frontend-design/).

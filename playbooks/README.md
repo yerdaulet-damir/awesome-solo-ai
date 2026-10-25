@@ -4,6 +4,8 @@ End-to-end workflows a solo builder can copy. Each playbook covers a full stack 
 
 ## All playbooks
 
+Publish a small workflow you have run, or add a useful variation to an existing one. Include the inputs, actual result and limits. [Contribution guide](../CONTRIBUTING.md) · [Playbook template](../.github/CONTRIBUTION_TEMPLATES/playbook.md).
+
 ### Build
 
 - [RAG chatbot over your docs](rag-chatbot-over-docs.md) — Firecrawl → Supabase pgvector → Claude → Vercel. Full pipeline in a weekend, including the chunk-size tradeoff that determines retrieval quality.
@@ -13,6 +15,8 @@ End-to-end workflows a solo builder can copy. Each playbook covers a full stack 
 - [SaaS billing + onboarding automation](saas-billing-onboarding.md) — Stripe MCP + Supabase MCP + Resend in one Claude Code session. The "Stripe from day one" playbook, including the one RLS policy that will bite you if you miss it.
 
 ### Grow
+
+- [Build in public](build-in-public.md) — share project progress and respond to feedback.
 
 - [Launch and get your first users (solo)](launch-and-get-first-users.md) — Distribution sequence for a one-person launch: where to post, what to build before launch day, and how to turn a spike into a loop.
 - [Cold outreach personalization at scale](cold-outreach-personalization.md) — 50 LinkedIn URLs → 50 personalized openers in 30 minutes via Firecrawl + Claude + Instantly. Includes deliverability basics.

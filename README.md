@@ -1,21 +1,26 @@
 # Awesome Solo AI [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 
-AI tools, Claude skills, MCP servers and workflows for solopreneurs, indie hackers and solo founders building a one-person business.
+Practical AI guides, coding-agent skills, playbooks and tools for solo builders making products and content.
 
-Start with the [starter stack](#-the-starter-stack) or the [free stack](free-solo-ai-stack.md). Looking for an agent integration? Go to [MCP servers](#mcp-servers) or [Claude skills and plugins](#claude-skills--plugins).
-
-For website work, use the [frontend design resource guide](guides/cinematic-frontend-not-slop.md): inspiration, component libraries, GSAP, Motion, 3D and agent skills.
+Choose a task below, follow the linked material, and contribute what you learned. First-time contributors can improve an existing guide, share a working skill, or document a workflow they have tried. [Contribution guide](CONTRIBUTING.md).
 
 _Updated: October 2026._
 
-Give Claude Code or Cursor the [`llms.txt`](llms.txt) index, for example:
-> `Read https://raw.githubusercontent.com/yerdaulet-damir/awesome-solo-ai/main/llms.txt — which tool here generates a talking-head avatar video, and does it have an MCP server?`
-
-If this list helped you choose a tool, star it to find it again.
+If this saves you time, stars and sharing a useful guide are much appreciated. Fork the repo when you want to adapt a workflow or contribute a change.
 
 ---
 
 ## Contents
+
+- [Start with a task](#start-with-a-task)
+- [Guides](#guides)
+- [Skills](#skills)
+- [Playbooks](#playbooks)
+- [Use with Claude Code, Codex or Cursor](#use-with-claude-code-codex-or-cursor)
+- [Contribute a workflow or improvement](CONTRIBUTING.md)
+
+<details>
+<summary>Browse tools, integrations and reference pages</summary>
 
 - [Why this list](#why-this-list)
 - [Legend](#legend)
@@ -38,19 +43,79 @@ If this list helped you choose a tool, star it to find it again.
 - [Distribution & Marketing](#distribution--marketing)
 - [💸 Free Solo AI Stack](free-solo-ai-stack.md) — only the free-tier & open-source tools
 - [🔨 Build Your Own AI X](#-build-your-own-ai-x) — step-by-step guides to ship real AI products
-- [Guides](#guides) — tutorials, Karpathy/Kaggle-style
-- [Playbooks](#playbooks) — end-to-end solo workflows
 - [🔓 Open-Source Alternatives](open-source/) — every closed tool has an OSS swap
 - [📣 Distribution & Marketing](distribution/) — where and how to launch
 - [FAQ](#faq)
 - [Contributing](#contributing)
 - [Maintained by](#maintained-by)
 
+</details>
+
 ---
+
+## Start with a task
+
+| What you want to do | Start here | What you will find |
+| --- | --- | --- |
+| Build a distinctive website | [Frontend design guide](guides/cinematic-frontend-not-slop.md) · [Read on the website](https://yerdaulet-damir.github.io/awesome-solo-ai/frontend-design/) | Design references, component libraries, GSAP, Motion and frontend skills |
+| Build and review a product with a coding agent | [SaaS build playbook](playbooks/solo-saas-with-claude.md) | A build loop with browser verification and code review |
+| Choose or use a coding-agent skill | [Skills library](skills/README.md) | Task-specific instructions, source links and setup notes |
+| Automate a recurring task | [Automation guide](guides/automations-without-code.md) | Workflow tools and examples to adapt to your own process |
+| Repurpose content | [Content repurposing playbook](playbooks/content-repurposing-flywheel.md) | A workflow for turning source material into several formats |
+| Compare costs before choosing tools | [Free solo AI stack](free-solo-ai-stack.md) | Free tiers and open-source options, with limits to check |
+
+## Guides
+
+Follow a guide for one task, then report a missing step or add an example you have run. [Browse all guides](guides/README.md).
+
+- [How to edit videos with Claude Code (no manual editing)](guides/edit-video-with-claude.md)
+- [AI video editing and faceless video repos (MCP servers, pipelines, frameworks)](guides/ai-video-editing-repos.md)
+- [How to build automations without code](guides/automations-without-code.md)
+- [How to eliminate AI-slop code and write production-grade code](guides/kill-ai-slop-code.md)
+- [Beautiful websites without AI slop: frontend libraries, design references and agent skills](guides/cinematic-frontend-not-slop.md)
+
+## Skills
+
+Find instructions for the task your agent is doing. Check the source and supported agent before installing. [Browse all skills](skills/README.md).
+
+- [Frontend design](skills/frontend-design.md): choosing a visual direction and reviewing the interface
+- [Web app testing](skills/webapp-testing.md): checking a local app in a browser
+- [MCP builder](skills/mcp-builder.md): implementing a tool server
+- [Context7](skills/context7.md): retrieving library documentation
+
+## Playbooks
+
+Use a playbook for a workflow involving several steps or tools. [Browse all playbooks](playbooks/README.md).
+
+- [Faceless short-form content factory (script → voice → avatar → publish)](playbooks/faceless-content-factory.md)
+- [Ship a SaaS solo with Claude Code + MCP](playbooks/solo-saas-with-claude.md)
+- [Launch and get your first users (solo)](playbooks/launch-and-get-first-users.md)
+- [Build a RAG chatbot over your docs in a weekend](playbooks/rag-chatbot-over-docs.md)
+- [Turn a YouTube channel into a newsletter + content flywheel](playbooks/youtube-to-newsletter.md)
+- [Ship an AI Chrome extension in 72 hours](playbooks/ai-chrome-extension.md)
+- [Automate cold outreach personalization at scale](playbooks/cold-outreach-personalization.md)
+- [Repurpose one idea into 10 content formats automatically](playbooks/content-repurposing-flywheel.md)
+- [Vibe-code an MVP in a weekend](playbooks/vibe-code-mvp-weekend.md)
+- [Automate a full SaaS billing + onboarding flow](playbooks/saas-billing-onboarding.md)
+- [Build in public: tools and playbook for GitHub, X, and Reddit](playbooks/build-in-public.md)
+
+
+## Use with Claude Code, Codex or Cursor
+
+Give your agent the [machine-readable index](llms.txt) and a specific task:
+
+```text
+Read https://raw.githubusercontent.com/yerdaulet-damir/awesome-solo-ai/main/llms.txt.
+I want to build a product website with original visuals and accessible motion.
+Read the relevant guide and skill references. Explain the choices that fit my
+project, check current upstream docs, and propose one small first step.
+```
+
+After trying a workflow, you can ask the agent to draft a correction or write up your result using the [contribution guide](CONTRIBUTING.md). Include what actually ran, what failed and what you changed.
 
 ## Why this list
 
-There are big awesome lists for [MCP servers](https://github.com/punkpeye/awesome-mcp-servers), for [Claude Code](https://github.com/hesreallyhim/awesome-claude-code), and for [generative AI](https://github.com/steven2358/awesome-generative-ai) — but nothing assembles the **AI stack a one-person company actually runs on**: the video/voice/image tools a solopreneur pays for, *plus* the MCP servers and Claude skills that let an agent drive them, *plus* the playbooks for shipping and growing solo. This is the home base for solopreneurs, indie hackers, and solo founders building with AI. Curated by judgment — tools that don't work get cut.
+The library connects tool references with guides, skills and workflows for using them. Contributions should help a reader complete a task or make a better choice. A tool listing needs a working example and a reason to choose it over existing options; a live landing page alone is not enough.
 
 ## Legend
 
@@ -367,33 +432,6 @@ Step-by-step guides to ship real AI products solo. Each guide names the exact st
 
 ---
 
-## Guides
-
-Hands-on, practical tutorials — Karpathy/Kaggle energy, not theory. See [`/guides`](guides).
-
-- [How to edit videos with Claude Code (no manual editing)](guides/edit-video-with-claude.md)
-- [AI video editing and faceless video repos (MCP servers, pipelines, frameworks)](guides/ai-video-editing-repos.md)
-- [How to build automations without code](guides/automations-without-code.md)
-- [How to eliminate AI-slop code and write production-grade code](guides/kill-ai-slop-code.md)
-- [Beautiful websites without AI slop: frontend libraries, design references and agent skills](guides/cinematic-frontend-not-slop.md)
-
-## Playbooks
-
-End-to-end workflows a solo builder can copy. See [`/playbooks`](playbooks).
-
-- [Faceless short-form content factory (script → voice → avatar → publish)](playbooks/faceless-content-factory.md)
-- [Ship a SaaS solo with Claude Code + MCP](playbooks/solo-saas-with-claude.md)
-- [Launch and get your first users (solo)](playbooks/launch-and-get-first-users.md)
-- [Build a RAG chatbot over your docs in a weekend](playbooks/rag-chatbot-over-docs.md)
-- [Turn a YouTube channel into a newsletter + content flywheel](playbooks/youtube-to-newsletter.md)
-- [Ship an AI Chrome extension in 72 hours](playbooks/ai-chrome-extension.md)
-- [Automate cold outreach personalization at scale](playbooks/cold-outreach-personalization.md)
-- [Repurpose one idea into 10 content formats automatically](playbooks/content-repurposing-flywheel.md)
-- [Vibe-code an MVP in a weekend](playbooks/vibe-code-mvp-weekend.md)
-- [Automate a full SaaS billing + onboarding flow](playbooks/saas-billing-onboarding.md)
-- [Build in public: tools and playbook for GitHub, X, and Reddit](playbooks/build-in-public.md)
-
----
 
 ## FAQ
 
@@ -425,15 +463,13 @@ Use [n8n](#automation--agent-frameworks) or [Make](#automation--agent-frameworks
 
 ## Contributing
 
-PRs and submissions welcome — see [CONTRIBUTING.md](CONTRIBUTING.md). Rules: the tool must be **live**, the description **one neutral factual line**, and you must note 🔌/🧩/🆓/🔓 accurately. Dead or deprecated tools get cut.
+Publish a guide, skill or playbook, or improve an existing one. First PR? Fix a step you got stuck on, add an example you ran, or document a free-tier limit. Your project does not need a minimum number of stars. [Choose a contribution](CONTRIBUTING.md) · [Start from a template](.github/CONTRIBUTION_TEMPLATES/).
 
 ## Maintained by
 
 Built and curated by **[Yerdaulet Damir](https://yerdaulet.xyz)** — an AI engineer and AI-native developer who works at CTO / tech-lead level: senior, high-agency, full end-to-end ownership, with real product taste. Part builder, part indie researcher. Ships AI agents and AI SaaS (one platform does 20k+ video/image generations a month), wrote the low-code & vibe-coding course for Astana Hub — Central Asia's largest tech hub — and will take any problem, at any level, and grind it to done. Sits, builds, hustles ~18 hours a day.
 
 [yerdaulet.xyz](https://yerdaulet.xyz) · [GitHub](https://github.com/yerdaulet-damir) · [X](https://x.com/aimyerdaulet) · [LinkedIn](https://linkedin.com/in/yerdaulet-damir) — open to building with ambitious teams (YC · SF · London).
-
-> 💬 If this saved you time, a ⭐ helps others find it. Building something or hiring? [Reach out](https://yerdaulet.xyz).
 
 <!-- Sponsors -->
 ## Sponsors
