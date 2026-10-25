@@ -177,6 +177,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [OrcaReplay](https://github.com/Continuum-AI-Corp/OrcaReplay): records a coding-agent run beneath the harness, replays it offline from the recorded bytes with no model called, re-runs it from a chosen step on a different model, serves the trace store over MCP. MCP, Free, Open.
 - [Orbi](https://github.com/orbi-build/orbi): self-hosted coding agent for GitHub repos, label an issue and it writes the code, opens a PR, has an independent review session check it against the issue's acceptance criteria, merges, and tags a release. Open, Free.
 - [Sillage](https://github.com/MarlBurroW/sillage): self-hosted, mobile-first web UI that drives the native Claude Code and Codex CLIs on your own machine, server-side sessions that outlive the client, full-text search across conversations, IDE panel with files/editor/diffs/terminal, worktrees, installable PWA, single Docker container. MCP, Free, Open.
+- [doany](https://doany.ai): AI company builder, describe a business in plain words and it builds and hosts the website and product, takes Stripe payments, and helps with marketing and support. Free plan limited to 5 daily credits (up to 30/month); Pro from $25/month. Free tier.
 
 ## Automation & Agent Frameworks
 - [n8n](https://n8n.io): open-source workflow automation with AI nodes. Open.
