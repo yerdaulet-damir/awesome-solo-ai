@@ -41,6 +41,8 @@ The welcome email fires from the `checkout.session.completed` webhook handler, i
 
 Three emails, one session, Stripe from day one. Everything you add later builds on a foundation that already works.
 
+When users start asking questions, see [Answer users' questions from your docs with a support chat](../guides/support-chat-from-docs.md).
+
 ---
 
 _Part of [Awesome Solo AI](../README.md) — curated by [Yerdaulet Damir](https://yerdaulet.xyz). The AI stack solo builders feed to Claude Code._
