@@ -238,6 +238,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [shortshort](https://www.shortshort.io): turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
 - [ScaleReach](https://www.scalereach.ai): turns long videos into vertical 9:16 clips with AI captions and face-tracking crop, and schedules them to social accounts. API, MCP.
 - [kdpbook.io](https://kdpbook.io): describe a book in a chat and get the Amazon KDP files (print PDF, full-wrap cover, Kindle EPUB, listing sheet); includes 2,000 free credits at signup, free-plan exports are watermarked.
+- [CoverNice](https://covernice.com): AI book cover generator for KDP paperbacks — five editable cover directions in 30 seconds, then spine width, bleed and safe-area math for your trim size and page count, exported as a 300 dpi print-ready wrap PDF. Free, no signup.
 - [ImagineYourBook](https://www.imagineyourbook.com/): plans and drafts full-length books, rewrites manuscripts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
 - [Drevon](https://www.drevon.dev): Mac app that runs Claude Code or Codex agents in a browser with your existing logins (LinkedIn, Sales Navigator, Reddit) to research prospects and accounts, with MCP connectors for CRM, enrichment and outreach tools such as HubSpot, Clay and Smartlead; results saved as CSV, JSON or Markdown. Free.
 

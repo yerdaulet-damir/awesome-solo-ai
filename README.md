@@ -420,6 +420,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [shortshort](https://www.shortshort.io) — turns long videos into vertical clips with face tracking and word-by-word captions; includes a limited free AI trial.
 - [ScaleReach](https://www.scalereach.ai) - turns long videos into vertical 9:16 clips with AI captions and face-tracking crop, and schedules them to social accounts. 🔌 🧩
 - [kdpbook.io](https://kdpbook.io) — describe a book in a chat and get the Amazon KDP files: print PDF, full-wrap cover, Kindle EPUB and listing sheet; includes 2,000 free credits at signup (free-plan exports are watermarked).
+- [CoverNice](https://covernice.com) — describe your book and get five editable AI cover directions in 30 seconds, then the exact KDP spine width, bleed and safe area for your trim size and page count, exported as a 300 dpi print-ready wrap PDF; the calculator is free with no signup.
 - [ImagineYourBook](https://www.imagineyourbook.com/) - plans and drafts full-length books, rewrites manuscripts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
 
 ---
