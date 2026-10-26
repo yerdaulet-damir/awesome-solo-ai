@@ -21,6 +21,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Automation without code](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/automations-without-code.md): Tools and patterns for automating recurring tasks without maintaining a custom integration for each step.
 - [Self-hosted analytics](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/self-hosted-analytics.md): Web, product and LLM analytics options, with deployment and agent integration references.
 - [Podcasts and learning](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/podcasts-and-learning.md): Podcast and learning resources for solo builders.
+- [Answer users' questions from your docs with a support chat](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/support-chat-from-docs.md): Giving a hosted support chat a few docs, testing a question they cover and one they don't, then turning the missed question into a docs update and a reply. Worked example with Deacon's free plan.
 
 ## Coding-agent skills and plugins
 - [mblode/agent-skills](https://github.com/mblode/agent-skills): Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. Open.
@@ -212,6 +213,9 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Clerk](https://clerk.com): drop-in auth. API.
 - [tgx](https://github.com/yerdaulet-damir/tgx): TypeScript framework for Telegram bots on grammY; state/payments/menus built in, agent-native with an MCP server. Open.
 - [deed.page](https://deed.page): static hosting built for agents; one curl request or MCP call publishes HTML or a folder to a permanent public URL, no signup. API, MCP, Free.
+
+## Customer Support
+- [Deacon](https://heydeacon.com): support chat for your site or app that answers users from your docs, says when it doesn't know, and shows you what people keep asking. Free plan with 50 answers a month, no card needed. Free.
 
 
 ## Distribution & Marketing

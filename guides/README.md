@@ -21,4 +21,8 @@ Got stuck on a step? A correction or an example you ran is a useful first contri
 - [Automations without code](automations-without-code.md)
 - [Self-hosted analytics](self-hosted-analytics.md)
 
+## Customer support
+
+- [Answer users' questions from your docs with a support chat](support-chat-from-docs.md)
+
 [Tools](../tools/README.md) · [Skills](../skills/README.md) · [Machine-readable index](../llms.txt)
