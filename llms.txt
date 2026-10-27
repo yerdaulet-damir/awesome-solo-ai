@@ -30,6 +30,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [scroll-world](https://github.com/oso95/scroll-world): agent skill that turns any brand into a scrollable 3D world with scroll-driven camera fly-throughs. Open.
 - [claude-seo](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/claude-seo.md): full SEO/GEO suite — audit, schema, backlinks, AI-search optimization. Open.
 - [NotFair](https://github.com/nowork-studio/NotFair): Claude Code skills and plugin for SEO, GEO, Google Ads, and Meta Ads. Open.
+- [ai-agency-os-starter](https://github.com/CalebAnderson-Coder/ai-agency-os-starter): Claude Code skills for freelancers and small agencies with several clients: per-client folders and CLAUDE.md, a scope-guard that checks requests against SCOPE.md and drafts priced change orders without sending them, and a quick-quote pricing skill. Open.
 - [ponytail](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ponytail.md): anti-over-engineering skill, ~54% less code, "think like the laziest senior dev". Open.
 - [redpen](https://github.com/yerdaulet-damir/redpen): anti-slop copywriting skill for Claude Code, Cursor, Cline & Copilot. The old ad man with the red pen: every line must pass three questions — can I visualize it, can I falsify it, can nobody else say it — before it ships. Kills adjective-slop in headlines, landing pages, taglines. Open.
 - [superpowers](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/superpowers.md): plan-first TDD agentic framework. Open.
