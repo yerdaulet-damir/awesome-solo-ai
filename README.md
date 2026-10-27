@@ -218,6 +218,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 
 ## Image Generation & Editing
 
+- [Artgen](https://artgen.net/en/tools/image-to-pixel-art) — browser photo→pixel art, ASCII, risograph and related **fixed effects** (not prompt image gen); six effects free with sign-in and no credits — differs from Midjourney/FLUX/Ideogram which generate from text. 🆓
 - [Midjourney](https://midjourney.com) — best-in-class artistic/aesthetic image quality (v7). 🔌
 - [Black Forest Labs FLUX](https://bfl.ai) — photorealism leader; FLUX.2 family with open-weight tiers. 🔌 🔓
 - [Google Nano Banana](https://gemini.google) — Gemini image gen: fast, realistic, up to 4K, multi-reference editing. 🔌
