@@ -81,6 +81,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Fal.ai](https://fal.ai): fast inference host for image/video/audio models. API.
 - [Replicate](https://replicate.com): run/fine-tune thousands of open models. API.
 - [AI/ML API](https://aimlapi.com): 400+ multimodal models in one key. API, Free.
+- [UberLLM](https://uberllm.dev): 490+ text, image, video, music and speech models, one OpenAI- and Anthropic-compatible key; prepaid, no free tier. API, MCP.
 
 ## Video Generation
 - [Runway](https://runwayml.com): industry-standard text/image-to-video (Gen-4). API.

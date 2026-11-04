@@ -158,6 +158,7 @@ One API key, many models. The backbone of any solo AI app — swap providers wit
 - [AI/ML API](https://aimlapi.com) — 400+ models across text, image, video, audio, and music in one key. 🔌 🆓
 - [Groq](https://groq.com), [Hyperbolic](https://hyperbolic.xyz), [Novita](https://novita.ai), [Featherless](https://featherless.ai) — additional low-cost open-model hosts worth a look. 🔌
 - [Eden AI](https://www.edenai.co) — GDPR-native EU aggregator across text, OCR, speech, translation. 🔌 🆓
+- [UberLLM](https://uberllm.dev) — one OpenAI- and Anthropic-compatible key for 490+ text, image, video, music and speech models; each request is billed what the third-party provider serving it charged, prepaid with no free tier. 🔌 🧩
 
 > ⚠️ Avoid: **PlayHT** (shut down Dec 2025), **DALL·E 2/3** (deprecated, API ends May 2026), **Helicone** (acquired, maintenance mode).
 
