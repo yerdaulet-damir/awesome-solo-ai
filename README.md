@@ -256,7 +256,6 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Invompt](https://invompt.com) — drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. 🧩 🆓
 - [looot](https://looot.ai) — one API key and prepaid balance for 2,500+ data endpoints (work emails, phones, company enrichment, Google SERP, web pages) over a remote MCP server; pay per call, no free tier. 🔌 🧩
 - [Kleap](https://kleap.co/mcp) — hosted MCP (OAuth, 34 tools) and `npx kleap-cli` stdio server to create, edit, and publish websites. 🔌 🧩 🔓
-- [CurlShot](https://curlshot.com) — screenshots a public URL as PNG, JPEG, WebP, PDF or scrolling video over one GET request or a remote MCP server; 100 free screenshots a month. 🔌 🧩 🆓
 
 - [VideoGen MCP](https://videogen.io/videogen-mcp) — create videos, generate media, remix projects and export MP4s; requires VideoGen API access and paid generation credits. 🔌 🧩
 
@@ -392,7 +391,6 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Reddit](https://reddit.com) — niche subs (r/SideProject, r/indiehackers) — and the #1 source AI engines cite.
 - [Indie Hackers](https://indiehackers.com) — community of solo founders sharing what works.
 - [Peerlist](https://peerlist.io) — launchpad and network for builders.
-- [CodeTrendy](https://codetrendy.com) — directory for newly launched startups, SaaS and indie products; each submission passes an automated content check and staff may reject it, approved listings get their own page. Free listing needs an account and a CodeTrendy badge on your homepage; paid plans from $19 per listing, homepage featured placement from $39 one time or $30 per month. 🆓
 - [startup-directories](https://github.com/saidbouig/startup-directories) — 214 startup and launch directories with what the free route gives, the measured link type and the date checked. 🆓 🔓
 
 **Grow & post**
