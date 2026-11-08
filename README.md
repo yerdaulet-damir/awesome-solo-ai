@@ -178,7 +178,6 @@ Text-to-video and image-to-video — the tools creators use for shorts, ads, and
 - [Pixwit](https://pixwit.ai) — multi-model text-to-video and image-to-video with effect templates and image gen. 🆓
 - [pitchboom.io](https://pitchboom.io) — motion-design video ads from a product URL or short brief, with script, storyboard, voice-over and music.
 
-
 ## AI Avatars & Talking Heads
 
 Spokesperson and presenter video from a script — no camera, no studio.
