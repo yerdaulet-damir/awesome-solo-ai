@@ -62,6 +62,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [OpenRouter](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/openrouter.md): one API key, every model.
 - [ElevenLabs](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/elevenlabs.md): TTS, cloning, dubbing, SFX.
 - [HeyGen](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/heygen.md): scripted avatar video.
+- [AITrans.Video](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/aitrans-video.md): AI video translation and dubbing for long-form content.
 - [Runway](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/runway.md): text/image-to-video.
 - [Kling](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/kling.md): high-fidelity long-duration video.
 - [Suno](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/tools/suno.md): text-to-song with vocals.
@@ -107,6 +108,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Sync.so](https://sync.so): best-in-class lipsync API. API.
 - [Rask AI](https://rask.ai): one-click video translation/dubbing, 130+ languages. API.
 - [ElevenLabs Dubbing](https://elevenlabs.io/dubbing): voice-preserving dubbing. API, MCP.
+- [AITrans.Video](https://aitrans.video/): AI video translation and dubbing for long-form talks and interviews, with sentence-by-sentence review. Free.
 
 ## Voice, TTS & Cloning
 - [ElevenLabs](https://elevenlabs.io): market-leading TTS, cloning, voice agents. API, MCP, Free.
