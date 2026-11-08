@@ -178,6 +178,7 @@ Text-to-video and image-to-video — the tools creators use for shorts, ads, and
 - [Pixwit](https://pixwit.ai) — multi-model text-to-video and image-to-video with effect templates and image gen. 🆓
 - [pitchboom.io](https://pitchboom.io) — motion-design video ads from a product URL or short brief, with script, storyboard, voice-over and music.
 
+
 ## AI Avatars & Talking Heads
 
 Spokesperson and presenter video from a script — no camera, no studio.
@@ -195,7 +196,8 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [HeyGen Translate](https://heygen.com/translate) — translate and re-lipsync video into 175+ languages. 🔌 🧩
 - [Rask AI](https://rask.ai) — one-click video translation and dubbing for 130+ languages. 🔌
 - [ElevenLabs Dubbing](https://elevenlabs.io/dubbing) — voice-preserving dubbing across 30+ languages. 🔌 🧩
-
+- [AITrans.Video](tools/aitrans-video.md) — AI video translation and dubbing for long-form talks and interviews, with sentence-by-sentence Studio review. Free preview / Plus $16.99/mo / Pro $49.99/mo.
+  
 ## Voice, TTS & Cloning
 
 - [ElevenLabs](https://elevenlabs.io) — market-leading TTS, voice cloning, and voice agents; 70+ languages. 🔌 🧩 🆓
