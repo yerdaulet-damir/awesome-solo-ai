@@ -24,6 +24,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Answer users' questions from your docs with a support chat](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/guides/support-chat-from-docs.md): Giving a hosted support chat a few docs, testing a question they cover and one they don't, then turning the missed question into a docs update and a reply. Worked example with Deacon's free plan.
 
 ## Coding-agent skills and plugins
+- [DESIGN:OS](https://github.com/jangtrinh/design-os): FREE design CLI and skills for Claude Code, Codex and Antigravity: describe the UI in plain words, get web or SwiftUI output that passes design checks. Free.
 - [mblode/agent-skills](https://github.com/mblode/agent-skills): Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. Open.
 - [ui-ux-pro-max](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/ui-ux-pro-max.md): design-intelligence skill, 50+ styles/161 palettes, coherent design system from one prompt. Open.
 - [frontend-design](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/frontend-design.md): Anthropic skill that forces a deliberate aesthetic, kills AI-slop UI. Open.
