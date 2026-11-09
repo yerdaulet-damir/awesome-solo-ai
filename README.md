@@ -158,6 +158,7 @@ One API key, many models. The backbone of any solo AI app — swap providers wit
 - [AI/ML API](https://aimlapi.com) — 400+ models across text, image, video, audio, and music in one key. 🔌 🆓
 - [Groq](https://groq.com), [Hyperbolic](https://hyperbolic.xyz), [Novita](https://novita.ai), [Featherless](https://featherless.ai) — additional low-cost open-model hosts worth a look. 🔌
 - [Eden AI](https://www.edenai.co) — GDPR-native EU aggregator across text, OCR, speech, translation. 🔌 🆓
+- [Standard Compute](https://standardcompute.com) — OpenAI- and Anthropic-compatible API for AI agents that sends each step to the cheapest capable model, with automatic fallback. Opt-in Europe/US processing rules; prompts are not stored or used for training. 🔌
 
 > ⚠️ Avoid: **PlayHT** (shut down Dec 2025), **DALL·E 2/3** (deprecated, API ends May 2026), **Helicone** (acquired, maintenance mode).
 
