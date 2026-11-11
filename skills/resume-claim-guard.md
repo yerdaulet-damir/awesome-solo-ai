@@ -5,7 +5,7 @@
 - Repository: https://github.com/korey2028-prog/resume-claim-guard
 - Skill file: https://github.com/korey2028-prog/resume-claim-guard/blob/main/SKILL.md
 - License: MIT
-- Supported agents I document: Claude Code, Codex, WorkBuddy, and web LLMs via `PROMPT.md`. I have not claimed Cursor or Copilot.
+- Supported agents I document: Claude Code, Codex, WorkBuddy, and web LLMs via `PROMPT.md`.
 
 ## When to use it
 
