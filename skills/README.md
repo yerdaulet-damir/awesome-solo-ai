@@ -30,6 +30,9 @@ You can add a skill reference or improve an existing page with a prompt, result 
 - [webapp-testing](webapp-testing.md) — official Anthropic skill: tests your local app in a real Playwright browser, catching JS errors invisible to static analysis.
 - [mcp-builder](mcp-builder.md) — official Anthropic skill: guided workflow for shipping your own MCP server from any API or tool, no spec-reading required.
 
+## Career & resumes
+- [resume-claim-guard](resume-claim-guard.md) — writes a job-tailored resume from confirmed facts only, then audits claims and previews interview follow-ups.
+
 ---
 
 > ⚠️ **Security:** skills are markdown + shell. A 2026 Snyk study found ~13% of community skills had critical flaws, some exfiltrating credentials. Read the `SKILL.md` before installing anything outside Anthropic or an established maintainer.
