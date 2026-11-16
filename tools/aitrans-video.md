@@ -3,9 +3,10 @@
 AITrans.Video is an AI video translation and dubbing workspace for creators, built for long-form content. It turns one video into a translated, dubbed version with subtitles, and lets you review and correct every sentence before export.
 
 - Website: https://aitrans.video/
-- Free tier: free preview without signup, up to 30 minutes per video, watermarked.
-- Costs: Free / Plus $16.99 per month / Pro $49.99 per month.
+- Free tier: free watermarked preview without signup, up to 30 minutes per video; online playback only, no download.
+- Costs: Freemium — the free option is a watermarked preview only; Plus $16.99 per month / Pro $49.99 per month. A full version needs an account and credits.
 - Made by: solo founder Xiong Ge (Wuhan), founded 2026.
+- Disclosure: This page was submitted by the founder of AITrans.Video (self-submission).
 
 ## Use it when
 
@@ -31,13 +32,14 @@ Try the flow first with the free preview: no signup, up to 30 minutes per video,
 
 ## Cost
 
-Free / Plus $16.99 per month / Pro $49.99 per month. A single video up to 180 minutes is on Pro; the free preview is limited to 30 minutes per video and is watermarked.
+Freemium — the free option is a watermarked preview only. Plus $16.99 per month / Pro $49.99 per month. A single video up to 180 minutes is on Pro; the free preview is limited to 30 minutes per video, is watermarked, and cannot be downloaded. Generating a full version needs an account and credits: the quick version costs 10 credits per minute. A new account receives 1,600 credits, including 600 credits from a 7-day trial.
 
 ## Limitations
 
 - Auto-dubbing covers Chinese, English, Portuguese, Japanese, Thai, Indonesian and Vietnamese. Languages outside that list are not covered by auto-dubbing.
-- The free preview is watermarked and limited to 30 minutes per video.
+- The free preview is watermarked and limited to 30 minutes per video. It can only be played online, cannot be downloaded, and does not show the transcription or translation text.
 - Long videos up to 180 minutes need a Pro plan.
+- Generating a full version needs an account and credits (see the hands-on test below). Uploaded assets are kept for 24 hours and projects for 7 days.
 
 ## Alternatives
 
@@ -51,10 +53,14 @@ Free / Plus $16.99 per month / Pro $49.99 per month. A single video up to 180 mi
 - Publishing the free, watermarked preview as a finished video.
 - Skipping review and expecting a finished translation without checking the Studio output first.
 
-## Real evidence
+## Hands-on test
 
-The workflow above is the product's working workflow as described on its website: upload a video, auto-transcribe, translate, rewrite for voice, AI-dub, align subtitles and voice, then review sentence by sentence in the Studio and correct individual lines before export. The free preview lets you run that workflow on a video of up to 30 minutes without signup (watermarked), so you can verify the Studio review step before paying.
+This entry was first submitted on 8 November 2026 based on the public documentation. On 10 November 2026 I ran the full flow hands-on with a self-made 62-second Chinese spoken clip (720p, female voice) that I own all rights to.
+
+- Free preview: no signup. The result was watermarked, could only be played online, could not be downloaded, and did not show the transcription or translation text. Generation took a few minutes.
+- Corrected line: in the Studio I manually changed the machine translation of the final sentence to "See you in the next video." After re-synthesis, the downloaded video does say the corrected sentence. I checked the downloaded video locally sentence by sentence: 12/12 sentences matched the translation, and the finished video is 61.72 seconds long, the same as the original.
+- Export and credits: generating a full version needs an account and credits. The quick version costs 10 credits per minute. For the 62-second clip, the task cost 10 credits, unlocking the Studio cost 20 credits, and exporting a CapCut draft cost 50 credits. A new account receives 1,600 credits, including 600 credits from a 7-day trial. Uploaded assets are kept for 24 hours and projects for 7 days.
 
 ## Part of Awesome Solo AI
 
-[Back to the Awesome Solo AI home page](../../README.md)
+[Back to the Awesome Solo AI home page](../README.md)
