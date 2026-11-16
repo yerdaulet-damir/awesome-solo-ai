@@ -108,7 +108,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Sync.so](https://sync.so): best-in-class lipsync API. API.
 - [Rask AI](https://rask.ai): one-click video translation/dubbing, 130+ languages. API.
 - [ElevenLabs Dubbing](https://elevenlabs.io/dubbing): voice-preserving dubbing. API, MCP.
-- [AITrans.Video](https://aitrans.video/): AI video translation and dubbing for long-form talks and interviews, with sentence-by-sentence review. Free.
+- [AITrans.Video](https://aitrans.video/): AI video translation and dubbing for long-form talks and interviews, with sentence-by-sentence review. Freemium — free watermarked preview.
 
 ## Voice, TTS & Cloning
 - [ElevenLabs](https://elevenlabs.io): market-leading TTS, cloning, voice agents. API, MCP, Free.
