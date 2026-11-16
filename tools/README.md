@@ -20,7 +20,7 @@ A **tool page** is a self-contained reference an AI agent (or a human) can read 
 
 ## Voice & music
 - [ElevenLabs](elevenlabs.md) — market-leading TTS, cloning, dubbing.
-- [AITrans.Video](aitrans-video.md) — AI video translation and dubbing for long-form talks and interviews.
+- [AITrans.Video](aitrans-video.md) — AI video translation and dubbing for long-form talks and interviews. Freemium — free watermarked preview.
 - [Suno](suno.md) — text-to-song with vocals.
 
 ## Avatar
