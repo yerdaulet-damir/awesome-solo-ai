@@ -35,6 +35,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [superpowers](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/superpowers.md): plan-first TDD agentic framework. Open.
 - [workkit](https://github.com/ITW-Creative-Works/workkit): Claude Code plugin that runs GitHub Issues as a delivery pipeline, with skills to triage, spec, build, review and ship each issue and an agent crew that checks the work. Free.
 - [Context7](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/context7.md): injects up-to-date library docs to stop stale-API hallucination. MCP, Open.
+- [resume-claim-guard](https://github.com/yerdaulet-damir/awesome-solo-ai/blob/main/skills/resume-claim-guard.md): writes a job-tailored resume from confirmed facts only, then audits claims and previews interview follow-ups. Open.
 - Discover more: [awesome-claude-code](https://github.com/hesreallyhim/awesome-claude-code), [awesome-claude-skills](https://github.com/travisvn/awesome-claude-skills).
 
 ## Playbooks
