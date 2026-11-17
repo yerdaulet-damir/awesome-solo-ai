@@ -274,6 +274,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) that teaches Claude Code a repeatable workflow you can invoke by name. These are the trending ones solo builders install in 2026. **→ Full pages in [`skills/`](skills/).**
 
 ### Design & frontend
+- [DESIGN:OS CLI](https://github.com/jangtrinh/design-os) — FREE, source-available (PolyForm Shield) design CLI for Claude Code, Codex and Antigravity (npm `ease-design`, tested on v0.7.2): `ui init` adds `/ui:*` commands and skills to your agent, and `ui gate` checks the HTML it writes for layout, accessibility, taste and copy in one verdict. 🆓
 - [mblode/agent-skills](https://github.com/mblode/agent-skills) — Open-source collection of agent skills for UI audits, typography, documentation, PR review, and releases; installable with the skills CLI. 🔓
 - [ui-ux-pro-max](skills/ui-ux-pro-max.md) — design-intelligence skill: 50+ styles, 161 palettes, 57 font pairings, picks a coherent design system from one prompt. 🔓
 - [frontend-design](skills/frontend-design.md) — Anthropic's official skill that bans generic fonts and forces a deliberate aesthetic, killing AI-slop UI. 🔓
