@@ -264,6 +264,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [RestoSignals](https://restosignals.com) — finds US restaurants and bars 1-6 months before they open from public liquor-license, food-permit and business filings, scored with owner contact; remote MCP server and REST API, free API key. 🔌 🧩 🆓
 - [ScraperSocial](https://scrapersocial.com/mcp/) — public social media data (profiles, posts, comments, search, video transcripts) from TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms over one REST API or a remote MCP server; 100 free signup credits, then from $5/mo. 🔌 🧩
 - [PlaceCall](https://voygr.tech/placecall/) — your agent phones US businesses to book tables and appointments, ask questions or get quotes, and gets back the outcome, transcript and recording; remote MCP server and REST API, 250 free calls with a new API key (up to 25 a day on the free tier), then paid per outcome. 🔌 🧩
+- [GetYouTubeTranscript](https://getyoutubetranscript.com/youtube-mcp-server) — YouTube transcripts only: a public video's captions in every caption language (timestamps on request) from one request (no job to poll; around 800 ms typical) over a REST API or a remote MCP server at `https://getyoutubetranscript.com/api/mcp`; 100 free signup credits, then from $5/mo. 🔌 🧩
 
 **More MCP servers:** [docs, search, data, email, and deploy servers worth wiring up in 2026](mcp/trending-2026.md).
 
