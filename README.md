@@ -186,6 +186,7 @@ Spokesperson and presenter video from a script — no camera, no studio.
 - [Synthesia](https://synthesia.io) — enterprise AI avatars in 140+ languages for training and explainer video. 🔌
 - [Captions](https://captions.ai) — AI creator studio: avatars, editing, and dubbing for shorts. 🔌
 - [Argil](https://argil.ai) — clone yourself into an AI influencer for faceless content at scale. 🔌
+- [makeaicreator](https://makeaicreator.com) — design a consistent AI influencer from a plain-language persona; face-locked photos, voiceover videos, and product-placement clips. 🔌
 - [Tavus](https://tavus.io) — real-time conversational video avatars (digital twins) via API. 🔌
 - [D-ID](https://d-id.com) — talking-head video and real-time interactive agents from a photo. 🔌
 

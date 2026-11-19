@@ -100,6 +100,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Synthesia](https://synthesia.io): enterprise avatars in 140+ languages. API.
 - [Captions](https://captions.ai): avatars, editing, dubbing for shorts. API.
 - [Argil](https://argil.ai): clone yourself into an AI influencer. API.
+- [makeaicreator](https://makeaicreator.com): consistent AI influencer from a persona; photos, voiceover video, product placement. Paid.
 - [Tavus](https://tavus.io): real-time conversational video avatars. API.
 - [D-ID](https://d-id.com): talking-head video from a photo. API.
 
