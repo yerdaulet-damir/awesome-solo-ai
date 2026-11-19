@@ -237,6 +237,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [ScaleReach](https://www.scalereach.ai): turns long videos into vertical 9:16 clips with AI captions and face-tracking crop, and schedules them to social accounts. API, MCP.
 - [kdpbook.io](https://kdpbook.io): describe a book in a chat and get the Amazon KDP files (print PDF, full-wrap cover, Kindle EPUB, listing sheet); includes 2,000 free credits at signup, free-plan exports are watermarked.
 - [ImagineYourBook](https://www.imagineyourbook.com/): plans and drafts full-length books, rewrites manuscripts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
+- [Wavegrain](https://wavegrain.com): makes TikTok slideshows and Instagram carousels for a brand from its own photos, then schedules and posts them or exports a ZIP or MP4. Hosted MCP server at https://wavegrain.com/api/mcp (OAuth or access key; the agent posts only after the user confirms). Paid plans only. API, MCP.
 - [Drevon](https://www.drevon.dev): Mac app that runs Claude Code or Codex agents in a browser with your existing logins (LinkedIn, Sales Navigator, Reddit) to research prospects and accounts, with MCP connectors for CRM, enrichment and outreach tools such as HubSpot, Clay and Smartlead; results saved as CSV, JSON or Markdown. Free.
 
 
