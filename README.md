@@ -419,6 +419,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [ScaleReach](https://www.scalereach.ai) - turns long videos into vertical 9:16 clips with AI captions and face-tracking crop, and schedules them to social accounts. 🔌 🧩
 - [kdpbook.io](https://kdpbook.io) — describe a book in a chat and get the Amazon KDP files: print PDF, full-wrap cover, Kindle EPUB and listing sheet; includes 2,000 free credits at signup (free-plan exports are watermarked).
 - [ImagineYourBook](https://www.imagineyourbook.com/) - plans and drafts full-length books, rewrites manuscripts in the author's voice, keeps series continuity with a story bible, and exports EPUB, Word, or Markdown.
+- [Wavegrain](https://wavegrain.com) - makes TikTok slideshows and Instagram carousels for your brand from your own photos, then schedules and posts them or exports a ZIP or MP4; [hosted MCP server](https://wavegrain.com/mcp) (OAuth or access key; the agent posts only after you confirm). Paid plans only. 🔌 🧩
 
 ---
 
