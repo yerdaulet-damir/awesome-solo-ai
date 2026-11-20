@@ -256,6 +256,7 @@ Model Context Protocol servers let your agent *do things*, not just chat. These 
 - [Invompt](https://invompt.com) — drafts invoices and quotes from Claude, ChatGPT, or Cursor. You review each document before it is sent. Guest use needs no account. 🧩 🆓
 - [looot](https://looot.ai) — one API key and prepaid balance for 2,500+ data endpoints (work emails, phones, company enrichment, Google SERP, web pages) over a remote MCP server; pay per call, no free tier. 🔌 🧩
 - [Kleap](https://kleap.co/mcp) — hosted MCP (OAuth, 34 tools) and `npx kleap-cli` stdio server to create, edit, and publish websites. 🔌 🧩 🔓
+- [Ginta](https://ginta.app/website-builder-mcp/) — hosted MCP at `https://ginta.app/mcp` (OAuth, 19 tools) that publishes small-business websites with working contact forms, bookings, an online shop and a blog run by Ginta, live on a ginta.page subdomain; free plan, custom domains on paid plans. Closed source. 🧩 🆓
 
 - [VideoGen MCP](https://videogen.io/videogen-mcp) — create videos, generate media, remix projects and export MP4s; requires VideoGen API access and paid generation credits. 🔌 🧩
 
