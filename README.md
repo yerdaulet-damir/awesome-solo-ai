@@ -391,6 +391,7 @@ Building is half the job — this is how a solo builder gets users. **Where to l
 - [Reddit](https://reddit.com) — niche subs (r/SideProject, r/indiehackers) — and the #1 source AI engines cite.
 - [Indie Hackers](https://indiehackers.com) — community of solo founders sharing what works.
 - [Peerlist](https://peerlist.io) — launchpad and network for builders.
+- [RadarMakers](https://radarmakers.com) — free launchpad where indie products get upvotes, comments, and ratings on idea, execution, design, and value. 🆓
 - [startup-directories](https://github.com/saidbouig/startup-directories) — 214 startup and launch directories with what the free route gives, the measured link type and the date checked. 🆓 🔓
 
 **Grow & post**
