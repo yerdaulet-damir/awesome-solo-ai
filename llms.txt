@@ -94,6 +94,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Hailuo / MiniMax](https://hailuoai.video): cinematic video from text/image. API.
 - [Pixwit](https://pixwit.ai): multi-model text/image-to-video and image generation. Free.
 - [pitchboom.io](https://pitchboom.io): motion-design video ads from a product URL or brief.
+- [Twistavo](https://twistavo.com): character swap in real videos from 1 to 4 photos, plus many video and image models on one credit balance. Paid plans from $3.99/month.
 
 ## AI Avatars & Talking Heads
 - [HeyGen](https://heygen.com): avatar/spokesperson video from text; voice clone. API, MCP, Free.
