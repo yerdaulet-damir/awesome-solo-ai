@@ -177,6 +177,7 @@ Text-to-video and image-to-video — the tools creators use for shorts, ads, and
 - [Hedra](https://www.hedra.com) — character-driven video and expressive talking characters. 🔌
 - [Pixwit](https://pixwit.ai) — multi-model text-to-video and image-to-video with effect templates and image gen. 🆓
 - [pitchboom.io](https://pitchboom.io) — motion-design video ads from a product URL or short brief, with script, storyboard, voice-over and music.
+- [Twistavo](https://twistavo.com) — character swap in real videos: replace a person in an existing clip from 1 to 4 photos, plus AI influencer videos and many video and image models on one credit balance, with the credit price shown before each run; plans from $3.99/month.
 
 ## AI Avatars & Talking Heads
 
