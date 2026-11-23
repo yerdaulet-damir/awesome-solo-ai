@@ -289,6 +289,7 @@ A **Claude skill** is a reusable `.claude/skills` folder (markdown + scripts) th
 - [superpowers](skills/superpowers.md) — plan-first, TDD agentic framework (brainstorm → plan → subagent execution → review). 🔓
 - [workkit](https://github.com/ITW-Creative-Works/workkit) - Claude Code plugin that runs GitHub Issues as a delivery pipeline: skills to triage, spec, build, review and ship each issue, checked by guard hooks and a scout, worker and verifier agent crew. 🆓
 - [Context7](skills/context7.md) — injects up-to-date library docs so the agent stops hallucinating stale APIs. 🧩 🔓
+- [vibe-security-checklist](https://github.com/zColdWater/vibe-security-checklist) — MIT pre-launch security kit for solo AI builders: `.cursor/rules/security.mdc`, drop-in `vercel.json` & Next.js headers, Supabase RLS audit SQL, zero-dep local bundle secret scanner, and a free live scanner at [VibeShield](https://vibe-checker.appwrite.network). 🔓 🆓
 
 ### Official Anthropic skills
 - [Anthropic Skills](https://github.com/anthropics/skills) — `pdf`, `docx`, `xlsx`, `pptx`, `mcp-builder`, `security-review`, and more. 🔓
