@@ -177,6 +177,7 @@ Text-to-video and image-to-video — the tools creators use for shorts, ads, and
 - [Hedra](https://www.hedra.com) — character-driven video and expressive talking characters. 🔌
 - [Pixwit](https://pixwit.ai) — multi-model text-to-video and image-to-video with effect templates and image gen. 🆓
 - [pitchboom.io](https://pitchboom.io) — motion-design video ads from a product URL or short brief, with script, storyboard, voice-over and music.
+- [MiaReel](https://miareel.com) — zero-prompt image-to-video studio: one photo becomes a natural clip, plus 9:16 viral templates and Kling 4.0 motion control; 20 free welcome credits, $4.99 one-time pack, no subscription. 🆓
 
 ## AI Avatars & Talking Heads
 
