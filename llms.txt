@@ -94,6 +94,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [Hailuo / MiniMax](https://hailuoai.video): cinematic video from text/image. API.
 - [Pixwit](https://pixwit.ai): multi-model text/image-to-video and image generation. Free.
 - [pitchboom.io](https://pitchboom.io): motion-design video ads from a product URL or brief.
+- [MiaReel](https://miareel.com): zero-prompt image-to-video with 9:16 templates and motion control; free welcome credits. Free.
 
 ## AI Avatars & Talking Heads
 - [HeyGen](https://heygen.com): avatar/spokesperson video from text; voice clone. API, MCP, Free.
