@@ -162,6 +162,7 @@ This index links to source pages. Read the relevant page and current upstream do
 - [RestoSignals](https://restosignals.com): finds US restaurants and bars 1-6 months before they open from public liquor-license, food-permit and business filings, scored with owner contact; remote MCP server and REST API, free API key. API, MCP, Free.
 - [ScraperSocial](https://scrapersocial.com/mcp/): public social media data (profiles, posts, comments, search, video transcripts) from TikTok, Instagram, LinkedIn, YouTube, X, Reddit and 30+ platforms over one REST API or a remote MCP server; 100 free signup credits, then from $5/mo. API, MCP.
 - [PlaceCall](https://voygr.tech/placecall/): your agent phones US businesses to book tables and appointments, ask questions or get quotes, and gets back the outcome, transcript and recording; remote MCP server and REST API, 250 free calls with a new API key (up to 25 a day on the free tier), then paid per outcome. API, MCP.
+- [SoloRiff](https://soloriff.com/): remote MCP at https://soloriff.com/api/mcp (OAuth 2.1) for running B2B outreach from Claude or ChatGPT: find buyers, draft and preview email campaigns, read and answer replies, book meetings; sending, launching or spending returns a confirmation link. Starting credits, then pay as you go. MCP.
 - MCP registries: [Official Registry](https://github.com/modelcontextprotocol/registry), [Smithery](https://smithery.ai), [mcp.so](https://mcp.so), [PulseMCP](https://www.pulsemcp.com), [Glama](https://glama.ai/mcp/servers).
 
 ## AI Coding Agents
